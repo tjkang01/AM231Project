@@ -1,0 +1,3 @@
+Awesome class taught by experts
+Great introduction to particle methods (SMC, PMCMC, etc...) with a good balance between applied, methodological, theoratical papers. I learned a lot from this class !
+If you're interested in the current state of the art on particle methods, this is a great way to see the core of the literature.

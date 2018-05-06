@@ -1,0 +1,3 @@
+A great way to dive a little deeper into game theoretic models in IR, and to gain an appreciation for the breadth of a growing field.
+A great course for gaining intuition about the key formal modeling papers in IR. Really helped me understand the assumptions behind the models.
+Do not take the class unless you have a very strong interest in game theory or formal modeling.

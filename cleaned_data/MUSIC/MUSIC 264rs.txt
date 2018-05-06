@@ -1,0 +1,8 @@
+It is most beneficial/useful if you have experience in MAX/msp already or if you have a very specific idea for a project in mind already.
+Amazing way to open ears and to approach music in many different ways
+This is an ideal course for whoever wants to get deeper into MAX5 and learn to use the program in a musical way and in musical situations.  Also when you already have some knowledge of MAX5, the course offers you a lot of  "inside" information, tips, tricks, etc.
+Ideally you already have experience with MaxMSP, to get the most out of the course, and some knowledge in electronic/electroacoustic music.
+Expect to be challenged, yet encouraged. Previous experience with primary medium used (MAX/MSP) a huge benefit.
+If you're at all interested in using computers to make music, you should absolutely take this opportunity to study Max/MSP with Professor Tutschku. Not much in the world of music software is more powerful, flexible, or likely to persist than Max/MSP.
+If you are interested in Max/MSP and have no experience, definitely take this class.  If you already have a lot of Max/MSP experience, take advantage of the opportunity to help your classmates out and in so doing further your own fundamental understanding (teaching is the best way of reviewing?).  Also, find other students who are in the class who have max/msp experience and try working through higher level concepts with them.
+This is a good class for learning Max/MSP, especially more advanced approaches. It will take some getting used to if you don't have prior programming or Max experience, but it's well taught and the instructors are passionate about the material.

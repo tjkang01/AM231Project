@@ -1,0 +1,1 @@
+The class is good and does an excellent job of explaining the basics of digital logic and VLSI. I came away from the course with a much better idea of how computer hardware works.

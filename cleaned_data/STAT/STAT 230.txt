@@ -1,0 +1,23 @@
+It is a very good course, in introduction to high dimensional statistics, however, by the time constraint, it will not cover every aspects , or dive into one aspect deeply. It is basically an introductory course. Much more content can be learned in the book of Mardia.
+Rite of passage for graduate students in statistics, canonical material.
+You learn a lot of useful multivariate statistics. However, if you want to learn useful contents for you research, you may not get "cutting-edge methods in multivariate statistics". Even if so, this is still a great course for you to get familiar with linear with applications in classical multivariate analysis.
+This is a good class, worth taking, but it will not change your life or the way you think about statistics.
+Great course with canonical material. You will leave this course with a good general understanding of classical multivariate methods, as well as an introduction to some modern methods. I think this class is essential for any aspiring statistician.
+This class provides lots of intuitions behind the theories. It is well-organized and up to date.
+Overall, Stat 230 introduces students to multivariate data analysis. This area is crucial both for applied and more theoretical researchers. Many questions in the social/natural sciences and in statistics itself involve a multivariate component, and this component is in my opinion not emphasized enough in general. Stat 230 is a great class to get exposure to the material. Problem sets are challenging, but helped students gain mastery over the material.
+I loved how the course gave a very structured and interesting analysis of basic skills and insights in multivariate statistics. It is not a class that focuses on methods that you can apply immediately. But it gives you the statistical (including linear algebra) background and understanding to properly understand the basis of many commonly used statistical methods. It was not an easy class but I definitely didn't regret taking it.
+Stat 230 is one of the better courses in the department. More than anything, it gives you an excellent dimensional intuition, which is absolutely necessary for anyone working in statistics (theoretical or applied).
+Kou is dynamic, but the class is certainly challenging; great, intuitive geometric approaches to a lot of concepts. Make sure you have a solid foundation in linear algebra.
+Sam is an excellent professor, and this is an amazing course. It is one of the more difficult graduate level statistics courses I have taken, but it's worth it. The lack of a final exam takes off the pressure and allows you to focus on the material.
+Builds great intuition on multivariate analysis and introduces some powerful tools. Not necessarily required but very helpful and thought-provoking.
+The course is taught well, and the material is not only interesting, but also useful. The projects provide a great opportunity to deeply understand some of the topics.
+Definitely worth it to learn and gain fundamental intuitions behind key methods in multivariate analysis that are hard to find in other sources.
+If Sam's teaching this course, definitely take it. He's exceptionally clear and it's useful material.
+This is an excellent course. The content is quite relevant in terms of modern statistical research, and is taught in a really exciting and intuitive manner without comprising much on mathematical rigor. And trust me, the instructor is amazing !
+This is a great course and the material is interesting. However, it will be fairly challenging if you lack the proper prerequisites. Though it is possible to take a lot from the course without this background, don't undertake it lightly.
+Prof. Kou is extremely clear and organized.  You always know what's going on and will manage to develop great geometric intuition for a lot of multivariate problems by the end of the course.
+Professor Kou's lectures move quickly and a lot of care/preparation is needed between lectures do keep up with the material.
+A very good course!
+Very good presentation of multivariate analysis.  Very mathematical.
+If Sam is teaching it, take it.
+This is an excellent class, which I fully recommend.  You will learn a lot, and the subject matter is extremely important and useful.  I really enjoyed the open-ended nature of the course and the final project.  However, the class met Friday 2-5pm, which is not ideal.

@@ -1,0 +1,7 @@
+It is very useful for understanding how satellite measurements are analyzed.  It also provided a good understanding of spectroscopy.
+The projects in this course are excellent for learning the fundamentals of satellite retrievals. Use them as an opportunity to develop your coding abilities too... preferably Fortran.
+You may have to be very self-motivated and conscientious because you may not be able to get much out of the lectures (i.e. self readings are very important).
+You will get a lot out of this course if you are prepared to do a lot of outside reading in order to keep up. You will also learn how to write a fairly basic radiative transfer code.
+This class requires you to be proactive but is worth it!
+Take this course only if you really need it. As this course was taught in Spring 2014, it was absolutely painful to sit through. The assignments will allow you to learn the material.
+The class isn't clearly structured and topics are covered in various amounts of detail, but it will definitely bolster your understanding of spectroscopic concepts if you find your own textbook and use the class as a supplement to self-study.

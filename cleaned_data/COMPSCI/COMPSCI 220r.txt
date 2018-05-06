@@ -1,0 +1,42 @@
+The class material is definitely difficult, so please don't be hesitate to ask questions during lectures and during Office Hours.
+Put in the time; see what the specific topic is.
+Mark
+this is a fun and interesting course, painless
+The class isn't difficult, but is fun and interesting.
+This class is painless and enlightening. Compared to other classes, the material is exciting and relatively new.
+The course material is fairly interesting and lectures are enjoyable.  What you learn is not altogether useful, however, unless you're planning on pursuing research in a related field.  It is also not very challenging.
+Rabin is a wonderful professor and the material is very interesting.
+The class is pretty challenging but has very interesting material presented well.
+I really enjoyed the course and would love to take another course with Prof. Rabin.
+Aha!!!!
+If you take the class on Differential Privacy be ready to have a very good background in statistics and statistical proofs. You may be familiar with CS121 or CS124 kind of proofs that this may be not enough to do well in 227r problem sets. And if you take this class, make sure to go to office hours frequently - they are really helpful in getting through the material.
+Cynthia is passionate about the material and students, being the founder of this field. However, professorship and teaching a course is new to Cynthia, so in this first iteration of the course her presentation sometimes contains errors or is not fluid. She also needs time to converge to a realistic workload for the class. This year the 3rd problem set left little time to work on the project.
+Good courses if you want to learn more about various methods applied in the Differential Privacy area of research.
+Michael Rabin is a great professor to have whenever he teaches a class.
+Material is ultimately not difficult, but getting used to Rabin's style is -- that was the major barrier in this class.
+It is a really good course, unless you are scared by a lot of math.
+You will learn a lot of interesting material in cryptography. Professor Rabin is an excellent teacher. Just be prepared to teach some of the material to yourself when things get a little confusing.
+This course is a good way to practice the cryptographic mindset, and see interesting topics in applied cryptography.  If you are looking for a rigorous introduction to the foundations of cryptography I recommend looking for a different course.
+Lectures are difficult to get through, but the material is interesting.
+Great class, Professor Rabin is a great lecturer, funny, and produced many of the topics covered in the course himself.
+Amazing class, and Rabin is Awesome!
+Cryptography is interesting, well taught and the problem sets are really fun. Do not miss!
+It's a great course with a great professor and lots of interesting material. (Prof. Rabin always refers to himself as "R" when citing the inventors of an algorithm... as you would imagine it comes up a lot.)
+This is an awesome course, taught by a great professor. When I was taking the final, I realized exactly how much I had learned - unlike other class finals, which I could probably complete in a reasonable amount of time given Wikipedia, I could not have finished the 220r final without having taken this course. I have learned *a lot* this semester, and all the information was extremely interesting. It's the kind of stuff that even your humanities friends will think is cool if you explain it to them. Plus, Rabin is just so insanely cool and hilarious.
+I think this may be the last year Prof Rabin teaches this course, so in future courses YMMV.  But Rabin is an amazing lecturer, and learning crypto from one of its founders is a unique experience.
+If Prof. Rabin is still teaching this, it's a great class to take with him. If not, it's still a good class if you have some background and are interested in the material.
+If you have the opportunity to take a class on a topic this interesting from a Professor this good, you should take it. Recommend to anybody who doesn't mind some math in their CS.
+The course covers a bunch of pretty cool topics, and the pset questions are fun.  Although the beginning of the course is pretty slow for people with a strong math background, I enjoyed the class overall and feel like it gave me a good exposure to topics in cryptography.
+This is an interesting course of only moderate difficulty (definitely not at the level of other graduate CS courses, provided that Rabin is teaching it), and the knowledge you'll acquire is worth the relatively small amount of time you'll need to be put into the course.  If you want a really solid background in cryptography, or are more interested in theoretical aspects, then a more rigorous course at MIT would probably be a better option.  But if you just want to get a sense of how cryptographers think about things, and/or learn about some cool applications, this is a good course.
+It is the best crypto class you will take.  Plan on starting the assignments early and discussing the solutions at a high level with your peers.  Group work is crucial for this class.  Take very good notes.  You will need them.
+The course moves at a slow pace, so it is easy to miss the key ideas because it is easy to zone out.
+It's interesting, it's Rabin, it's not too much work.
+If you aren't comfortable with number theory it will be very difficult in the beginning.
+One of my favorite classes ever!! The material is interesting, the homework and exams are not too difficult, and Rabin is a really interesting and funny guy - and he invented half the material that he teaches (but is really modest about it).
+Professor Rabin is brilliant, though at times difficult to follow.
+This class provides a basic introduction to cryptography as it's meant to do. It introduces you to thinking "adversarially" and goes over the basic techniques used in several relevant protocols and proofs. However, for those who are skeptical because it's marked as a graduate class, don't be. The class is relatively easy (I'd say easier than most undergraduate CS courses) and requires only a small time investment. Rabin also makes it a point to go over the math before he uses it in an effort to make it self-contained, so you don't need to be particularly good at math to take the course. Lectures can sometimes move slowly and spend too long covering a single topic, but Rabin obviously knows the material well and does a pretty solid job imparting that knowledge. Also, the name "220r" is misleading because there's no paper reading involved.
+Prof. Rabin's lectures are worth taking the course for.  You wil learn things you cannot learn from anyone else.
+Professor Rabin is brilliant and it was a pleasure to take the course with him. There aren't lecture notes so you have to pay attention or at least take notes. Most of the material you can google, but notation might be different from Rabin's, some hasn't been published yet. Try to find someone in the course to type up notes for everyone else.
+This class was incredibly interesting. Rabin's lectures take a bit of getting used to, but this class is definitely worth the effort. However, it is very theory based, so don't expect any practical applications to be taught in class.
+This is a course you learn things you could not understand was possible before you took the course.
+Lectures have been inconsistent; can't speak for the next professor, but definitely collaborate on taking lecture notes to help each other understand concepts.Some assignment answers are google-able, but others are not.Office hours will become very important.

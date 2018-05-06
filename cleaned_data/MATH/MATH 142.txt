@@ -1,0 +1,3 @@
+Very disorganized. Only take if you really like the subject matter.
+Psets are challenging. You learn a lot of cool material.
+Descriptive set theory is the logical analysis of definable sets of reals.  This class starts by reviewing topological notions and then works through the structural theory of the Borel sets and the initial levels of the projective sets.  If you are interested in the intersection of point set topology, definability, and set theory, you must take this course.

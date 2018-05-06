@@ -1,0 +1,35 @@
+This was my favorite class in my 1.5 years here. The material is super useful, and the notes are flawless. I recommend this class to anyone who is doing research in statistics. The mid-term and homeworks were challenging but worth the effort.
+Use the notes. The material is amazing but the professor is a pure researcher and does not belong in front of a class
+Recommend because the material is fundamental... but it's not a good class. It could be taught much better.
+The course material is important. The course itself is fine. Not much reason to go to class; the notes are all you need. I definitely feel much more comfortable working on modeling problems formulated in matrix notation. Not too much work.
+This class covers incredibly useful material but you may need to brush-up on your linear algebra before starting. If you learn well from textbooks, you can skip class and simply learn from the class slides on your own time.
+Course material is relevant and interesting if you are planning to pursue a career in statistics or machine learning. However the instructor is not energetic enough to invoke the interest in the material. You are better off studying the lecture notes by yourself.
+Don't bother with class, just read the notes.
+The material is important and interesting; however, the class itself is poorly run.
+Excellent for learning the mathematical basis of regression and related methods.
+Take this course if and inly if you are interested in methods on dimension reduction and if you like linear algebra.
+Only take this course if it is taught by someone other than the professor this year. If you know regression - skip this course, it will just confuse you and it is a waste of time.
+The lectures are boring. The slides are great. The material is important, interesting and useful.
+Avoid.
+Lots of work, but Bob Gray's expectations are at least consistent.  The course content is not taught well --- again, we look at trees all day, and never talk about the forest.
+be prepared to live in BOBBY'S world
+Be prepared to work a lot and teach yourself a lot of the material.
+This course is a considerable amount of work, but is incredibly useful for an aspiring statistician.
+It is essential to review linear algebra before taking this class.
+Be prepared to write down what's on the board in class and then look at it later; it's often hard to follow during class.
+If you would like to understand the theoretical concept behind regression, this class is enlightening.  If you think regression is useless, then you will find yourself frustrated for the entire semester.
+This is a great course. The material is really advanced so please be prepared to feel stupid as the instructor teaches! You should certainly review some linear algebra before beginning the course! If not, you will make this course really hard on yourself!
+I enjoyed the class and got a lot out of it.  It will serve as good prep for the qual and reviews topics in probability and methods I.  Tianxi and Jen did a great job, although Tianxi moves fast and it is good to not be shy and ask her to questions.
+It's cool. You'll have a deeper understanding of regression, and learn about methods for high-dimensional data (second half of the course). Assignments are reasonable.
+This is a great course.It provides a nice review of classical linear models and also gives an excellent introduction to the modern regression methodologies like Lasso, SCAD etc. Tianxi is a great instructor.She is very energetic,always open to questions and discussions inside and even outside the class. And last but not the least, the homeworks are not too frequent and/or burdensome.So all the more reasons to take this course !
+This course is to prepare you to do research.  So, you need to take a lot of initiative yourself to explore some of the materials.  The materials only make sense if you are willing to spend the time to read about it yourself.  Most of the materials are not in any textbooks.
+The first half of the course is very mathematical. It looks at linear regression from geometric point of view (projection and such).The second half introduces you to concepts in modern statistics, like multiple hypothesis testing and regularized regressions (LASSO, ridge, ...). These are very important topics in statistical research today, and everyone who cares to practice statistics in the 21st century should take the course.
+good to have strong linear algebra skills, expect that Tianxi goes fast, but don't worry if you don't understand 100% during lecture.
+Only take this course if you are a)in the Biostatistics PhD department b)a super theoretical math whiz.
+This is a very difficult and time consuming class.  Tianxi is great though, I just wished she slow down!!!
+Very useful class. Tianxi is a great professor, though you have to constantly remind her to SLOW DOWN.
+It's a difficult course but definitely worth it and if you are willing to put in the time, you will be successful.
+It gives you a deeper understanding and new perspective on regression
+The lectures are very dry and boring, but on the other hand they are very clear and detailed. The slides are very thorough on their own, but so dense it might be hard to read them without attending the lectures. Take this class if you want to understand the full theory of linear regression, and solid amount of machine learning stuff too (lasso, SCAD, cross validation, etc). Don't take it if you only want to know how to apply various predictive models. Make sure you are very strong in linear algebra before the class, and get a copy of Hastie/Tibshirani... Elements of Statistical Learning for the second half of the class. It is a useful supplement to the lecture slides.
+It is very helpful for understanding statistics.
+This is an essential course on the theory of linear models and modern regression methods including LASSO, PCA, etc.  It also helps develop familiarity with techniques to solve analytical and computational problems in these areas.

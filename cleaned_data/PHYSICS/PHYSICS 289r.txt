@@ -1,0 +1,8 @@
+Arthur Jaffe is a deep thinker and masterful lecturer. Even the most discriminating of students would appreciate his lecture topics and their presentation.
+A cool and interesting course exploring some of the underlying formalism of Quantum Field Theory.
+I would recommend taking this class if you would like to see a new perspective on quantum field theory (different from standard QFT textbooks).
+The tradition witnessed here, of mathematical quantum field theory and in particular constructive quantum field theory, has been linked to Lyman since the 1960s. It is by no means a tradition that is closed -- certainly, I felt welcome there, though I was an unfamiliar face.
+Take your senior year.
+N/A
+if you are interested in learning about the more formal aspects of this course, Jaffe is a great resource. To really learn the material though, the lectures are not sufficient; you'll probably get lost unless you supplement the lectures with lots of outside readings.
+Some people find the material too arcane. Constructive field theory is mostly math --- and there is very little 'physics' you do in class. While Jaffe is fairly complete in his treatment of the material, the lack of reference material or textbook can be frustrating sometimes. In terms of workload, we had only four psets without any tests. So if you are looking an interesting class with little workload, this might be a good choice for you.

@@ -1,0 +1,3 @@
+It's a great opportunity to deepen your understanding of statistical concepts, expand your repertoire for data exploration and robustness checks, and learn or improve your skills in R. Lectures are well crafted and engaging and problem sets are very useful.
+In this course, you'll go into greater depth on many methods you've already learned, and pick up some new ones. In general, the class promotes a really great approach to research: the goal is to understand/learn from the data, rather than just running some regressions and interpreting the results.
+This is a great course for learning R and more rigorous methods for data exploration and analysis.

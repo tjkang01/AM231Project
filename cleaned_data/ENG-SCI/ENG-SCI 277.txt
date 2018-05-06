@@ -1,0 +1,6 @@
+Ask what background information is expected in the beginning of the class.
+This class is very useful if you want to go into fabrication and material science. It is also a useful class in general if you want to have a deeper understanding and appreciation for microelectronics and cleanroom tools.
+The best thing about this class is how it builds up upon knowledge developed earlier in the semester. This gradual build-up is very satisfying and allows you to really understand the fabrication processes you're using.
+Good course! Not difficult, but you can learn a lot.
+Great class! Love the teaching staff
+The great thing about this class is how well everything fits together -- Evelyn's lectures timed perfectly with the labs, and Peter's pre-lab mini lectures giving additional insight.The material builds on itself, which makes learning feel natural and fun. For example, we learn a process step in each lab: lithography (Lab 1), doping and metallization (Lab 2), lift-off (Lab 3), oxide formation (Lab 4), and so on. Each lab uses the process steps learned in previous labs, coupled with one or two new steps, to fabricate a cool device like a MOSFET transistor or a blue LED!

@@ -1,0 +1,113 @@
+It made me understand my theoretical physics courses better.
+Start working on the homework early! It's often more time consuming than you might think. Try to work on all numerical analysis alongside with analytical results It's definitely useful.
+work hard
+it's a great class, the material is excellent, and it's engaging...but the workload is very significant
+The material itself is pretty cool. You get to learn cute tricks that will allow you to come up with analytic approximations to "impossible" problems such as roots of polynomials, ODE's, and integrals. However, lectures are generally difficult to understand; usually it's best to refer back to the lecture notes and go off them. The course was not organized very well, mainly because Avi and James were both new to the course, so I don't know how it'll be next year.
+This class has the potential to be exciting and enjoyable. It does require a solid background in math, particularly differential equations and complex analysis, and knowledge of computational software. Problem sets are a huge time commitment but you do work in groups and it's certainly rewarding when your approximation is accurate.
+In addition to technical material, this course teaches students to use Matlab, to plot nice looking graphs, and to write in Wiki / LaTex, which are each useful skills.
+This is a very good course for learning the basics of analytically approximating difficult problems in mathematics. For example, you will learn to find approximate solutions to differential equations, integrals, and the roots of polynomials. When I took the course, it was not very good for learning a lot of MATLAB or Mathematica, or for learning numerical integration techniques as the syllabus claimed. For the latter, you will want to take AM 205 (Advanced Scientific Computing).
+It was a fun class, I enjoyed working on the PSETs in groups, and I learned how to use MATLAB.
+This was a pretty interesting course. I hadn't studied complex analysis before, so it was a good introduction. Improving my mathematica/matlab knowledge during the problem sets was very useful, too. I'm not sure if my research would exactly intersect with the course material, but the skills that I learned for approaching the problems are useful and transferable!
+There are better classes out there that you may want to take.
+Interactively mathematics!
+While the material is useful, you can probably learn it just as well on your own.
+Good class to learn how to solve problems using realistic approximations and numerical methods.
+This course is eye-opening and incredibly useful. Regardless if you will be doing theory for the rest of your life, this teaches you how to eek out the important information out of any commonly seen mathematical structure (i.e. polynomials, integrals, diff-eq's, PDE's, etc.). It teaches you how to make approximations to problems that would otherwise be impossible.Most importantly, this course teaches you how to effectively combine analytic work with simulations. This is an extremely useful skill, one that will become increasingly important in the future.The lecturer for this course is somewhat irrelevant as Brenner's notes are so good, you can teach yourself everything.
+Very useful course for building intuition about problem solving. The course environment is also very relaxed and therefore conducive to learning.
+This class is really great for learning new ways to think about mathematical and numerical problems. Too often does research involve writing numerical simulations without understanding what is going on in the problem. This class will help you simulate with a purpose.
+The material in the course is what originally drew me to it: I wanted to learn how to take difficult problems and break them down into intelligible conclusions. I definitely got better at that, so in that sense the course is worth taking. The workload and difficulty are both manageable. However, there will sometimes be fairly long and hairy computations in lecture. Be ready for those if you are interested in taking this course.
+This course is very practical.  I would highly recommend it to all engineers.
+Good basic math class for approximations
+Some of the parts are quite useful while others are mainly extensions of them.
+This course can be challenging because it uses techniques you may have been exposed to years ago and assumes you have used them daily since. Reviewing old material (ODE's etc) will be beneficial; definitely attend section.
+This is a great course if you want to develop an intuition for approximating complex ODEs/integrals/polynomials. It's actually surprising how well some of the methods work despite how simple they are and it's especially cool to see it being applied to some application which you'll see for the final project.
+It's fun to see how well you can approximate solutions to different problems.
+This course was amazing! While the actual techniques you learn are pretty simple, they are very powerful - you can do a final project in any branch of physics (mathematical biology, economics, etc.) that has complicated equations and say interesting and new things about it using the methods of the course. The problem sets can be time-consuming due to having to work through more complicated examples than done in class, but they help solidify the material and are in general not very difficult. And you can always tell if you have the right answer by checking it against numerics. This class is about using analytic and numerical techniques together to approximate complicated problems in useful ways - this is an absolutely indispensable skill for any field that uses mathematical models. Also Professor Mahadevan is an excellent teacher who explains the concepts clearly and thoroughly. Definitely take this class!
+In this class, you'll learn about a range of analytic approximation techniques.  They'll help you to see scientific equations as useful descriptors which can be manipulated and simplified with the right know-how.  You'll probably come out being more comfortable coming up with and using approximations in general.
+Helpful introduction to techniques that most likely could be applied in your research.
+It starts out simple, though becomes more complex and theoretical
+Don't underestimate the problem sets! They usually take much longer than expected.
+You learn how to estimate roots and integrals and ridiculous differential equations.
+It can be difficult to follow and the homework is quite time-consuming. The course would be helpful to those who want to learn how to approximate many different kinds of equations.
+This class was absurdly diffficult and time-consuming, at least for someone like me who isn't in applied math. Problem sets (there are ~5 over the semester) take several days to complete, more if you actually want to comprehend them.
+The lectures are good while you're there, and you'll get a good big picture understanding of the math. Applying what you learn to the PSets was a painful process, especially because they were prone to having errors. Don't take the paper too seriously until later in the semester when you're more familiar with the course material you need to apply to it.
+awesome class, you get to learn very useful techniques for physics. clear lectures and course notes and only 5 psets all semester!
+The work load in this class is very fair.  Prof. Brenner really cares about making sure his students learn the material and I highly recommend taking this class with him.
+Michael Brenner is an excellent professor. This class is very broad, but it will help you look for approximations.
+I took this course hoping to get a little review of important math concepts like differential equations that had become rusty. I learned quickly however that this is not the focus of the course and any review of math that I did was done individually. The course is focused on NOT using these typical methods to solve problems, but rather using numerical methods and approximations with the aid of computers (MATLAB, Mathematica). Also, it would definitely be helpful to know at least some MATLAB prior to taking this course as it is used a lot, although they are very open to answering questions and do not assume you have previous experience, so you can always just ask a lot of questions if not. Homework is done with a partner or two and posted on a wiki which seems a bit unnecessary at times, but a benefit of this class for me was learning how to use LaTeX so I didn't mind too much. Overall, Professor Brenner is very friendly and enthusiastic, so the course is fun and hopefully now if I run into some tough equations in my research, I will be more confident about tackling them!
+The homework takes a lot of time...
+It will change the way you approach problem-solving using a computer.
+If you take AM 201 / You will work; you will have fun // For problems worthy of attack / Prove their worth by fighting back // But mathematicians worthy of Michael Brenner / Prove their worth with courage beyond measure//In all seriousness, this is a great class and well worth one's time.  Be aware that there are only 5 psets, but that you definitely do not want to start them the night before.
+Don't underestimate the time needed to do the homework.
+That it is a great course to have when pursuing research and that you do not need to know any computational programs going in to the class. What you need to know for MATLab is thought in the class. Not having computational background should not keep you from taking the class.
+AM 201 introduces you to a whole new way of thinking about mathematical problems that might arise in your research.  Once you become comfortable with the idea of "solving" equations through careful approximation instead of analytic methods, this course will teach you how to approach and understand most equations you will encounter, regardless of their complexity.  Furthermore, the teaching staff is highly enthusiastic and willing to help.
+The class is an experience in how to think about unsolvable physical problems. It does a great job in teaching you the tools, insights, and methods. The prerequisites are unnecessary; I took only 105a and came out finding the class completely reasonable. It is set up to work well for particularly busy undergrads (i.e. seniors). Nonetheless, I would recommend that you take more math and physics courses before taking this one so that you can appreciate it all the more.
+One of the best math courses you will ever take! Just make sure you set aside enough time to tackle the assignments and work closely with the members of your group
+This course tells you 'Never trust a applied mathematician'. :)
+I look at differential equations completely differently after having taken this class. This class provides an extremely useful toolbox, and a way of thinking about differential equations that will be useful for the rest of my career.
+It's a good class for motivating the discipline of applied math.
+Smart teacher talks about smart ways of approximation
+Very enlightening course on seemingly complicated math, but does require possibly lots of effort depending on mathematics background - and that you shouldn't trust applied mathematicians
+nothing
+It's not like undergrad courses.
+Don't take this course expectign to learn generally helpful things. Look over the syllabus and the course notes and see if you're actually interested in the specific types of methods / problems covered. Otherwise you might be unpleasantly surprised that it isn't that useful for you.
+Take this course and you will understand numerical methods in physical science with supporting background theoretical ideas.
+This is a great course if you want to get familiar with how to approach and attack numerical models. You get a solid set of useful tools for analyzing difficult equations.
+Best math class that I have ever taken.
+It gives you good math skills, plus it's a fun ride because it's very interesting!
+The course was great.  Professor Brenner brought a lot of enthusiasm for the subject to the class.  The wiki-based format for the coursework was time-consuming and sometimes frustrating, but it was a unique experience and an effective way to learn.
+It is better to take this course with Fluid Mechanics, because the instructor has a strong fluid mechanics background and you will have many real examples of application. Also, it is better to research experience otherwise the final project will be difficult for you.
+A very useful and applicable course for the physical sciences.
+Useful but occasionally painful.
+Prof. Brenner is a caring and enthusiastic instructor.  My only reservation would be the modification of the hw system.
+Reality is on-linear. If you are serious about modeling real phenomena this class is for you.
+The class is very well taught and the exciting for a math course.  However, I would not likely use many of the techniques taught in my research.  This class is very useful for some disciplines, but not for all.
+Great professor, learned a lot of useful methods.
+Have fun!
+Work in a problem set group with people you see on a regular basis.
+It's amazing. Take it. Professor Brenner is one of the best teachers I've ever had. It's incredibly useful and applicable.
+It teaches you how to solve real world math problems, unlike other math classes.
+This class will change the way you do math.  Take it before you take any other graduate courses.
+AM 201 is a wonderful course for the student that truly loves tinkering with mathematics. Many of the problems offer a nearly unlimited degree of refinement. However, if you are mathematically faint of heart this course can easily be overwhelming. I recommend it to the real math lovers and caution those that need it as a requirement that it will be time consuming and difficult.
+You shall walk in as a boy; you will walk out as a man.
+A math class that is actually interesting and very practical.
+Be prepared to work.
+This course frees you from many mathematical prejudices people pick up throughout their secondary and post-secondary education.  You learn how to attack seemingly intractable mathematical problems with confidence.
+take this course earlier rather than later-- the things learned here will make other classes much easier/clearer
+This is a really great course, and presents excellent material on how to meaningfully analyze difficult mathematical equations and systems.  Some appreciation of unconventional technical innovation is required, and familiarity with the idea of open online discussion and forums.  Problem sets and exams are extremely straightforward.  Professor Brenner's lectures are fantastic, always interesting and informative, and never boring.
+This course is time consuming but I highly recommend it.
+A great class that teaches you a lot about how to think about the integrals that Mathematica can't do for you.
+You get out of this class what you put in. You can take it easy and not put much work into homeworks, and still do ok. But if you work on them and get interested in the material, there's plenty of great stuff to be learned that could benefit you and your research.
+This course is a lot of work, but you are rewarded by learning a lot.
+This class taught me how to approach crazy equations I would have avoided before--especially integrals, ODEs, and PDEs, as well as some tools for creating acurate approximations for involved calculations.  Incredibly helpful class.
+this class is about approximation methods.
+It's a good class to take. One learns of interesting techniques to tackle a wide array of problems in applied math. After taking this class the stigma has been lifted off of carrying out numerical computations
+You will learn that solving a mathematical problem can require a no-holds barred approach
+This course might be useful for a small group of students. I think most students need classical methods (which are out of the scope of this course except very surface review of complex variables). I think the department should not recommend this course to all students.
+You should take this course. It makes you more strong with mathematical skill set.
+Do not take more than 1 courses concurrently with this one if you intend to get any of your own research done during the term. Read up on complex variables, and refresh your memory with differential equations in general.
+Take this class if you would like to learn how to solve relevant mathematical problems with practical, modern methods.
+Prof.Brenner is great. The course is quite fast-paced for students without a solid background in differential equation and advanced calculus. But you'll learn quite a lot.
+Fun material and approach, but class becomes pretty disorganized toward the end, so be prepared to work things out on your own.
+Get ready and hold on. Michael Brenner teaches on turbo mode. You might not catch everything in the whirlwind, but hopefully you end up with something.
+I am an applied physics/engineering graduate student, and there have been a few rare math classes that allow me to Really (with capital R) think differently about All of the science I read and to even understand more deeply all the physics I learned previously. This is one of those courses.
+Very interesting, and you can really learn something from this class.
+This course is about all the things in applied mathematics that you are always expected to know, but are never explained in detail. Some aspects of this course will be very useful to you, regardless of your field.
+The material is highly versatile, the techniques taught are powerful, and the presentation is outstanding. Prof. Brenner is so entertaining that I actually looked forward to class as I would look forward to watching avant-garde theatre, and his philosophy on applied math is tremendously liberating after years of being bludgeoned with bessels and analytic solutions the length of your arm. He allows you to choose what you learn and get excited about so you can feel a sense of ownership of the techniques, as opposed to the traditional teaching method of having the techniques own you.
+This course teaches you many things that could be useful for a future career in science or math.
+This is a great course in teaching you how to cope with difficult equations.
+have to choose the right teammates
+This class is interesting, and Brenner is great, but it will kick your butt.
+It was an interesting course taught by a very enthusiastic professor. The topics covered were quite diverse and would be applicable to almost any concentration, but you should definitely be prepared to work hard on the homework sets.
+This class is all about taking a difficult equation, making approximations so that some terms can be ignored and showing that these approximations make the problem solvable, but still provide a good characterization of the behavior of the initial equation.  The class is worth taking, but can become repetitive and less interesting after your grasp the main concept.
+Class will be most useful if you use mathematical modeling in your research. Also, be sure you start your project early and define a reasonable problem with the instructors well before the due date.
+AM 201 is a pretty good course without an excessive workload. All the psets are done in groups. My only criticism would be the lectures -- they're very disorganized, and often you're better off just reading the online notes.
+Applied Math 201 is an introduction to approximation methods with a focus on their applications in the sciences.  The workload was very reasonable.  Even during the semester I took the class, I found that the topics we learned helped me with my physics courses and directly impacted my research.  I would definitely recommend the course to students interested in theoretical physics.
+This is a great course! AM104 and AM105 are not really prereqs. Mauricio and Avi are great lecturers. I never felt stressed because of this course and yet learned a lot.
+This is a great class to take if you are interested in getting to know how to use dominant balance to give good approximate solutions to problems that are hard to solve exactly otherwise. It is also really fun to work on psets in groups.
+As an undergraduate I felt that this course was extremely accessible with Avi (Shapiro) and Mauricio (Santillana). The course is very self-contained and although they recommend differential equations and complex analysis, Avi and Mauricio taught everything that was needed from the prerequisites anyways. The course can essentially be called "Dominant Balance I." You learn a bunch of methods and theory but the ultimate takeaway is that you can APPROXIMATELY solve or check for any answer to any difficult problem using dominant balance and apply simple techniques to improve the answer.
+Useful stuff, although lectures were super boring...
+Work load is kinda heavy, mostly group work for problem sets.
+I would tell students that it is not as useful as it sounds! I definitely would not take this as a great useful math class that will be super helpful later on. I don't really think it will be that useful for me. It was an okay class, but if I were to only take one math class I think I may prefer to take a different one.
+This is an introductory course with a lot of chance to apply what you learnt to real problems.
+The techniques you learn since simple, but they are pretty powerful and useful.

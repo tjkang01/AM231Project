@@ -1,0 +1,31 @@
+This class is quite a bit of work but you will learn so much that when it is all over you won't regret it. Every statistician should learn how to take expectations using measure theory, and what a sigma-field is, and how to define a probability measure. It is the essence of the methods that we use everyday!
+This course is tough but worthwhile to take. Even though I don't do very theoretical research, I found it useful to see the big picture and learn the topics presented in this class.
+This is a rigorous course in measure theory involving fundamental concepts and results that are essential for understanding theoretical results in statistics.
+The course is really tough, and there is a lot of class participation, so be prepared to make lots of mistakes.
+A strong background in analysis is necessary before taking this course.
+Lorenzo cold-calls people in class, which was terrifying at first but actually ended up being for the best. By the first week, every single person in the room said something that made no sense, which stripped away ego and really created a level of comfort in the class that allowed for learning. This material is very tough, and you should take advantage of Lorenzo's genuine willingness to recap things until you understand it more clearly.
+This is the best math class I've ever taken.
+Not an easy class, but definitely worthwhile.
+This class will be a LOT of work, but if you are willing to work at understanding the proofs, you will learn a lot as a result.
+Bring your Rosetta stone --- extracting the mind of Lorenzo from his words is a true labor.  Also, expect the whole class to feel like extra credit --- expectations are not emphasized, but the final day of reckoning does indeed come.
+A very difficult course, but incredibly informative.  I came back to grad school to get a solid theoretical basis behind the tools I use, and this class was very effective to that end.
+Be sure to review real analysis, you'll need it!
+The course content in itself is very nice given that you are interested in such things.Also,having a strong mathematical background including sound training in analysis, set theory and elementary probability theory is going to do you a world of good as you should expect some abstract mathematical set up and challenging theoretical problems throughout the course !However,according to me,as a graduate student in statistics or related fields,people must at some point of time take a course on measure theory as it gives them a sound background and a deeper understanding of probability theory. And talking about taking a such a course, I would definitely recommend this course as an option.
+It can be frustrating at times; probably only worth taking if you're comfortable with a high level of mathematical rigor.
+This course is not for everyone, but is necessary for some research areas. A background in pure math is very helpful, but I think that almost all students can take this course if they do some prep work. Billingsley is an excellent textbook--students should make the time to read it. Not having had any exposure to measure theory prior to the course, I found it helpful to work through Brzezniak's "Basic Stochastic Processes" to get familiar with the basics of sigma fields, conditional expectation, legesgue integrals and so on.  I would definitely recommend that students who don't have a background in measure theory do a lot of exercises like those in Brzezniak before the class starts so they can struggle to understand the more abstract material and not get stuck on the basics of how to calculate things.
+If you miss the rigor of undergraduate mathematics not found in many other courses at HSPH then this is a challenging course you should take. If not, then do not take this course.
+read the book & course materials, no need to attend class to get good grade
+Deals with already encountered concepts more abstractly.
+Although material covered in the course probably will not be directly applicable to most students research interests, I believe it is a necessary foundation of theory.
+Students with weaker math backgrounds should avoid this class.
+This course is very difficult, but the material is worth knowing for a statistician.
+It is very difficult, if you do not have the proper background. The motivation for the material is not clear.
+this course is not required, and takes a lot of time.  most people don't use the material very often, so your time is better spent elsewhere.
+This course provides a rigorous mathematical treatment of the concepts which underlie probability, including: random variables, distributions, integration, and conditional expectation. The material is challenging but rewarding once understood.
+The material is very challenging, but the way the course is structured (exams, minimal homework, great labs) makes it manageable!
+Am i ever going to use this material? Probably not. But i did learn things.
+Strongly encouraged for Biostat PhD students. The concepts are challenging, but Lorenzo does an superb job motivating them and providing the intuition behind this otherwise-abstract subject. Good for qualifying exam preparation, too - I understand convergence and stochastic processes much better for having taken it.
+It will be confusing and you will struggle, but it is interesting and important and not too difficult to complete.
+This class has an unusual format that involves more mandatory class participation than a typical class.  If you can handle that, it actually makes the learning process more engaging, interesting, and efficient.  I was hoping to get a working understanding of basic concepts in measure theory, and I got it without spending hours and hours on homework every week.
+The professor is very unclear in the lectures, but if you focus on just gaining an intuition rather than a precise understanding, it can be worthwhile. The textbook is very difficult, I recommend looking at Rosenthal's book as a supplement.
+It's a good class--be prepared to be asked questions during lectures, and making mistakes in answering. Learn the lab material well, and your fine.

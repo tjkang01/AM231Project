@@ -1,0 +1,3 @@
+Course provides you with the ability to construct, fit, and evaluate pharmacological models using the SimBio extension of Matlab.
+TAKE IT! You will ACTUALLY learn to use the program.
+I would recommend this course to anyone who are interesting in developing drugs or are doing research in physiology. This course might give you a tool to enhance the chances of finding the neddle in a hay stack of any research.

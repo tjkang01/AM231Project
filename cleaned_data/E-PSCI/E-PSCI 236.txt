@@ -1,0 +1,19 @@
+This class will teach you to approach many different types of problems (its methods have application way beyond atmospheric science!). You should be comfortable with at least one programming language (MATLAB, R, Python...) to really get the most out of this course.
+This class will give you a basic understanding of atmospheric modeling from box to 3-D models.
+This course will make you a better scientist.
+Problem sets take a while but are useful
+Don't expect a well-oiled straightforward machine of a class.  There's lots of interesting material covered in the course that you likely won't find anywhere and it attracts a diverse group of students.  But at the end of the day, it feels like a seminar-type course with awkwardly forced homeworks.
+The assignments provided excellent practice with the methods we learned in class and with programming in R. The course helps students develop valuable insights and skills in environmental modeling.
+To be proactive about your learning in this class.
+The skills learned in this course are very useful.
+This class was poorly organized and will be much more rewarding if you have solid background in atmospheric chemistry.
+Professor Wofsy's part of the course is much more hands-on and rather less structured than Professor Jacob's. The material presented could be difficult but the sections and problem sets are very useful. Definitely a worthwhile class overall.
+A practical course for those in atmospheric science.
+Great for atmospheric chemists, be they experimentalists or modelers.
+There is no other course that offers a concise overview of the essential statistics and methodologies for the environmental sciences. This course is nearly essential for anyone that works with or reads about statistics in the environmental sciences.
+I can't comment on the utility of the course for an EPS concentrator/grad student. For an outsider, it served its purpose of introducing me to the field relatively well, though not all of the methods taught were of any interest to me. If you're looking for a stats class, this is not it. There is coverage of statistics, but it is not particularly rigorous compared to my other experiences.
+It depends what you want to get out of the class.  If you want to learn both about chemical transport models and data analysis skills then that is a good reason to take this course. if you are only interested in one part of that, you might be frustrated at times. I thought it was a really good introduction to the theory and practice of chemical modeling of the atmosphere and it is good to have practice analyzing data and presenting results.
+Daniel is a talented and seasoned lecturer and a true expert in atmospheric chemistry. His lectures are highly structured and the assignments are timed well to go with lecture material. Steve's lectures are disorganized and student expectations are unclear. He is a great person and a fantastic scientist, but the lack of structure is enormously frustrating.
+There are extreme differences in two halves of the course.  The half seems scattered and expectations are very unclear.
+Project aspect of the course was very fun and highly informative. The theoretical aspects were definitely overwhelming, but taught very well and made as palatable as such intensely theoretical matter could be made.
+About half of the course is extremely useful, which compensates the inadequacy of the other half.

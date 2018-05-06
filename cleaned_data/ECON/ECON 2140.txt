@@ -1,0 +1,47 @@
+There are problem sets every single week, so be ready to be in a continuous cycle of working on them throughout the semester.
+This is an econometrics class in which you actually learn practical skills for empirical economics, and Guido is excellent at explaining the important features of estimators and procedures.
+Enthusiastic endorsement if you have the background. For those in the Stats or Gov depts. who are more comfortable with R than Matlab, you can use R for all the assignments without any problem.
+If Prof. Imbens is the instructor, follow his advice to read the notes ahead of class. Class time is much more of a expository narrative about the methods under study, with some anecdotal information, examples, quotes, and the professor's personal experiences. Class time is rarely dedicated to derivations or software/implementation issues. You'll be expected to be robust enough to learn and overcome those hurdles all on your own when you do the homework.The class is extremely worthwhile though. I took this as an applied math grad student, with not much econ background, and I was fine. Brush up on regressions and standard errors prior to the start of the term. Experience with statistical software packages, like Python Pandas or Python scikits.statsmodels is helpful, and experience with computational stats, like bootstrapping and Gibbs sampling, is helpful.
+This is a difficult class. Basically, the more statistics background you have, the easier the course will be for you. Other than Economics 2120, I find Statistics 210 (Probability Theory) and 211 (Statistical Inference) useful to understand the lecture materials.
+The class is very helpful; but it ultimately depends on how much you make out of it. You need to spend a lot of time outside of the classroom to figure out how to implement things.
+This class is applied enough that it will be useful for anybody who wants to run regressions or do program evaluation. You can probably learn the stuff in other classes, too, however.
+It's great in that it covers almost all the econometric techniques one is likely to need as an applied economist, but given the speed of the course I am not sure how much of it one can ultimately remember.
+This should be a must-class for anyone who is going to use econometrics seriously.  Great teacher, great TA.  The best econometric course that I have ever had.
+this will definitely be one of the best , if not the best, course  you have ever taken
+If you are likely to do any empirical work, this class is absolutely essential.
+This class is more focused at the empirical level. It gives tools that will be extremely helpful if you are thinking about doing empirical work.
+Great way to learn how to actually "implement" these various lessons that you learn on paper from other classes.  Problem sets are very nitty-gritty, hands-on excercises with real data.  Material is cutting-edge and comprehensive.  Also, great way to learn the Matlab programming language.
+It may be boring at times, but you learn how to do econometrics in Matlab, and many of the techniques are likely to be useful for your research.
+great coverage of material, great instruction
+very difficult, but worth the effort if you plan to apply econometrics in your research
+Watch out for the final exam - it wasn't what I expected. We were given a practice exam that looked like a good test of the material we covered. The actual exam was a bit out of left field, and would have required more than 90 minutes to do well on.
+Ec 2140 is a helpful complement to the spring version of Ec 2120. It's also probably necessary to do any kind of statistical work in economics. Still it's very fast paced and difficult to understand as the material is covered the first time.
+Don't take it unless you can audit and skip a lot of the silly problem sets. Lecture is OK, but the psets are NOT helpful and can easily waste 30-40hrs of your week.
+Its applied focus nicely compliments other theoretical classes.
+It's a good course that gives you exposure to advanced methods.  But you'll likely need to spend a fair amount of time afterward figuring out which method to use when.
+I recommend it as a good summary of stat methods that are out there
+It's a tools course, necessary for anyone wanting to do applied econometrics. It's not always fun, but you'll get exposure to a lot of important topics.
+best to take this course when you're already thinking about data and how to prove a specific theory.  if you're still in the early stages of thinking of your research, you probably won't get that much out of this course.
+If you need to take an econometric requirement, this may be a better one, but if you're taking this as an elective, consider another class.
+Depending on statistics background and the reason they want to take an advanced econometrics course
+its a good class to learn matlab.
+Essential course
+Take it if you need to understand the basis for sophisticated cutting edge modeling techniques. don't audit it - problemsets are key to learning / assimilating the lectures
+This is a very useful class. It will give you a "cookbook" of techniques to use in the future and the notes are invaluable for future research. The problem sets can be a bit of a pain (every week, and sometimes tedious) but are useful for knowing the material. Overall perhaps not the most insightful class or the most exciting class, but among the most useful.
+Not meant for second-year graduate students. They should be over this by then (also great for undergrads), and their energy and time might be better needed elsewhere.
+This is an excellent course to prepare economists for applied work. Guido does an excellent job surveying the field of econometrics, and I'm struck by how close to the frontier of econometric research he was able to take us.
+This is the most useful Econometrics class I've ever had.
+Involves a lot of programming, which can be frustrating while you're sorting out bugs. However, you will become very good at using matlab and will have numerous useful algorithms that you have programmed saved on your computer, which is great when you need  to do research.
+Great course. Make sure to spend enough time on the p-sets. In addition, it helps to look over the lecture notes before class.
+Read the notes *before* lecture. This is crucial to appreciating Imbens' lecture style. The mechanics of econometrics can be done with the notes. Understanding the subject and its history take place during class. Don't miss the opportunity to just listen and appreciate Imbens' insight and observations by skipping his lecture notes!
+Occasionally time consuming, but well worth it.
+Professor Imbens does a great job of motivating topics and explaining them intuitively
+I took this course having only taken Gov 2001 and found it a bit challenging dealing with new terminology. However, it is definitely do-able. The course is a wide scatter shot of econometrics and you'll learn how to use (in theory) many of the most important methods in the literature. However, if you don't spend a lot of time with the problem sets, it is easy enough to get by doing the problems without understanding at all what you are doing.
+Great survey course for econometric methods - you actually learn the tools
+a lot of work but worth it
+you do not get much out of attending the lectures.
+Good for anyone who might find themselves programming their own statistical tools or for people who want to use a wide range of econometric tools and would like a survey of what's out there.  Also useful for some good discussions of where assumptions fall apart and what their implications are for different tools.  However, for people who mostly want to stick to the pre-written Stata commands and fairly standard methods, this course might be unnecessarily hard/programming focused.  (Less than half the course is devoted, for example, to standard labor type methods like diff-in-diff, IV, and reg discontinuity).
+Please fix the errors in the lecture notes. They caused a lot of consternation for people doing problem sets.
+If you wish to deal with data at all when writing an economics paper, you should take this course.
+This course will bring you to the frontiers of econometric research.
+Take it if you're going to do applied or interested in metrics. If you want to take it as first year students, be sure that you know OLS, GMM, IV, basic statistics and some programming (STATA doesn't really count as programming). Consult G2-G3's.

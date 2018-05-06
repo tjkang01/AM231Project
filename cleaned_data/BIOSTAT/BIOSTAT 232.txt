@@ -1,0 +1,28 @@
+This course will give you a deeper understanding of linear and logistic regression than an introductory statistics course will.
+Very good course.  You'll learn both practical skills (data analysis, R, etc) and get some theoretical underpinnings that you wouldn't get in a basic stat course.  Professor is very knowledgeable, but you'll enjoy the class most when you engage with him (ask questions and encourage others to do so as well).
+Necessary if you want to do statistics
+Very good course although the physical classroom for the semester was awful. I believe the course would have been even better without that issue. It was a great introduction to linear models and the logit link function for nonlinear models.
+The course material was useful, so I would recommend the course from this perspective. However, the instructor was very intimidating and I would suggest students take the course with another professor.
+Work hard at the beginning and the end will be easy.
+This class is a great higher-level introduction to regression models.  However, it would be a miserable experience if you did not have a strong grasp on linear algebra and calculus.
+This course is very useful to understand linear and logistic regression. The course is time demanding, but you will learn a lot of useful statistical tools.
+Will teach you about the intuition and underlying philosophy of statistical methodology that often gets glossed over.
+Download rmarkdown, and type up the assignments as you complete them in R--that will save time.
+Optional readings were beneficial.
+Try to continuously review outside class, including linear algebra
+The work is challenging but very interesting. Eric makes the course great!
+very useful course
+It is a foundational class for learning about linear regression, categorical data, logistic regression.  If you have no previous background in regression this course offers a thorough quantitative introduction to the topic.
+The lecture notes, labs, and homework are excellent tools to learn about regression. However, exams are very theoretical and unlike any homework/labs, so be prepared to know almost nothing on the exams.
+Outstanding instructor.
+This is a difficult course.
+Really good regression course that is more theoretical than some of the other biostats courses but not overly so. Lots of good examples and relevant applications throughout. Eric is very good at explaining material, he's very patient and I felt completely at ease when asking questions.
+The midterm exam was hard and could have been more relevant to the material.
+Xihong is a very thorough and rigorous instructor, but the course does not have superb feedback.
+A fantastic course in linear regression and introduction to logistic regression for anyone interested in doing research in epidemiology, biostatistics, health policy, or econometrics. Since biostats students are required to take the course anyway, this advice is for other non-biostats PhD and Master's students (like me) who may want something a little more sophisticated than the Bio 200-222 sequence, but is not as difficult as the more theoretical Bio 230/231. The one weakness of this course is that it is not very good on evaluation designs or using conceptual models to inform model selection, so should be paired with a good program-evaluation or quasi-experimental design course for anyone interested in policy or observational research (though there is great discussion of epidemiological methods and terminology and how it relates to logistic model interpretation).
+don't miss a lecture, you can't catch up without knowing the 'interpretations'
+If the class doesn't change much, be prepared for exams completely unrelated to what is covered in the homework. Also, be prepared to have a heavy dose of epidemiology concepts/interpretations. Be sure to read the labs and the slides.
+This was a really good way to think critically about regressions, not just run through the data.  Xihong really allows you to understand what you're doing to the data and makes you ask yourself whether the assumptions are really justified.  Work load is very reasonable.
+Lecture is a bit boring, but I learned a lot.
+Read Kutner, read it from the beginning and for the tests. It will help you understand regression. Agresti is helpful if you know some logistic regression already.
+This extremely useful material is presented in a clear and careful manner that is balanced between mathematical detail and practical considerations.

@@ -1,0 +1,23 @@
+This is a solid course covering a range of basic (and some advanced) topics in quantum mechanics. Familiarity with the physical concepts and prior experience with the mathematical formalism is assumed.
+Good for fulfilling the physics requirement.  Not much work, and gives insight into how atomic spectra are calculated.
+The course efficiently covers a huge amount of material in a relatively short amount of time.
+Read the textbook when doing the assignments.
+Good basics to know!
+Worth taking for the excellent lectures.
+Great overview of quantum mechanics for people who want to specialize in astrophysics or spectroscopy.
+The lectures are excellent but the assignments can be rather tedious.
+It is a useful treatment of some more advanced topics in quantum mechanics, and is well-organized and interesting.
+Problem sets are long and challenging! Some of the material is not particularly relevant to astronomy, but the problem solving aspects are valuable, and there is some relevant course material as well.
+This is a great class to take to fulfill your graduate astrophysics or physics requirement. Prof. Hernquist is a very solid lecturer on the subject. The class covers different materials form the physics department version of this course.
+Lectures are clear but the problem sets are incredibly long and I found that I wasn't learning much by doing them. However, the entire grade is based on the problem sets, so that was good enough motivation to do all of them, regardless of how much busy work was involved.
+The subject matter is fascinating and the lectures and clear and understandable. But, the problem sets are long, tedious, and often unrelated to the rest of the course material.
+The material is not conceptually challenging, but technically difficult. Some problems on the assignments are really challenging, but fortunately you have two weeks to do it.
+A relatively painless way to fulfill the physics requirement. Lars Hernquist is an excellent lecturer. There aren't as many applications to astrophysics as one might hope, so I'm not sure how useful it is for research.
+Lars gives very clear and informative lectures! (although they are not the most exciting lectures...)  The problem sets can be challenging and take a while to complete, but they are set at an appropriate level.
+This course will give you a theoretical basis for understanding corrections to the Bohr atom, multi-electron atoms, and some basic molecular QM.  A bit light on applications though, which I thought I would be getting a lot of in this course
+You learn a lot in lectures, but the problem sets are not very interesting.
+This is a great course to refine and reinforce the quantum mechanics concepts that you were introduced to in undergrad quantum, as well as extend them to many-electron atoms and molecules, techniques important for astrophysics.
+it is a very theoretical class
+Life is complicated. So are the parts of life, like atoms and molecules.
+Not as much emphasis on applications to astrophysics, but provided a good framework for understanding the problems and methods.
+You are probably considering this because you need to satisfy the Physics requirement for Astronomy graduate students. As such, it is a great choice, and probably more relevant/less work than anything offered in the Physics department. That said, if you have no interest in learning how to calculate atomic transitions, consider taking something else. If you're just curious, you'll get a good idea of the material in the course by browsing through the first ~10 chapters of Bransden&Joachin's Physics of Atoms and Molecules.

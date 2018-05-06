@@ -1,0 +1,13 @@
+I recommend with reservations because, while you'll learn some fascinating stuff in this class, I'm not sure the workload is worth it. This class wasn't easy for anyone in it, and it certainly wasn't easy for me. Get ready to work quite a bit---and the work actually requires quite a bit of thought, mathematical maturity, and cleverness.
+Great class. You learn a lot from both lectures and homework. CS 121 is not really required.
+Professor Valiant is brilliant and it was an honor to take a class from him. The course material is very interesting. That said, this material is much too deep for a practitioner, just take a machine learning course. You should only take this course if you are interested in theory. If you need to fulfill a breadth requirement, there are much easier theory courses. This dominated my other course and research (20-30 hours per week was common).
+The material covered in this class will be of critical importance over the next 100 years. AI is coming.
+hard.  strong math background needed.  well-taught though.
+be prepared to work hard
+Recommended to students interested in theory and students who can self-study, as the lectures are not really useful.
+Course is a must for anyone interested in artificial intelligence. The course covers the foundations necessary for deeply understanding AI.
+maybe difficult; material is older, not cutting-edge
+Be careful as homework can be difficult and time consuming; it's also pretty interesting, if you like random combinatorial problems like I do, but also doesn't feel extremely related to the theoretical framework (instead, it feels more like random combo problems! :) ). Be sure to have mathematical maturity in combinatorics and discrete probability if you don't want to go crazy over these problem sets. Also, Valiant is unfortunately not the best when it comes to lecturing so be sure to shop and then decide.
+If you have a strong probability theory background and can spare the time, then this is a really excellent way to gain intuition for building your own machine learning algorithms and learning to analyze their properties.
+The material's nice, but Valiant's not a great lecturer. The take-home final had lots of errors and made me waste a lot of time that could be spent better elsewhere.
+The problem sets are a bit time-consuming but very fun. The final project is a good opportunity to learn more about and work on problems at the frontier of learning theory research.

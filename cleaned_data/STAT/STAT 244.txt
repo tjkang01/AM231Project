@@ -1,0 +1,27 @@
+Absolutely fantastic class! Professor Agresti is a wonderful lecturer and so approachable.
+This was one of the best courses I've ever taken. I believe this is the last year that Prof. Agresti will be teaching it, but if the format is the same in future years I would strongly recommend it to anyone with a serious interest in statistics.
+Interesting material and Alan is an amazing lecturer
+Alan is a great lecturer, and his book is fantastic. The course is very well organized, and not overly difficult. The benefit-to-effort payoff is great. For a theory course, things are pretty well-grounded and tied to applications, in part by the nature of the topic.
+This class is super well thought out. It was pretty rigorous theoretically, and also had lots of applied examples in R. The book was a great resource and provided plenty of parallel examples to work with. The TA also did a lot of really helpful simulations to make us believe that theory works. And all of the homeworks felt like they were pointedly trying to help us learn.
+Unfortunately this is the last year taught by Prof. Agresti. It is also the last full course he lectures in his career as a professor. So comments probably will not be applicable to future students. GLM is a very useful area if anyone is interested in data science.
+Best course ever. Super clear. Useful material. I will definitely keep the course materials for future reference.
+Alan is a WONDERFUL TEACHER! I have 95% confidence that his teaching is better than 90% of the professors in the stat department at Harvard.
+The class was amazing. Professor Agresti (although it's probably his last year teaching this) was awesome, and he explained the concepts in a very clear, illuminating, and inspiring way. Definitely my highlight of the semester!
+One of the best classes I have taken while at Harvard. I actually feel sorry for those who won't be able to take it under Alan as it will be his last offering of Stat 244.
+I had already heard of almost every topic that this course went over, but it went over each topic in much more depth than I had done previously, which was fantastic.
+This is BY FAR the best course I have taken at Harvard. It is nothing short of phenomenal how Alan can keep the material so superbly organized while pushing forward at such a pace. I've learned so much from this one class, and I'm quite certain no other class will even come close to matching how good this one was. Without Alan, however, I'm not sure how the course will be.
+Section is great, but not like a normal course's section- you go over new material NOT covered in the lectures, rather than cementing the material covered. Course covers crazy amount of material.
+Note that after 2014, Dr. Agresti won't be teaching this class, and it will probably be different in the future.
+
+As an undergrad in the course, I say that it makes sense to take as a second or third course in linear modeling (i.e., after 139 and/or 149) or as a first course pass-fail. The material moves quite fast, and it's tough to keep up if you don't already have some background in regression. On the plus side, you will cover almost everything you would in an entire year of the undergrad sequence, plus theory, plus more (including quasi-likelihood and modeling correlated responses). Exams are difficult, but fair. Problem sets take work, but the course offers good support through office hours and the textbook. You'll learn a *lot*, but chances are a fair amount will go over your head too.
+This is one of the best-taught classes I have ever taken. Alan's lectures and his book were wonderful and thorough and gave a clear introduction to the theory and application of GLM's.
+If Professor Agresti teaches this class again, you should certainly take it! In addition to being a great statistician, he is also a really clear lecturer. The book he is writing is a great resource, and he makes himself available if you have questions along the way. In addition, the subject matter is interesting and practical. The emphasis is on mathematical derivations of the models, but the course also provides grounding in the practical application of generalized linear models in R.
+The class is a good second course on linear models.  The focus of the course is mostly on theory, and it is not the best way to first gain practical experience with linear models.  That being said, the course is very comprehensive and is quite good at giving an in-depth treatment of GLMs.
+This is easily the best class I've taken in Harvard, and probably in my life. I think if you are at all interested in the subject you should take this class.
+Very good course for GLM. You can gain an organized understanding of common GLM models
+GLMs are a must-know for statistics phd students, and the course is exceptionally good. There is absolutely no reason not to take it.
+Take this class because generalized linear model is very very useful
+Alan is very good at teaching.
+Very good treatment on one of the most useful and practical topics in statistics: GLM. Ties together many prominent concepts and approaches in statistics so also a good overview for the fundamentals.
+This is the best statistics class I have ever taken anywhere.
+If Dr. Agresti's teaching it, take it.

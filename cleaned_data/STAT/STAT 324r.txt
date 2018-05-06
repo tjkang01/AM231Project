@@ -1,0 +1,2 @@
+If you want to learn about multilevel modeling and shrinkage, take this class!
+hierarchical models are a powerful tool in statistical inference.  take this class for a good overview of the evolution from Steins shrinkage estimator to today's multilevel models

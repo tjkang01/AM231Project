@@ -1,0 +1,31 @@
+Only take this if you really need to learn the material, and be prepared to be endlessly frustrated by the course
+This class is good to take because it introduces you to aspects of control theory which can be useful in many different fields.  However, I would tell them to be cautious about taking the course if they are already taking other challenging courses.  Doing well in this course does take a lot of work.
+Do not take this course, very poorly lectured.
+Don't expect to learn anything from lectures.  You will just have to figure it out from the textbooks.
+a passionate professor teaching many problems such as car parking!
+This course, while challenging, is a great course in controls theory.  However, you only get as much out of it as you put into it.
+great lecturer; fun course to take
+It's a fantastic course!
+An extremely theoretical but interesting class in control theory. Perhaps not as practical as a course you could take at MIT, but very good nonetheless.
+Key course in control theory and estimation.
+This is a great class. The professor (Donatello Materassi) is incredibly enthusiastic, great at explaining things, and knows his subject well. I highly recommend this class!
+lots of potential (great topic, clearly knowledgeable instructor) but the way it is currently taught (no text, most class time spent on proofs, only a few homework assignments) is not very practical and won't lead to many concrete skills to use in tackling engineering problems in the future
+Not all the homework seemed applicable. Not having a text book is difficult, especially with his notation.
+Future iterations of this course will be much better, I am sure.  Be warned that this course is extremely theoretical/mathematical.
+It is a difficult course but I found the concepts useful. The problem sets took a lot of time, but counted for most of the grade so it was worthwhile putting time into them.
+Grand tour of foundations of linear control theory from the modern, state space perspective.
+Donnie was a great teacher and I enjoyed the material of the course. However, be wary that the course does not have a textbook, so there aren't many resources for reading about the subject matter.
+Without question one of the most demanding, interesting, and useful classes I've taken.  Outstanding.
+I'm sorry you didn't get the Brockett experience.  It's hard to say what this class will be like without him.
+Tough class, but very useful
+ES202 has an interdisciplinary appeal, as the fundamentals of control can be applied effectively to research in vastly different fields.
+If I had to do it again I would have gained some background in linear algebra before taking this course. I think I would have gained more information about control theory. With that background, I recommend this course to anyone that will deal with dynamic systems.
+Pay good attention to the lectures, as it is very important for the exams.
+Make sure you're strong in linear algebra theory
+If one is prepared in terms of mathematical background for this course (i.e. solid background in linear algebra and analysis), it will be very insightful.  Otherwise it could be frustratingly difficult.
+It's very difficult, be prepared.
+Be prepared to work hard.  You will learn a lot if you do so, but if you don't, you will quickly fall behind.  Also, know that the homework will take a substantial amount of time.
+This course will make your basic mathematical skill set more strong. But the course material is somewhat difficult and takes more time than you expect if you don't have strong mathematical background.
+This class is purely theoretic. It should not have an ES code since this class teaches not a single engineering competence. You won't even practice designing controllers in matlab.
+A fascinating way to look at a branch of applied math/engineering that has broad implications in a wide variety of fields. If you take this class, expect a high degree of independence!
+although this course is listed as an engineering science course, it feels a lot like just a math course because there are a lot of proofs. the engineering component does not really stand out in the course.

@@ -1,0 +1,13 @@
+Definitely a useful course in order to understand empirical macro and finance papers.
+As I believe others have put, this course is really directed toward the researcher in time series, and not the student who simply seeks to exploit time series methods.  Though the difference in approaches is ostensibly small, it turns out to matter because the former approach is interested in strict formalism, even though the applied student probably doesn't care about the formal pedagogy.  Nevertheless, the material is good material to see and with which to be familiar, so despite these concessions, it's probably worthwhile for any student mildly interested in time series, but only for the lack of good alternatives. Perhaps the equivalent course in the statistics department would be a good alternative.
+Be prepared for a firehose.  If you're prepared to either study like crazy for the final, or be content with a mediocre grade, you'll learn a lot, even if you don't learn everything.
+If you don't take the class, then there are large aspects of time series that you will never pick up on your own. Jim's enthusiasm for the material is infectious, so you end up caring more too. Highly recommend.
+Time series background is helpful, particularly in the first weeks. Material is often not as well-motivated as it could be up front, so if you don't know what something is about, google it at the beginning of lecture.
+If you are looking for a big picture understanding of time series, this isn't it. If you have a strong background in econometrics and want to understand the technical details of time series methods, this could be a good fit.
+Difficult, but worth taking if you have interest in econometrics and/or macroeconomics.
+Time-series econometrics is probably taught better here than it is anywhere else.
+absolutely amazing.  Take a class by James Stock before you graduate.
+A lot of work to understand the material, but an interesting course.
+It is a very nice course. Both professors are really passionate about the topic!
+Take this course if you are familiar with time series problems and want to get a survey of current research topics.  This is not an introductory survey or methods course.
+This class does a great job of teaching both theory and practice, but students who are focused on empirical methods might be less satisfied

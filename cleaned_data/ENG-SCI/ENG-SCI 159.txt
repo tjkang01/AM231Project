@@ -1,0 +1,11 @@
+If you are interested in robotics this is a great place to start
+NA
+This class does not really cover much "exciting" robotics.  I have heard the class on micro/nano robotics is much better for that.  This one pretty much covers mundane details of how to control specific configurations of robots.
+Necessary intro to robotics for engineering students
+This is not a course on building robots, this is a course on the theory behind robots.
+Understand going into the course that a majority of the work is theory and matrices. If you're comfortable with that and want to control a robotic arm, which is pretty cool, then take the course. If not, then maybe look elsewhere
+If you want to learn about robotics, this course will teach you, but it might be a little more tedious than you were expecting.
+This course unfolded like a comedy of errors. Homework assignments were lost and then found and then lost again. The teaching fellows were either unapproachable or not worth approaching. All in all, Rob Wood knows what he is talking about, but I sure don't.
+The material is very cool and it's awesome to learn, but its difficult to wrap your head around at first grasp.  Based on the homework and lectures, I had some apprehension going into the final, but it was very doable and the questions on it are fair.
+This class is very fun and highly theoretical.
+Be prepared for a huge amount of linear algebra, with way fewer physical examples than I was expecting

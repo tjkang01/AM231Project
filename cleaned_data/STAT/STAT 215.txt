@@ -1,0 +1,18 @@
+Take it, but don't be excited about it.
+The course material is very interesting. The course teaches algorithms and statistical methods that are useful not only in biostatistics, but can be also easily adapted to be used elsewhere. And for non-biologists, the course also serves as a friendly introduction to genetics.
+This class covers material that is very helpful if you want to do research in biology were you analyze high-throughput data. However, the class is badly organized and badly taught so although you will definitely learn a lot of important material beware that it will be very painful.
+Taught poorly. Terrible TF support. Problem sets were incomprehensible and had little to do with lectures. Expect little feedback, this is more of a solo mission or challenge. Only attempt if interested in what you could learn and can program well. A lot of hair-tearing.
+If you can go through this course, you will have enough quantitative skills to do computational biology.
+Good course! Very comprehensive though not deep.
+Great survey of computational methods in biology.
+If you want to know about computational biology and bioinformatics, please take this STAT215!
+learn python first
+A really good class for biologists who want to learn how to do their own data analysis. You don't want to be beholden to black-box programs and other researchers for every little analysis you run! It's a hard course if you don't know how to program, but it gives you interesting problems and incentive to learn how to do it better. You will leave knowing how to do most kinds of genomics data analysis.
+This is a biology class. Shirley is a great lecturer but the homework and other parts of the course are not tolerable- homework was vague. There were exams but no guidance given about what would be on them or any practice questions posted at all. Labs were terrible. No coding was taught.The TFs this year were smart, which was great. If the TFs next year come from a biology background, I would say this class isn't worth it. Shirley only gives intuitive explanations, so having a statistics TF to explain the stat is 100% necessary.
+The course requires a lot of background in statistics, biology and CS. However, what you will learn from the course may not worth the effort if you are not going to perform research in bioinformatics. The course tries to cover too much, such as reviewing a topic in one lecture, which may be the content of another course for the entire semester. In the end, the course may expect you to know everything. The assignments take a lot of time to work on, and the effort was mainly to solve technical problems.
+Glad I took this course
+It's a lot of work especially if you are a graduate student. Also, I would not recommend this course if the person has a zero computer science background.
+Great introduction to bioinformatics analysis methods and tools that provides valuable hands-on experience.
+This course tries to teach too many methods in too little time, which means at the end you understand individual methods at a very superficial level. Time on psets is mostly spent debugging the programs, which even the TFs are often unable to do until a few days or sometimes a day before the pset deadline. The professor is very nice, has made great contributions to computational biology, and clearly cares about this course, but unfortunately this class is poorly managed.
+The homeworks are useful, but the class is disorganized and unnecessarily difficult
+Get ready for a lot of work, but worthwhile with the right attitude.

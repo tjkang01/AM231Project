@@ -1,0 +1,1 @@
+Read the notes before class. Print out the notes to follow and refer back to during class. The arguments in this class are very long and hard to "chunk"/remember. It is therefore hard to notice all the important details necessary to follow later steps when they happen--just keeping track of all the defined variables was hard enough for me.

@@ -1,0 +1,10 @@
+One of the best class I ever had. It fills a gap in our education in Immunology
+Basic knowledge of systems biology is necessary for biological research.
+A good course to provide a broad overview of systems immunology and the strengths/weakness of different experimental approaches available to interrogate complex systems.
+Great course, especially with the ability to do our own mini-projects. Be prepared though to put in effort to get the most of out it.
+Systems has become a go-to method for answering questions in biology. This class will help you get a sense for what's out there in terms of techniques, it's pros and cons.
+Good opportunity to learn about the resources available, especially in the Boston area, for systems level analyses
+Many topics are covered, but in-depth discussions, or problem sets to interact with the course material are missing
+Most useful for those with little or no background in R.
+This course is designed for second or third year graduate students that have generated data sets of their own or are familiar enough with an area of research that they can assess the work of others using the tools provided in the course material.
+This class provides a comprehensive introduction into using techniques that generate a vast amount of data to answer relevant biological questions, not just questions restricted to immunology.

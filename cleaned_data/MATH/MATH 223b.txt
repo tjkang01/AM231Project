@@ -1,0 +1,8 @@
+Take it if you're interested in number theory. :)
+Rabinoff is cool, but he won't be here next time around. But anyway, you need to learn class field theory, so just do it. It's really cool once you know how it goes, since you end up with a ridiculously general reciprocity law on your hands and pretty powerful methods to boot.
+This class is fairly advanced and the material is quite cool. You'll get out of it what you put into it.
+This course gave a solid introduction to group cohomology, developed the proofs of local and global class field theory, and covered some interesting additional topics such as Lubin-Tate formal group laws and explicit local class field theory. Felt more like an algebra class than a number theory class at times, but still definitely worth taking. Igor was a great lecturer, as usual.
+This is the best class to learn about class field theory and materials used in the proof!
+This class is all the complicated details needed to prove the black-boxed results from 223a. It is quite difficult to understand intuitively.
+Great 200-level course if you like number theory.
+Arul is an amazing teacher, but sadly this was his last year at Harvard. Math 223b is a wonderful course in which you will become acquainted with many beautiful results and ideas in modern algebraic number theory.

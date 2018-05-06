@@ -1,0 +1,4 @@
+Jun's philosophy and insights on statistics are awesome :) Go and learn.
+Very good material if you are interested in MCMC on a theoretical level
+It's a good class to learn a lot of interesting and relevant computing ideas, but perhaps getting Professor Liu's book is enough?  The presentations can be unclear, but I felt like I gained a lot of intuition and general understanding just from listening.
+Make sure to read along in Prof Liu's book Monte Carlo Techniques in Scientific Computing as you cover topics in the course. They are all well-covered in the text.

@@ -1,0 +1,2 @@
+If you are interested in stats, take a stats class that will teach you stats. If you are interested in programming, take a programming class that will teach you programming. This class tries to do both, but ultimately I don't know how well it succeeds.
+Don't go into this class looking to learn a lot about the statistical tests.  If you'd like to learn how to apply statistics in the R language this could be the class for you.

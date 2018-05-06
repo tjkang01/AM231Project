@@ -1,0 +1,12 @@
+Lots of work... but worth it
+surprisingly useful toolkit for any field in economics
+Take this course if you're interested in using these tools elsewhere but do not take it to become a computational economist.
+Its a great class, but be prepared to work. Its a good way to force yourself to learn the material though.
+the payoff from investing in computational skills can be huge later in the job market
+Look at the next lecture's slides before coding up work for presentations!
+You learn a lot of very helpful stuff.
+This is an excellent class if you have research ideas in mind which could make use of the tools covered here.  If not, you will not get as much out of it and may find other classes a better use of time.
+This course is fairly specialized, and it seemed like people with more specific research questions tended to get more out of it. But it's actually extremely helpful for a wide range of areas, and is only becoming more so.
+This course is essential for any applied researcher who is looking to estimate large, computationally challenging systems. It helps you "look into the black box" of what the computer's estimation solver algorithms are actually doing.
+Although these computational techniques are often represented as a useful toolkit for IO research, the content taught in this course are useful for many areas of economic research, and in my opinion they will become increasingly important over the coming years. This course is currently the only Harvard offering that teaches these techniques, so I would highly recommend it for students interested in applied micro, macro, structural models, econometrics, and public finance.
+Just take this course.

@@ -1,0 +1,26 @@
+I would recommend the class purely because the material is really interesting.  I think I'd also suggest the individual take the class at MIT instead, because it's both better taught and there is more support outside of class at MIT.
+Ariel goes right into estimating the empirical IO models, which can be pretty daunting if you have limited familiarity with the classical IO models. Undergraduate classes typically go through these models; however, an alternative (and highly recommended!) approach to establish this foundation is to take Glenn Ellison's IO course at MIT.
+Difficult class, be prepared to work a lot with data.
+teaches you the basics of applied work in IO
+great class for someone desiring advanced training in empirical IO methods
+Problem sets are hard but how you learn the material
+I really liked the course, but it is a lot of work, and it is probably not worth following without doing the problem sets, since most of the learning is done that way.
+Reading through the lecture notes of one undergraduate level industry organization course is very helpful. It wouldn't hurt to go through Tirole's The Theory of Industry Organization before the class either. Get as much help as you can. It's impossible to survive this class alone.
+you will learn a lot from this course, and how you feel about the assignments is a good indicator of whether you want to be an empirical IO economist or not.
+Learning io makes you a better economist in any field.
+This is not a typical IO class and it focuses on the techniques developed by Ariel Pakes. Be prepared to spend a lot of time on programming.
+The methods are very interesting to learn about.
+The problem sets are long, but doing them is the best way to learn the stuff.
+This class is a lot of work and the benefits are not yet clear to me.  I'll have to wait a bit to see whether I gain anything from this class.
+For anyone interested in structural estimation this course is a very good starting point
+Take this class if you really think it will be useful to you to know what IO is about; otherwise don't bother, it's difficult and quite frustrating at times.
+It's best to take econ 2140 first...
+This course shows you how you can make data work for you, especially with regards to simulating markets and counterfactuals.
+best class i've taken at harvard so far.
+Wonderful class, with lively discussion and useful set of methods.
+The techniques are quite useful to learn -- don't expect to learn too much about the field of IO, more the tools, and the topics that Ariel is interested in.
+This is not insight-rich IO. That can be find in contract theory courses or the very different IO course of MIT. This a course meant for students who want to do applied (structural) analysis of markets. Its use might be greatly enhanced by a course in structural econometrics and computational economics. It is debatable how useful the course will turn out to be without those skills (which can be honed later too, just to make this course more useful).
+You need to love the material in this course and find it very exciting (I definitely did) if you want to do well in it. Otherwise you'll find yourself staring at equations you don't care much about. Also, it's a great opportunity to learn state-of-the art methods in econometrics and industrial  organization. The Professor is also a great guy.
+Brilliant - even if you're not interested in IO, you'll learn a lot of very useful stuff in this course.
+I think the empirical IO method is definitely an important skill to have for graduate students in social sciences. It is also becoming more and more mainstream and applicable in other field. Robin Lee is an amazing teacher and researcher, anyone would be lucky to learn from him.
+Robin is excellent, and the material is excellent. This is the best class I've taken in grad school.

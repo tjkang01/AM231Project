@@ -1,0 +1,25 @@
+You need to do a lot of outside reading to have a chance at understanding the course material; lecture isn't very useful for actually grasping it.
+Mboyo has a novel approach to classical algebraic geometry you won't find in any book. Many things get glossed over, which is annoying for someone with no background (esp. since this is pitched as an intro course); take 137 instead. Happy I took it though, it made me read up and learn a lot.
+Very useful course, but the teaching can be vague.
+This is a rigorous introduction to algebraic geometry without schemes.  It moves quickly, but a prepared student can get a lot out of the lectures.
+It's a great opportunity to get your hands dirty working with varieties.
+Prof. Kronheimer focused on the geometric aspects of the subject, requiring the students to think carefully about real examples of varieties rather than proving facts in abstract.  The lectures, problem sets, and exam were all excellently designed and the workload is ideal for a math course.  I plan to take courses with Prof. Kronheimer whenever possible in the future.
+I would recommend this course as a good introduction to an important field of math.
+It's a nice class, the material is approachable, but sometimes technical, and Kronheimer is clear but sometimes hand-wavy.
+algebraic geometry is very interesting!
+The material can be really difficult, especially if you're seeing it for the first time. It's also really important, and can be very cool.
+The course is a good foundational course in algebraic geometry. The lectures were pretty good, problem sets are good, and section was helpful. This year, there was less emphasis on geometry than with the e.g. Harris courses.
+Algebraic geometry is enormously important, and this class is a good introduction. It definitely requires *a lot* of work, though.
+It's a hard but interesting class.
+It is a difficult topic.
+The course was rather exaggerated
+This is a good review of a lot of things you should know about varieties but missed or forgot.
+Better to teach yourself.
+I think Algebraic Geometry is a hard subject to take a first course in.  I don't really like any of the textbooks and I don't think varieties are that interesting, but it's something that you should learn and Professor Kronheimer presents a pretty complete view of the material.  He moves fast so it is often difficult to follow lectures, especially at the end of the course where I often felt very lost, but he is extremely organized, so if you take good notes you can go back and see what was going on.  Doing the problem sets will force you to learn a lot, but they are very hard and take a lot of time to write up well.
+this is a great course if you are prepared and willing to work hard
+I used to dread eventually having to take algebraic geometry because I thought the course would be dry and technical, but this turned out not to be the case.
+Take it if you are interested in the material, although it gets pretty hard in the end.
+I find the lack of rigor understandable but irksome--in particular, it bothers me that many of the problems seem impossible to more than half-ass without better tools, e.g. from scheme theory.
+Very interesting and useful class.
+It's a lot of work, but worth it.
+This class was great.

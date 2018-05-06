@@ -1,0 +1,4 @@
+It's not that much work and you do learn a lot about the different models that people do use. Unfortunately I was not very impressed with the general state of the field. It is extremely hard to show causal inference with the type of data we have available, and all the models we do use come with serious caveats. On the other hand it was valuable for me to go through a bunch of papers and come to this conclusion.
+This is a hard class, only take it if you know you can handle it!
+This is a great course if you plan to conduct your own quantitative research in international relations.  It provides a good understanding of the potential pitfalls and options for solving them.
+A tour through a variety of methodological techniques in modern international relations.  Allows for deep critiques and investigation of a limited number of papers.  While the individual methods themselves are not engaged in depth, it does demonstrate how to effectively critique methods papers.

@@ -1,0 +1,5 @@
+this class is difficult and takes a deep dive
+It is a difficult course but definitely worth taking if you are interested in materials science.
+Be prepared to be hit hard in the last two weeks of classes and during reading days with two exams, but the general semester is rather easy.
+This course can be challenging if you do not have any background knowledge in thermodynamics and kinetics in material science. You will play with the Gibbs free energy (chemical potential) to examine how atoms transport in condensed phases. You will learn the rate theory, different kinds of diffusion, phase transformation, crystal growth and so on.
+If you want to lean kinetics, take this course. If not, don't take it.

@@ -1,0 +1,38 @@
+Although I had no prior experience with MATLAB, Mike and Rick made the information accessible while covering a broad range of topics enabling the discovery of before unknown uses for programming.
+As I mentioned above, this course is really meant for people with very little programming experience so this course is not meant for people who have taken a course or have done previous programming work. I will warn that the course does go quite fast for those with no previous experience.
+A useful class if you have some basic idea about programming.
+I felt like I definitely learned a lot and it was a great introduction to programming in matlab, especially when partnered with solving biological problems.
+If you're interested in doing computational work, especially in neuroscience, and need to know more about programming, take this.  If not, it may not be what you're looking for, but if you're taking it before G1 it is a good way to meet your classmates working on problems together.
+It's a good bonding experience so that you can meet your fellow students before orientation and classes pick up, but I would only take it for the social benefits, not for any academic ones.
+I liked this course but I have since forgotten everything I learned because I am no longer using MATLAB for anything.  Maybe if they had given us practice questions afterwards or a document that summarizes all the codes we had learned then I would have remembered everything later.
+A course that teaches how to use Matlab and its applications to research. You don't need computational background to take the course. Very helpful and effective course.
+Don't be afraid to take this class if you haven't had any Matlab experience. This course was specifically designed for people with no Matlab experience. However, the class became exponentially harder. I feel like we went from useful basics to super specific stuff that I wouldn't even use really quickly.
+You need to have at least some coding experience, or else you will be lost. There is also very little focus on biologically relevant data (except for the last lecture).
+The course is very useful for people wanting to get into more quantitative biology work. Plus, MATLAB is great.
+It's a very immersive experience, and some of the more involved assignments overwhelmed me, but the TA's and the review sessions were a big help and should be taken advantage of.
+Great course for first-timers to MATLAB, nicely introduces various skills that are applicable to biological data.
+Good to get your feet wet in Matlab as a starting point.
+This is a great class. You will improve at programming, and it's a good way to meet other first year grad students.
+You will learn the basics of MATLAB so that you can use the tool for future research.
+It's a crash course, but it is well done.
+I think this class is a great choice for anyone looking to pick up or improve their programming skills. If you're already a MATLAB whiz, it probably isn't worth the time, but otherwise I think it's a helpful crash course in a very useful skill.
+I would not recommend the course as it is now. Because I felt many of the more novice coders were left behind I did not leave the course having learned much useful knowledge.
+If they have not used MATLAB, then this is probably a great course. If they have for any significant amount of time it still might be worthwhile to look at the syllabus and exercises to see if they would be useful.
+The first day is a bit slow for those with programming experience, but the course picks up quickly and is useful even for those who have some Matlab experience.
+If you ever plan on using matlab and have no experience, this is a great place to start.
+Very good course. A little challenging if you have no previous experience though.
+The MATLAB bootcamp is a nice introduction to computer programming. Even if you never touch another MATLAB command module again, the basic programming concepts translate into other computational work (and prove very useful with Excel!) At the very least you'll leave having made some new friends who you'll see again and again throughout your graduate career.
+Good overview of Matlab in a relaxed, casual setting. Professors and T.A.s are great at helping if you don't understand something.
+Unless you already have some skills it's not helpful...
+This class, taken in the bootcamp format, is most helpful for students with a basic working knowledge of MATLAB or other programming language.  Students with more basic or more advanced MATLAB/programming skill sets are unlikely to significantly benefit from this course.
+A good intro to computer programming, but certainly not comprehensive.
+It's great to see what you could potentially use MATLAB for, but I still don't know how to write those programs or use MATLAB independently.
+Good if you are a beginning programmer or who has programming experience but not specifically in Matlab.
+If you never had (proper) exposure to Matlab and aspire to ever use it, this is the class for you. A very good and effective introduction. Mike Springer is very good at explaining. It is also very interactive and you will get plenty of help.
+If you haven't programmed, you should learn, and this is a good way to do it.
+The pace speeds up immensely after the first day.
+It's very difficult if you do not have any background in programming.
+If you pay attention, you will learn a lot about how Matlab can enhance your research (even if you can't do it all yourself)
+If you want to learn Matlab, this is the course for you- however beware that it will jump quickly to experienced techniques.
+it is a good way to get your feet wet in basic coding, but it may not be the most applicable program for non-neuroscientists
+If you think you will use MATLAB in your lab, you should take this class.

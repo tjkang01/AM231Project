@@ -1,0 +1,2 @@
+Bayesian nonparametrics is an interesting area and the models are cool, but they are difficult to implement and come with restrictions that are sometimes difficult to appreciate.
+I'd say that nonparametrics are an important subfield of statistics, and that this course is a great introduction to that subfield.

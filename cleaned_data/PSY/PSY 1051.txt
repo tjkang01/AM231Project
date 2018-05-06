@@ -1,0 +1,15 @@
+it was super hard for someone with no coding background. it's doable but it will take a lot of work--which the professor is always happy to help with.
+If you will need to program Psych experiments in Matlab and have little programming experience, this course is perfect. Know that learning is totally up to you. No one will be holding your hand along the way. You have to want to learn it in order to learn it. I think its a great way to structure a course like this.
+Served its purpose to teach students who wanted to learn MATLAB the essentials for programming in psychology while avoiding the stress level that is typical for such programming classes with ungraded problem sets. If you want to learn the language, do the work. If you have too much going on one week though, you can skip the pset and do it later whenever you want!
+You will learn a lot in this class, but don't be afraid to go to office hours whenever you get stuck on something, because the class is fast-paced, so it is easy to fall behind.
+This is a very useful course, especially if you plan on going into research. My experience having taken this class has actually gotten me into job interviews for which I otherwise would have been overlooked. Matlab is a very desirable skill, especially in psychology.
+Great class. Extremely useful, not intimidating, well taught, and not as difficult as it might seem.
+The course is very straightforward. If you complete the assignments, you will do well. Some of them may take a lot of time, however, and some people have trouble getting into the coding mindset. Prof. Alvarez is always willing to help, though, so ask for it if you need it. Classes will be spent doing the assignments. Above all, this is a very practical course for psych students looking to gain skills necessary to get jobs.
+Although assignments are not graded, it is necessary to complete them to practice the skills and gain an understanding of the program.  Have a clear idea of your research question/task/project early on in the semester.
+This is a great class.  It's fun and useful and George is great.
+if you put in the work, this class will likely help you design and run studies for the rest of your career
+I learned a lot and have more confidence in experiment programming. I am sure I will use it in the near and far future.
+Definitely improves your matlab skills. However, if you really need structure then this might not be the best class for you. but it was still a good course and im glad I took it.
+One of the best classes I've taken. I've finished the class able to program my own psychology experiment effectively and already I'm putting my skills to practical use.
+It might take time and effort, but in the end it's worth it. I'm SO glad I took this course, even though I felt like it devoured my semester.
+Great course if you want to learn to use MATLAB and Psychtoolbox to program cognitive psychology experiments.

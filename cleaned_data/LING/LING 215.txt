@@ -1,0 +1,3 @@
+If you are interesting in phonology, you will likely end up in this course. Kevin does a good job teaching about not just linguistics, but also about statistics, a little programming, and how to work with corpora, which are helpful not just in phonology but in all branches of the field.
+The most useful part of this course (if you are not planning on going into phonology) is the statistics and corpus training. Very, very important to have a course in this at some point.
+Take this class if you took the first semester of phonology! It's a great next step from the first semester and the computational methods you learn, while basic, are a great introduction to how to apply computational methods to linguistics, no matter what field you do.

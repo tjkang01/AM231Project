@@ -1,0 +1,26 @@
+Homework is fairly balanced and you actually learn a lot from the presentations.
+The course will introduce you to current research in quantum information.
+If you are interested in learning current research topics in quantum information science, this course will provide you a large number of fruitful materials that can interest you very much. Personally, I would say this course seems to be more concentrated on atomic physics perspective.
+Excellent introduction to quantum information, lectures are engaging, and presentations and psets provide a good overview of modern theory and experiment in the field
+A great course if you are interested in quantum information with a focus on experiments. Don't expect much quantum information theory though.
+A great introduction to world class quantum computing research.
+This course provides a deep understanding of many cutting edge topics in atomic physics, and the class presentations are an excellent way to learn the material.
+This course has the highest knowledge-output:time-input ratio of any course I have ever taken.  This course has a moderate workload but every exercise (homeworks, presentations) makes a noticeable improvement to your understanding of the field.  Prof. Lukin does a good job highlighting many of the current problems that people look to address in this field.
+Quite a lot of work but rewarding
+I would only take this class if you are actively doing research in Quantum Information or related fields.
+Extremely useful course that especially for graduate students, theory and experiment alike, interested in pursuing graduate research in the field. The breath and depth of the topics covered will prove useful to anyone interested in the realization of quantum computers.
+There is not much about quantum information
+It's a class exploring both the fundamental part and the application of quantum mechanics with exciting overlap between these two focuses.
+It's really a great course!
+Come to the guest lectures even if you are not taking the course!
+I would tell future students that this course is very interesting and very challenging to understand, but not a significant time requirement in terms of problem sets.
+Definitely take it if going into the field; it is not a huge burden work-wise, but it goes through some topics that are very helpful in reading the papers in the field.
+Really interesting material.  Doesn't require too much work.
+A fantastic introduction to research in the physics of quantum information. A must-take if this intersects with your own research interests.
+Interesting papers and you learn a lot about experiments of quantum optics and atomic physics. Learn more about those topics than about the essential ideas of quantum information. Homework often more frustrating than difficult.
+Not very rigorous mathematically. H-core quantum theorists might not get much out of it. But it is a wonderful introduction to the topics in and language of quantum information science.
+Nielsen and Chuang is an excellent reference.
+If you think its interesting go for it, if not then...
+Start or at least read the problem sets early because:1. Different TF's are appointed to different problems, so you have to check their office hours in advance.2. Some of the homework problems are easy, others are difficult, you'll know only if you read it. Sometimes the given material is not enough, and sometimes typos make it even worse.
+Perfect if you're considering quantum info. (or even if you just want to gain some insight into the field)
+very good overview of the field and introduction to current research

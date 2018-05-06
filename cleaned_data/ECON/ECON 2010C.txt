@@ -1,0 +1,67 @@
+Take first part of the course if you have an interest in methods for macroeconomics. Take second part of the course if you have an interest in surveying growth-related models.
+I would recommend David's portion with enthusiasm, especially if Argyris is TFing. David gives a lot of real-world applications, which are helpful for economists in a variety of subfields. He's also an excellent lecturer who knows how to keep things interesting. Between David and Argyris, even if you come in with very little understanding of macroeconomics, you can keep up and will learn a lot.For Barro's portion, I recommend with reservations. If you are interested in macroeconomic growth, it covers a lot of different models. Barro also has a dry sense of humor, so certain people may enjoy it (I didn't though), and he is the leading expert in the field. If you're a first-year PhD student and have to take this course, then I say that while Barro is a bit dull, he's not particularly demanding, so it's not too stressful.
+Macro can be very interesting after this.
+The intuition is good, but the rigor is no giod p.
+Dynamic programming is really useful (in more than just economics) and really interesting, so I definitely recommend this course.
+Not much.
+I thought I had not interest in macro, but I really liked this course.
+Professors teach with passion and provide more intuition than what you can get from just reading the Lecture notes.
+Students who were not already interested in macroeconomics were generally not very interested in this course.
+Go to lecture and do the problem sets.
+Stay on top of all the problem sets as this will help you when you are studying for the exam.
+The material is obviously very useful if you are thinking of going into macroeconomics but is still enjoyable if you aren't. Professors Laibson and Aghion are captivating and entertaining. As an undergraduate, I learned a lot and would definitely recommend other undergrads to take it.
+I have never before covered nearly as much material in just one semester. Unbelievable learning experience. I warmly recommend this class to undergraduates.
+David will speed up toward midterm, and the final from Philipe is likely very easy and hand-wavey oriented.
+David is right: Bellman equations are basically magic.
+Take it if you need to! And certainly take it if you want to learn the building blocks of dynamic programming, as well as growth theory.
+Really you should ignore my response. If you like macro, its great. If you don't (I don't...) its not...
+Do the problem sets even if they are not required. It makes it really easier to follow the material and if you do them there is no need to study a lot more, at least until a week before the final.
+This class is a great intro to "real" economics.
+The subject matter of Laibson's portion (dynamic optimisation) is not as interesting as that of Aghion's (growth theory), but it is useful for subsequent work in macroeconomics.Aghion is a very exuberant lecturer, and his lectures are very engaging, and they are very closely related to his two books on growth theory.
+This is a fantastic course for undergrads who did well in 1011a and want something more substantive than 1011b. The first (dynamic programming with Laibson) and second (growth with Aghion) halves are each excellent in totally different ways. With Laibson, you'll learn techniques that enable the analysis of a variety of economic problems while doing the coolest math since the Implicit Function Theorem. Aghion offers an energetic whirlwind tour of modern growth theory, plus some interesting asides into current research topics. Overall a wonderful learning experience, but don't expect any feedback from the TFs.
+Professor Laibson is an excellent teacher of dynamic programming, and Professor Aghion provides an introduction to growth that includes a stimulating introduction to a broader array of topics than many other growth courses.
+Laibson's part is great. Aghion's part is interesting but a bit chaotic.
+Laibson and Aghion are excellent teachers and enthusiastic lecturers. I would definitely recommend this course to undergraduates who are interested in academic economics.
+I would not recommend this class to fellow undergraduates.
+Good introduction to dynamic programming.  Growth part a bit more disjointed, though the fundamental material being covered is still interesting.  You really get out of this course what you put in -- you could get by with not doing much work and/or reading.
+Do the problem sets on time to make sure you don't get behind.
+this is a very fast paced, and also difficult class.
+Again, I would recommend with enthusiasm if Laibson taught the whole thing. He is very thorough, very clear, answers questions thoughtfully, cares about students, very busy but accessible outside the class. I learned a lot from him. The part that is taught by Barro is not very good - Growth is such an important topic and I feel like I still don't understand the big picture. The growth part seems like multiple models that are constructed solely on the basis of fitting the data.
+it's required anyway
+For Prof Barro's part be sure to read the relevant parts of his book before each lecture - you will understand a lot more.
+As everyone will say, Laibson is a fantastic teacher, which helps with some of the blander material he has to cover.  Barro's portion is much better than people usually give it credit for. You will learn a lot about growth and government policy.  You should read the book if you can.
+There may be a lot of algebra involved in the problem sets, but always keep in mind the intuition behind what you are doing.
+This course is a continuation of Econ 1011b. It uses more advanced techniques such as dynamic optimization and stochastic calculus. For Laibson's part, lecture notes are very good, but going to lectures and take notes is essential because he will talk about consumption and investment patterns that are not really in the lecture notes. On the exam, the true/false questions will be very conceptual, even though the notes are very mathematical. Barro's part has lots and lots of readings and is just hard. The lectures are hard to understand without reading the chapter about the material. His questions on the exam are also very conceptual. So it is NOT enough to just memorize some equations, but you also have to know what those equations mean and how you get them.
+This is a good class for undergrads to take if they are thinking about grad school in economics.
+I would recommend this course for anyone interested in economic theory, on the basis of the technical methods taught in the course, if nothing else.
+Excellent first part of the course. Awful second part.
+Don't take this course unless you have to. Laibson's part is alright, but a bit slow. Barro's part is useless and incoherent.For Econ doctoral students who have to take this course - This is a great course, you'll enjoy it immensely!
+Personally, I would recommend that undergrads interested in taking a graduate econ course take 2010a instead of this course. Going through MWG and learning the basics of modern game theory is extremely useful, no matter what economics you ultimately want to do. Certainly, dynamic programming is also useful; but do some graduate game theory first.
+The course offers a great introduction to discrete-time dynamic programming and deals with continuous-time dynamic programming at a heuristic level. The topics are a healthy mix of theory and empirics. Prof. Barro's part, while dealing with some interesting issues, tends to not be sufficiently to-the-point.
+Laibson is wonderful, Barro is not.
+The professors set the bar low, so it's not difficult to hop over it.
+If you try to understand every detail introduced in the class, it would take lots of time and effort for reading assignments.
+This class provides a good foundation for topics in macro, and is helpful for understanding macro papers and models.
+Laibson's part is fantastic!  The second half not.
+Laibson's part is great for aspiring undergraduates (but please, don't ask all you questions!). However, the grades will be more stochastic now that not Prof Mankiw is teaching the second half.
+It is difficult.
+expect great, interesting, and useful material from prof laibson.  maybe prof farhi will improve in the future, but I did not get much out of him.
+I'm not a macro guy but I got a lot out of this class. Knowlege of dynamic programming is a must, and David does a wonderful job of easing you into it and making it less intimidating. Emmanuel does a good job of taking you through the neo-classical and neo-keynesian models. Although the math is intimidiating, if you focus on the concepts and the strategies for solving problems you will be fine and get a lot out of it.
+An excellent course in order to get along with macroeconomics. An impressive array of topics addressed in a one semester class. In order to take the most of it, be ready to complement the classes with the reading assignments.
+--
+This course teaches the basic tools and introduces many of the models used in modern macroeconomics. You should not expect any clear cut and dried solutions from the course.
+The first half of course is great, but the second half is pretty boring and not worth taking.
+This is a great course taught by two of the giants in macroeconomics!  They are both outstanding researchers and lecturers.
+Laibson's dynamic programming section was useful. It's was probably good to see the NGM because of the frequency with which it's used.
+Dynamic programming is awesome!
+Dynamic programming is good to learn, but only take it if you're interested in macro.
+David Laibson is a good teacher and that makes the first half of the course enjoyable.
+Try not to let Barro's pacing kill your interest in growth. The questions are very important.
+Keep at it, and it will make a good deal of sense by the end.
+This course is extremely useful for all students in economics.
+Give the first part of this class the time it deserves. There is more to life than the Glaeser mid-term!
+The first part of the usual graduate macro class.
+I would tell students that this is a difficult course. They must stay on top of the material in this course or they'll find themselves drowning in it to prepare for the final (which is the whole grade!).
+Macro is not for everyone. David is one of my favorite teachers; he clearly presents the material, motivates it, provides context for the techniques we learn (mostly how to solve Bellman equations) from a variety of fields, and he seems to really care about the students. 
+
+Robert is one of my least favorite teachers; unless you're already passionate about growth theory, it's simply not an interesting class. He doesn't provide any explanation for why a non-growth theorist would care about this material, and has some weird disdain for the class.

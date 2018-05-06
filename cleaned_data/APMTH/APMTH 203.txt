@@ -1,0 +1,16 @@
+I recommend this course to students who want to learn applications of linear algebra and probability theory to various physical and biological questions. This course can also be helpful to analyze results of experiments on complex systems. Note that much time and effort is required.
+Very interesting selection of topics that seem disparate but, in retrospect, made sense as a coherent syllabus.  I thought the random matrix theory chapter was especially cool.  Psets have many computational problems so experience with MATLAB etc will help.
+If you don't have a physics background, some of the examples/units might be more difficult to follow and get intuition on. Besides that, an interesting course that dives into some interesting aspects of stochastic processes.
+Wonderful class!
+I found this class extremely interesting. The class is taught well and each subject has interesting physical applications. I really enjoyed it.
+This is an excellent class about interesting ways in which math can applied to study random processes. If you go to the intro lecture the material pretty much speaks for itself. Amir is very good at presenting difficult material in a way that is easy to understand yet not dumbed down. He is very rigorous and clear in his presentation, and warns you where he might be skipping a few steps. The problem sets are challenging but still very doable, leaving you with a feeling that you've discovered something interesting but wasn't forced to struggle too much. I highly recommend this class to anyone who has a solid (roughly junior level) math/physics background.
+A great overview of topics in stochastic processes that are necessary to stay up to date with physics research, but aren't covered in other physics classes.
+The problem sets are difficult, but very rewarding! Ariel is a fantastic lecturer, and this year he prepared detailed class notes that were posted online. We covered a great selection of topics, look over those if you are interested in the course and you will find that so many of them are applicable to your interests.
+Great class, take it.
+This is a really hard class but if you have a good background in statistics, physics, and some basic programming experience you should have no problems. There were four to five undergrads that took the course and working together really helped to understand the materials.
+If you have studied linear algebra, complex analysis, Fourier analysis, and probability theory, you will find this course fun because ideas from all these areas are applied to an interesting selection of problems involving randomness  in a variety of fields.
+it is a really nice course to broaden our view even if we are not working on physics or biology.
+This class was great. Ariel is a good teacher getting better by the day. You should definitely take a class with him if you have the chance. The class was very interesting and accessible. Definitely take it if you want an introduction to stochastic processes with applications in physics.
+This course was challenging but extremely interesting. Work with other students on the problem sets.
+Amazing and unique selection of topics. And Prof. Amir is an excellent teacher. Highly recommended.
+It's harder than the course description implies (or implied).

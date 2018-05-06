@@ -1,0 +1,1 @@
+This is a can't-miss course for anyone with theoretical interests in econometrics, and it's valuable for applied people as well. You will walk out of the course with a deep understanding of what nonparametric econometrics is, and how the various nonparametric identification and estimation approaches relate to each other.

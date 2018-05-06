@@ -1,0 +1,315 @@
+The best part of the course is the subject matter particularly the programming. If you have any interest in math or computers, you'll love this course.
+be prepared to spend a fair amount of time on this class
+The class is very enjoyable. The last two problem sets were difficult but doable.
+Painless, useful if computer science is a topic of interest
+Its a great way to get exposed to programming with a language that is extremely useful.
+Great class with interesting material, but the problem sets take a significant amount of time to complete
+A great intro course - and not as soul-killing as CS50 or CS51. And the professor is great.
+One of the most practical and interesting things you can learn at Harvard and a great introduction to computer science for anybody
+Take it!
+It's a good intro to CS that's definitely not as intensive as CS 50. Stay on top of your work and go to lecture. Start psets early and you should be ok. Pretty engaging, especially the guest lectures on cryptography, privacy, etc.
+Not too difficult, and a great skill to have going into the working world.
+Work hard on your problem sets
+take it if you are interested in learning some basics about computers and programming
+It may be much harder and more time-consuming than you expect. But you will, indeed, learn about Java.
+Easy to understand class with steep learning curve
+If you are interested in learning some computer science, but don't want to drown in CS 50, this class is a great place to start.
+Good way to get an introduction to computer programming in an environment that is not overwhelming.
+Make sure that you can devote many hours per week on problem sets. Otherwise, this will not be a good experience.
+Anyone who wants to know about computer programming should take this course!
+Be prepared to spend a lot of time on problem sets about once every two weeks
+It's much easier than what I heard of CS50, but it's still computer science and still difficult. However, if you really want to learn some things about programming, it will definitely help you out.
+Takes a lot of work.
+Take it only if you want an easier introduction to CS than CS 50. Otherwise, just bite the bullet and go with CS 50
+A lot of tedious work, but I found it relatively interesting and would feel quite accomplished upon completion of each problem set. Sad but true.
+The course was interesting and enlightening but could requires a significant commitment of time and effort so perhaps should not be taken in a semester with a challenging course-load.
+Great class if you want to learn programming basics buy not surrounded by CS students. I've never been in a class with so much support and people that really love the material. Really fun elective where you learn a lot!
+Although this course was great as an elective (by choice), it might not be worth taking if you're doing it for core credit only. I'm sure there are QR classes out there that do not require as much work and which are not as difficult. Otherwise, if you're interested in CS or would like to learn something interesting and useful, this is a great course to jump into a great coding language.
+beware of how easy scratch is and how hard java is
+Great intro to CS.
+This is a great class if you have an interest in computers, but are too intimidated by CS50 or don't know where to start.
+Fantastic elective if you want an introduction to the world of computing.
+I took it pass/fail...thank god b/c I had to work in order to pass
+I would recommend it as a QR class...
+The problem sets definitely became difficult towards the end and would eat up weekends sometimes.  Taking the class your senior spring is not the best idea if you have a thesis because you may (as I did) fall behind during some of the critical periods of the class.
+Look at some Java before you start.  Its great for some basic computer skills.
+Knowledge in html and java are both useful computer science languages to know for the future. Just be prepared to spend a good amount of time on problem sets!
+the problem sets take a long time to complete
+This class is awesome, perfect for senior spring! I'd also recommend taking CS50, that's something this course made me wish I had done.
+Be aware of late nights when the problem sets come
+If you enjoy learning about computer programming or solving logic problems you will enjoy this class.
+You shouldn't leave Harvard without a basic understanding of Computer Science, and if you don't want to kill yourself with CS50, this offers a reasonable and far less taxing alternative that provides many of the same long-term benefits.
+Take this course if you really want to learn about CS.  If you need a core, it is probably not the easiest way, but it's no CS 50 either, and it teaches you the beginnings of an important skill that many people value.
+CS1 provides a great introduction to computer science. The course is moderate in difficulty, enjoyable, and a good way to do some programming.
+If you're thinking about majoring in CS but haven't done anything in CS before, take this class first before diving into CS 50.  This class is also good if you have no idea how computers work or how programming works and you realize that this is probably a good thing to know.
+The problem sets are time intensive, but the overall workload in manageable
+great overview for students who are interested in computers, technology, but with no experience in programming.
+This class is a painless way to learn some programming skills which may come very much in handy in your future career.
+If you need a QR core, I'd highly recommend this departmental class instead of the Core QR classes. If you're just looking for an intro to CS that's not as overwhelming as CS50, this is a friendly, chill intro to wrapping your brain around the concept of coding, focusing on the java programming language.
+Be ready to do a lot of work, but work that is definitely rewarding and satisfying.
+I would tell them that there are a lot of students with strong computer background, and they have to be prepared to put in lots of time and effort into this course.
+It's a lot of work if you are just taking it for fun.  The difficulty of the course accelerates quite rapidly at you end the semester.
+This is a great class for a senior who wants to learn but doesn't want to pull their hair out.
+this is a good class -- but be prepared to work hard and put in a lot of time on the psets! it's not easy as it may sound!
+Comp Sci 1 is a great alternative for students who suspect Comp Sci 50 might be too challenging/take up too much time.
+A great elective, gen-ed requirement, or introduction to computer science. There's almost no work except for a problem set every two weeks. Make sure you don't wait till the last minute to start those problem sets--they are really long. There's no final and the midterm is easy. This is definitely a great way to get a high grade in a 4th class with not to much effort.
+great introduction to computing!
+If you want a more intense CS class, just take CS 50. CS 1 is a great introduction, and certainly not a walk in the park. More difficult than expected.
+I would tell them this is a great class because it gives you a solid foundation to understand how computers work and the kinds of energy it has taken to get our technology to where it is today.
+If you have any interest in CS, this is a great course to take to test out the waters. be prepared to work copiously if you want to achieve a good grade.
+Good preparation for CS 50 and other CS classes. You learn how to program, at a reasonable pace.
+This is a great course for beginners. Moves really slow. Good alternative to CS50 if you have no further interest other than to dabble to get a basic understanding.
+Very manageable introduction to basic computer science - I had absolutely no background in CS and did not feel overwhelmed at all.
+Take this course! Don't take it pass/fail since there's almost as much extra credit on every problem set as there is real work.  It's super helpful to know how to program and the methodological thinking of a computer scientist.  Great class.
+I really enjoyed this class.
+It is a very good intro into Computer Science, much gentler than CS50.  While it is not on the same par as CS50, it introduces many important concepts of programming and also has some tidbits of interesting information about computing history.
+I took the course pass/fail and it really took the pressure off but there is plenty of extra credit offered in the course that if you wanted to take it for a letter grade, you could easily do well. The professor says the problem sets should take about 4 hours a week but they actually probably take closer to 10 unless you have a really good understanding of the programming involved.
+if you're nervous about cs50, take this course as it will ease you into the material
+It's a good class if you want to get an idea of what programming is all about, and understand how to use the basic concepts to write your own programs. Not too hard, though some of the later problem sets were challenging, and may require you to go to office hours.
+START YOUR PROBLEM SETS EARLY! Otherwise this class can be really hard. Definitely go to office hours they're really helpful. Don't skip class, its really hard to catch up and teach yourself.
+The material is very interesting, but be warned that you will be learning almost exclusively java. The psets start out easy and then get very hard and time-consuming toward the end. Start early and go to office hours. It's easy to sink hours and hours into them without proper guidance.
+If you want to know something about programming, it's the best class you can take through Harvard.
+Make sure to keep up with the material as most of it builds off of previous weeks.
+Professor Leitner is great, and you should attend all of the lectures because they are very fun.
+Awesome class! It is the perfect fit for people who are interested in CS but aren't ready to jump into CS50. It made me want to take CS50 and now I am much more prepared. Professor Leitner is awesome, and 60% of the grade is homework. Doesn't get much better than that.
+it helps to have some background. people who aren't necessarily comfortable around computers should not take this class. It helps to also have a friend or two to help out. Don't take this class alone, unless you know a cs concentrator
+This is the perfect introduction to computer science for anyone who isnt sure they`ll be brilliant at programming or anyone that doesn`t want to give up their social lives to take cs50.
+Take this class if you want to learn some basics of programming. To be honest, you could really learn the stuff on your own free time if you just read the lecture slides. You also might want to consider taking it pass/fail if you can, because some of the later assignments can be more time consuming.
+It's an interesting class and I'm glad I have a better sense of computer programming now.
+It was difficult
+This class was by far the worst class I took at Harvard. Poorly taught in lecture coupled with an unprofessional TF made for the most painful academic experience of my life that has now ruined by GPA.
+I don't/won't concentrate in CS, and was very hesitant about whether to take this course in reading period. Upon reflection taking this course is one of the best decisions I took this semester. It's a CS world now, and I would say an overview of computer science is a must not matter what you do in the future. Yes, this course is a downgrade from CS50, but it does teach you legit CS instead of fooling you around. So do be prepared to do work! If you are just taking this course as an elective expecting to learn some CS, take it pass/fail as I did.
+This class is a good introduction to computer science that isn't rigorous like CS-50.  That being said, this easy class can become very difficult if you don't attend lecture and fall behind on problem sets.  Professor is a great teacher and makes himself very accessible to students.
+It's an interesting course that will teach you useful basic skills and expose you to some fascinating topics. The lectures are a little dry but not intolerable. The problem sets are time-consuming but manageable. Just be careful with the final Java project--it can eat up a LOT of time.
+My best advice would be to start the problem sets early! I've always been a procrastinator and found this class very stressful at times.
+I learned a lot, but I feel like it's still not enough to do anything cool in java. HTML was the best part, but after that, I was lost. So this class is worth it just to have learned HTML, but if you are worried about your GPA, either take it pass/fail, or don't take it, and buy a textbook about HTML. Also, be prepared to go to office hours, but then not get much help because everyone else is at them too. And be prepared to have a bald spot on your head because you're going to rip your hair out.
+Take CS 50 if you want more in-depth programming
+more time consuming than one would expect! it's not CS 50, but still quite a challenge--make sure you have time for this course before signing up!
+This class is really interesting especially of you have never had any programming experience. BUT whoever tells you that this is an easy A does not speak the truth, especially if you have never programmed. Be ready to spend many hours on the problem sets!
+Don't fall behind on the problem sets!
+A fun and fairly easy class. No coding experience required, although you'll end up with a pretty good background in Java by the time the class is done.
+Good class, you will learn a lot, and actually realize that CS is an extremely time confusing feat.
+Interesting stuff, but lectures and sections can be boring.
+Although CS1 is probably not as intense as CS50, you still need to put in some time to do the psets, which start out really easy and get progressively harder. It's good to have friends who have taken CS before who can help you or to find someone in the class to do psets with. I thought it was manageable overall and a really good introduction to java. There's plenty of opportunity for extra credit too on the psets. Overall, I recommend to anyone who might be even a little interested in CS
+Great intro if you're thinking of doing more CS and have no background. Not too difficult, but you NEED to have time to go to office hours! Also it is a time consuming class, so don't pair it with a difficult course load. It is useful, but not easy, persay.
+Start on the psets EARLY (I cannot emphasise this enough). Some psets are difficult and you will need to run between office hours to get through them.
+I would say that this course is not as easy as it first seems. While there is a lot of extra credit, coding assignments in Java take longer than you may think. Some of the psets actually get pretty tedious later on. Be wary if you have no experience in programming. You may have to spend a lot of time learning and debugging. Overall, a great class though. Interesting topic and Professor Leitner is sick. I would definitely recommend for people looking to take an easy CS course to gain exposure to the topic.
+If you take this class, take CS50 afterwards.  This class gives a good base in Java programming and it would be a waste to let all that go!
+Painless and interesting. Great lecturer. What else can you ask for?
+You definitely learn a lot and you'll be able to make cool programs in Java by the time you finish taking this class, but the time spent on it is rather intensive, particularly towards the end when you cover object-oriented programming. Become friends with CS people. It helps. If you don't need to take this class for a grade and you don't have an adequate CS support system, pass/fail is probably a good idea.
+Take Bits instead.
+This class takes more time than you think it will - but it's useful knowledge to have. Enjoyable, but also annoying. Find a friend to go over the problem sets with, when it's allowed.
+Work on the psets sooner rather than later. Go to office hours.
+The beginning of the semester started very slowly, but as time went on the Psets started getting immensely difficult and time consuming, requiring office hours attendance in order to figure out how to do them.  The psets were really gratifying when completed but a cause of stress during the week.
+The teaching staff is fantastic, Professor Leitner is a very nice man, but THIS CLASS IS NOT AT ALL A BEGINNER COURSE. Don't believe them when they say that it is -- the people who do really well are those who've had prior programming experience.
+This is a painless and enjoyable course with assignments that are actually fun to work on.
+If you know nothing about programming, it's a good place to start if you don't want to be overwhelmed. At least this year, the TF's for this class were really, really good, and you will learn quite a bit.
+Learn some easy programming!
+It's a manageable amount of work, very interesting, pretty fun overall. Great teachers
+It's a great and relatively easy introduction to computer science.  If you're looking for something more challenging, I'd probably start with CS 50, though.
+An excellent intro to programming and other CS topics that isn't as intense as CS50. If you like working on the computer at all, this class is a lot of fun!
+this course is great for someone with no computer science experience and just want an introduction
+Only do it if you actually want to learn basic CS (which is more of a chore than some might imagine)
+This class is meant to be fun, but it does take some work and the more you put into it the more you get out of it!
+Really interesting and applicable knowledge for anyone to have about computers.
+You'll obtain a good deal of knowledge at a fairly low price (in relation to time and effort).
+It's a relatively painless way to do a QR.  The PSets can get a little long, but they're doable, especially if you start early.
+This class is a great intro to CS. You will learn how to build a website in the first few weeks and it will def get you interested in CS.
+Great class. Worth the time and the effort.
+Great intro to CS that is less intensive than CS50.  Psets are fulfilling if you like struggling to find a finite answer (vs. humanities / social science assignments where there is no right answer).  With CS, the program will finally work and that is a fun moment. Great contrast for non-science or engineering concentrators.
+This is a great class if you are interested in Computer Science but scared to take Cs50.
+It might seem frightening at first, but it's a warm and supportive environment, and you'll catch on quick.
+A manageable introduction to computer science. I really liked it.
+If you have some general knowledge about computers and computers science this course will be pretty easy.
+great course if you are willing to put the work in.
+Fellow computer-illiterates: take this class pass-fail.
+This is a great class for anyone who has taken no CS and wants to before graduation. It made me wish I had more time here so I could take CS50 afterwards! But be warned, psets can be very frustrating if you don't have good resources (read: friends concentrating in CS) to help you out when you get stuck. Overall though, great class and highly recommend. And Professor Leitner is very nice and laid-back.
+I would probably recommend CS 50 to someone who wants to be able to code very well because this class is more basic and it is pretty slow, but for people who have other difficult classes or other commitments, this is a great course for learning about computer science.
+Great class with great professor. Good option for seniors looking to learn CS but too intimidated to take CS50. Start psets wayyy early and go to office hours. I took this class with my thesis and was fine.
+GO TO LECTURE, otherwise you'll be completely lost.
+This class is a great way to start CS if you do not feel like you are ready to immediately jump into CS50. The professor is great and the TFs are very helpful and respond quickly to email.
+This is a great class to take as a senior looking for an elective!! The professor and TFs are flexible if you're also working on a thesis (as I was). Other comments will say this too, but make sure you start problem sets earlier- they always take longer than expected. If you go to class and section, then you will not have major problems with the class, especially if you know nothing about CS.
+This class is actually quite difficult. Especially for seniors who haven't taken any appreciable quantitative classes in a while, this class will be a struggle.
+If you think you want to do CS but are not ready to start with CS50, this course should give you enough confidence.
+Take it if you are at all interested in CS but don't want to take CS50.
+Take this class to weed yourself in or out of CS 50. I found that I enjoyed CS, but not enough to kill myself in CS50
+Great class, you should take it!
+This course is a lot of fun and Dr. Leitner will do everything possible to make sure you're on track. I am a social science concentrator who was writing a thesis while taking this course and can honestly say that there was no better way for me to (1) learn computer science basics, (2) fill the EMR requirement, and (3) take a course alongside my thesis for senior spring. Definitely take this if you're considering it. The TFs are tremendously helpful and the satisfaction you get from writing a program is like no other. Have fun!
+Awesome foundation if you are hesitant about taking CS50 or another high level course. I came in with no background and would feel confident taking another CS course at Harvard.
+The psets take a long time, so be prepared to work hard on those and go to office hours.  However, there are only 6 of them, so if you spread the work out, it's not too bad.  The exam was pretty hard and the average was fairly low, but it does not count for a large percentage of the grade.
+Take it!
+If you want an easy course, here it is.
+A great introductory course for those interested in dabbling in computer science. If you're looking for an easy A, I wouldn't recommend this class since a decent amount of effort is required for the problem sets and preparing for the exam. However, if this is a subject you really want to try out (as it was for me), it is worth the effort. Take the class.
+This is a relatively easy class. However, keep in mind that the structure of the assignments allows for a lot of hand-holding that doesn't really prepare you for the mid-term exam. Otherwise, a good and easy class for someone with little experience but an engaged interest in the field of computers.
+I really got what I wanted to get out of this class. At the beginning of the semester, I had ABSOLUTELY no programming experience, and my knowledge of the inner workings of computers boiled down to myths involving little men with hammers. Now I know a little about both CS history and CS. You want a Java code? I'll write you a Java code!!
+Hard.  But also cool at the same time.  Just take it with a friend if it is your senior spring
+This class taught me a ton about computer science, and I know how to use java semi-sufficiently now! I think it's a great introduction class that prepares you well for CS50. However, beware of the problem sets. They get pretty intense as the semester moves forward!
+Was a great P/F class as a senior. Learned a few things about programming without the stress.
+This class was neither good nor bad. It is quite a bit of work but it's not necessarily hard. It might be a good step to take before taking CS50, but if you want to learn tangible skills that will allow you to be a competent programmer after 1 course, then I think going directly to CS50 would be a better idea.
+This class is deceptively challenging.  The teaching staff and porfessor provide ample support and resources, and for good reason.  For those searching for a simpler GenEd, the class is manageable without prior programming experience, however the assignments are not always intuitive.  Take advantage of the online help and the many office hours opportunities, and you will do fine.
+it's a great introduction to computer science and definitely a great way to find out if you're interested in taking more cs classes.
+This class is difficult but really interesting. The material is useful to know and no matter what the work will get done.
+Great intro to computer science class. Workload is very easy to manage and the project is cool.
+If you are interested in learning some CS but don't want to commit to CS50, definitely take this course. It's a skill that everyone has to have and the professor delivers the content very well. He is also very enthusiastic about the material.
+This class is a really great way to get background on CS. I had no programming or CS experience and the class felt really manageable. The problem sets are very reasonable, and there are plenty of opportunities for extra credit throughout the semester.
+As long as you put in the work to complete the problem sets and go to office hours, you'll do well.
+CS1 is GREAT! I would highly recommend it for anyone who wants an intro to Computer Science. It is perfect for non-concentrators and those with humanities backgrounds. It is exactly challenging enough to be fun, but not impossible to be frustrating. The lectures are pretty interesting -- Leitner is super nice. The TFs are incredibly helpful when you have questions. And the workload is totally manageable!
+Try to start early on psets. And get the recommended reading material. It will help if you have trouble making section or lecture. Also, lectures teach alot of the base for pests. attend and make notes of what Leitner says because it's likely to pop up in psets for extra credit.
+This is a great, stress-free CS class if you are interested in learning some basic logic that goes into programming.  It is an easy class if you have any previous experience with using loops, etc.  The assignments are not very difficult/time consuming for the most part as long as you pay attention to lecture and understand the programming logic.  They are actually pretty fun.  That being said, you do not learn TOO much programming in this course.  I would not consider it comprehensive enough to be considered an "introduction to computer science" course.  But that's fine because the aim of this course is to just expose students to CS.  If you like it, definitely take CS50 and classes beyond that.The professor is great!!
+Great class if you want to learn about computer science but have had no previous background.
+Definitely take this course with friends. I wouldn't have made it through otherwise
+Pretty low-stress class. Psets are few and far in between, with tons of extra credit points. One midterm, which was open book, and a nice support group through Piazza and the TFs. I learned a lot about CS, and though I'm probably not going to continue on with CS50, this class was great.
+Good intro to coding, both practical and theoretical. Not as useful for learning the inner mechanics of how computers work. Leitner is an engaging lecturer with very broad knowledge of computer science and its history.
+If you are thinking of taking this class to gain a general understanding about how CS and programming works, then you should take it; it's fun and not designed to be stressful, although the psets took a while. If you're thinking of a CS concentration, it might not be worth it -- just take CS50, even if you don't think you have enough experience. There's a much better support network.
+It's a good introductory to computer science and java programming, but don't be fooled by other posts. I had no programming experience and therefore had to take hours on pests, which were very time consuming.
+This class is brilliant; there is no way you could ever regret taking it. Professor Leitner is a fantastic lecturer, and he makes the material fun and interesting. The environment of the course is very very low pressure, and it is unlikely you will find this course stressful. The teaching staff is willing to work with you to understand the material, and they are quite flexible as long as you try. I give this course an A++, and it is suitable for anyone who is interested in computers and may want a more flexible introduction than CS50. You will still learn tons of interesting information, and you may be surprised by how much you enjoy the coding.
+This is a great way to gain an appreciation of CS without an insane workload. However, the problem sets are nonetheless time consuming, particularly if you can't make it to office hours. The course is also not fantastic at orienting you so that you know where you are in the grand scheme of the class. Nonetheless, it's still an enjoyable class!
+This course is a great and easy opportunity to have a first look into computer science and to learn java, one of the main programming languages. The pace of the course is slow and the problem sets are not too difficult. So it's a great course for beginners, who don't want to take CS50 immediately. Be prepared to spent a lot of time on your final project if you decide to write a program instead of a paper.
+Easiest class I've taken at Harvard. You only have psets once every two or three weeks, they are not very hard as long as you attend office hours. There are opportunities for extra credit points on every problem set. The teaching staff are really nice and want you to do well. Perfect elective for anyone with a casual interest in computer science.
+This is a good class to take if you are interested in computer science but do not feel ready for CS50. It also seems like it is good preparation if you want to take more CS classes.
+Don't take it if you're writing a thesis, you will get behind and find in unenjoyable!
+It's a great course; you learn as much as CS 50, but a different language (java instead of C). It's graded easier, more relaxed, and there is more help. A great way to get a background before attempting CS50.
+Lectures will be interesting, but be prepared to learn almost everything on your own
+It's a wonderful class that is a lot slower paced and more personalized than CS50 is.  The professor is very enthusiastic about the class and really wants you to learn (which is extremely rare at Harvard for a base level intro class).  You can tell Leitner really enjoys teaching the class and he took us all out to the faculty lunch so he could get to know us better.  The class is very manageable, problem sets may take more time to work through in the last month of the class, but it's still a lighter workload than CS50.  You learn a lot about the field of CS in general and fascinating stories about its history.  I loved the class (it was probably my favorite this semester) and am so glad I took it. If you're looking for an intro level programming class in Java, it doesn't get much better than this.
+Fantastic class!  The material is both interesting and challenging, but since the class is designed as an introduction it was never stressful and never required all-nighters.  If you are interested in learning computer science, but a little scared of CS50, take this instead!  Also, this class is a great senior spring elective.  The professor tries to be extremely flexible for students writing a thesis.
+One of the few classes that will equip you with a tangible skill when exiting the class; goes at a moderate but not unreasonable pace. Be prepared to put in the hours for psets, but the skills you walk away are definitely work with.
+This course is amazing. It is really good for people that are thinking of a computer science concentration.
+This class is a great way to learn about computer programming. I am definitely not a computer-savvy person by any standard (I have never even heard of UNIX before). However, by the end of the class, I am able to program my own java game in GUI!
+Great class for anyone interested in CS
+you'll learn a lot.  but i strongly suggest you take it pass/fail--you still have to do quite  a bit of work, but it's less stressful.
+I am a senior and I wish I had taken this class earlier. If you are afraid of computer science, take this class! Don't wait till its too late and you don't get the chance to take more advanced CS classes after!
+If you have no programming experience please note that this class will not be easy for you. Completing even the simplest assignment will be time consuming and painful. Is it doable? Yes. Will you hate your life? Probably.
+take it, get ready to learn and work hard
+This is a pretty easy class.  BUT you have to do the homework and get all of the answers right (because homework is worth 60% of your grade).  So that majority of the semester you will have to really work to complete the problem sets and do the final project but the experience is fun and you will learn how to program at the end of the semester.
+Go to office hours and do not fall behind
+Relatively easy class only if you keep up with the psets!!! Do NOT start the pset 2 days before the due date. If you start it ahead of time you will be able to finish it without a problem and will definitely perform better on the midterm and learn more!
+get started on your psets early! they take forever
+This is a great course for seniors, esp. those that had really heavy course loads in the fall of each semester and weren't able to take CS50 (i.e., pre-meds). If you want to learn CS and not in a highly stressful manner (I have heard CS50 is very intense), this is the course for you.
+Dr. Leitner gives a great introduction to the field of cs and makes learning Java fun and meaningful.  Problem sets get progressively harder so account for the time requirement and save your late days for the end!  The exam is fine if you prepare enough and the final project is straightforward and interesting.
+Henry is so much fun and really loves to teach. Lectures don't actually help with problem sets that much because most of the learning on problem sets comes from trial and error on each problem. Regardless, people in the course want you to succeed, which is such a hard thing to find sometimes
+If you are looking for a low-key but useful course to take during senior spring, look elsewhere. This course is quite useful and you'll learn a lot, however, you'll also devote an immense amount of time to problems sets.
+Good as a pre course for CS50
+I had no coding experience prior to this course and found it extremely manageable. It gives you a new lens from which to view the world, a lens that has become integral to the functioning of our society. While I will likely never code again, I'm so happy I took this course. The problem sets were actually fun. Sometimes they took a little time to finish, but they never felt like a chore like most other problem sets. Really really recommend this course.
+Be prepared for challenging problem sets! Start them early!
+It gives you a basic introduction to computer science without being too difficult.
+It's great for getting an introductory understanding of computer science - nothing more, and nothing less. It should only be taken if you don't(!) have previous coding experience
+Pay attention in class and always do more than the minimum! You have a lot of chances for
+You learn a lot, but be prepared to work harder than you expected on the problem sets. Take it pass fail if you're nervous about your abilities to learn computer science as quickly as they expect you to!
+Relatively low-key introduction to some foundational concepts in Computer Science. The problem sets actually take work, and are quite difficult. Be prepared to put in some time at office hours, because a lot of the concepts required to complete the problem sets aren't covered in lecture. But Dr. Leitner is funny and nice, and the TFs are all reasonable. Everyone knows that this is supposed to be an enjoyable, laid-back, and interesting class. I think the tone of the course overall was good, even if at times I found I was do a bit more heavy lifting and hustling a bit more than I would have liked. Recommend!
+Start the psets early and go to office hours so you can get help. The TFs are very willing to help students through problems and explain any questions you might have about the assignments or about lectures and notes in general.
+This course is a fun, exciting and stimulating introduction into Computer Science, and I recommend it to any and all students, regardless of your interests, because it provides a new outlook and way of thinking while teaching practical skills.
+THE PROBLEM SETS ARE WORTH A RIDICULOUS AMOUNT OF POINTS. DON'T MISS THEM!
+It's difficult if you don't have any previous experience, but good to get more comfortable with programming. Pay close attention in class.
+This class is great if you really want to learn how to code before you graduate. Lectures aren't the most engaging or helpful but go to section and you'll be able to pick up most of the concepts. This is not a throw-away class though, so be prepared to put some time into the problem sets!
+If you're on the fence about taking this class, take it! It is a thoroughly enjoyable, unintimidating, well-taught introduction to computer science and you really will learn so much! Some of the p-sets take a bit longer than others, but I can honestly say that I enjoyed all of them. And there are a ton of opportunities for extra credit!
+You'll be teaching yourself most everything
+CS is hard if you are a hick, no two ways about it.
+Psets take longer than you think and lectures aren't helpful for doing psets. However, you do learn a lot (like how to code in java which is cool!). Taking this class pass/fail senior spring is a chill option and you still get to learn a lot.
+I would tell students to definitely take this class, especially if they have been thinking about taking CS-50, but only want to pursue computer programming as a hobby.
+This is not an "easy" course. You learn some serious java programming, and the problems sets get quite difficult. If you don't have prior experience, expect to be visiting office hours frequently. Section is optional but very helpful, more helpful than lecture. The midterm (open book) and final project aren't too bad though. It's a good course to take P/F if you just want an introduction to programming without too much stress.
+I heard it's like CS50 but easier. I didn't die and actually enjoyed every week of this course, unlike some of my friends who had taken cs50. Draw your own conclusions.
+A great introduction to Cs courses
+Take this if you want to learn basic Java programming.
+Great senior spring class! Definitely don't start psets the night before. Going to office hours and section makes the psets a lot simpler!
+If you want to learn the basics of computer programming, I highly recommend the course. It moves along pretty slowly and is definitely geared towards people who have no experience and just want to learn the basics. No one will treat you like you should everything. It's also not that bad in terms of coursework: there are six psets, a midterm, and a final project.
+Take this before CS50 if you want an idea of how CS is without going fully into CS50.
+This class is a great way to learn a computer language (java)! A great class to take if your interested in computer science and have not taken CS 50 yet!
+This course is a great option if you want to learn CS but are too intimidated to take CS50. It's fairly basic, but you still learn a lot, just with a much lighter workload. Lectures are a bore and can feel  irrelevant to the coursework. But the real learning comes from working through the psets.
+This course was definitely a much better intro to CS than one like CS50, but it was still very challenging and a lot of work.
+Decent class for senior-spring-ers or anyone else looking for a fun, easy elective. Emphasis on the easy - lectures aren't particularly helpful in understanding how to do the assignments, but if you're able to grasp programming logic on a basic level, it is really not difficult to do well on them. I wouldn't recommend taking it pass-fail, if only because that seems sort of pointless (if you do all of the work, which is not too hard - and is, for the most part, really fun! :) - grades should not be a problem). Overall, very fun intro to (very) basic programming.
+This class definitely gives you an intro to CS that is WAY more manageable than CS50. Although there are not p-sets every week (more like every other week) the psets can be challenging and will take up a lot of your time that week so make sure to start them early.
+This course was interesting but difficult. Problem sets took for ever and were very tedious.
+Harder than it looks. Don't fall behind because it is impossible to catch back up. Go to office hours and go to section! Don't miss lecture because you wont understand the lecture slides without it!
+This class is a great intro to CS, much more doable than CS50 for people who have absolutely no programming experience. I ended up learning a lot and feel like I know the "great ideas"/styles of thought in computer science.I took this class for a letter grade in my senior spring semester while also writing a thesis, and it was still doable. That being said, this class does require a considerable amount of work (though doable) and you need to put in the time to actually learn things well.
+This class only covers Java and a bit of machine language, so if you're looking for anything else, look elsewhere.
+This class is excellent for a beginner's introduction to CS. Word of advice: GO TO SECTION. I found it very difficult to do problem sets based on lecture. Section is your savior.
+The course is the perfect introduction to computer science for someone who knows next to nothing. I feel equipped to talk with programmers and hardware experts (though just simply), which will probably be quite handy in this day and age. I've also heard that taking this before cs50 may enhance what you get out of cs50, though I'm a senior and won't experience this. You can go to whatever sections you want and do as many practice problems as you want. The midterm and psets are not difficult, they just take some time and it's all about learning the material, which is great.
+Boring. don't learn much.
+Go to section and office hours to learn how to complete the psets. Lecture is somewhat helpful but often a lesson on the history of computer (even if the professor is fun to listen to). Overall, a worthwhile senior spring course to be introduced to Java and HTML.
+Great, fun intro to CS for folks that don't care for becoming proficient coders. From what I've heard about CS50, this seems better to me.
+This is a great way to fulfill EMR if you do not want to take math or stats. Very interesting, fun, and a good thing to know. If you are good at puzzles, the problem sets aren't that hard, and don't be discouraged by the first pset! It is graded pretty harshly, and you will never see the material again.
+Be willing to do reading outside of lecture
+It was a good class. The problem sets get progressively harder but learned a good del about Java.
+This class is poorly taught... The assignments are stressful and time-consuming. Surely there is something else you could take.
+A stress-free way to learn something about computer science.
+The exam was very difficult. Even if you feel that you're doing well on the psets, it's possible to not to well on the exam
+This class is a must-take for anyone interested in learning more about CS but not willing to commit to the level of rigor of CS50 yet. I highly recommend it for humanities concentrators and also freshmen who are unsure whether they want to explore CS further in the future. The pace is somewhat slow and very manageable (so if you already have a background in Java, don't take this class. You will be bored). The few guest lecturers are incredible and Professor Leitner is hilarious and  a great guide to introductory CS. Also, go to section (which is optional) because it's helpful, take advantage of TFs' office hours if you need it, and always do the extra credit because you never know if it might help! Overall, this class was fun and extremely practical. Because of my positive experience in this class, I'm now inclined to take CS50 in the fall.
+If you are a second semester senior looking to take an introductory computer science course, I HIGHLY recommend taking this!
+I wish the codes were given more straight forwardly to us rather than all over the lecture notes. I also found it a little frustrating that the pset questions were much more difficult or different than what we learned in lectures. I think the lectures should be tailored for us to do well on the psets.
+This is a great class to take P/F senior spring. I looked forward to lecture each week and it was refreshing to use my brain in a different way (all my other classes are writing/reading classes). While some of the p-set questions were challenging, the teaching staff are amazingly supportive and always willing to help, either through the online forum or in person. I think that lecture can help you stay on track but it's not totally necessary to attend, since most of my learning took place in section or using online resources.
+This was one of the best courses I have taken at Harvard. The depth of the material won't change your life because of its introductory nature, but learning to think about programming at its core is meaningful for any person. The course is super manageable and straightforward. It perfectly balances learning a lot with not killing yourself over work.
+It's great for if you want to take CS50 in the fall
+This class is a great introduction to computer science without the stress of CS50.
+takes a lot of work but i feel like i learned something valuable
+Spend time with outside materials to help with the psets. Section is crucial to understanding how to do the psets. Really good skills to learn but not a cakewalk necessarily.
+Take it! And take advantage of the lectures and sections.Although you can get away without going to them it's so much more worth it to go, because you will learn a lot.
+Take this course seriously by going to classes and sections and starting psets early, especially if you're a senior thesis-writer without prior programming experience. Or take this course pass/fail.
+A CS course for second-semester seniors--informative but manageable with a thesis.
+be prepared for some nights with a heavy workload, but you will learn very useful skills
+It was a really fun class. Not intimidating at all, and really what you should consider if CS50 seems a bit intense.
+This class is very straightforward and will give you an introductory appreciation of how coding works. If you're looking to learn a LOT of coding, this probably is not for you because we basically got through loops, objects, and different types of variables (especially arrays), and my understanding is that CS 50 does a lot more. If you're looking for a light elective, this fits the bill, although during weeks that a coding problem set is due (there are 6) you should expect to budget at least 4 hours to work on it.
+This course is good if you have no experience coding but want some before you leave.  However, the course is really easy and, as a result, can be unfulfilling especially if you have had coding experience before.  I would suggest taking this earlier rather than later, so you can see if you like coding.  Might even be a better introduction than CS50, in terms of accessibility.
+Class is extremely manageable and enjoyable provided you stay on top of the material (which means attending lecture)! You will learn a very useful skill and create some things to be proud of. The teaching staff holds a ton of office hours, so it is easy to get help. This class is easy if you put in the small amount of work that is required of you; if you don't do the work, it is hard to catch up later.
+This class is not as easy as it is advertised! You're going to spend a fair amount of time working on each problem set. Definitely go to section and office hours.
+Great first course in computer science, taking cs 50 and hopefully a secondary in cs thanks to this class.
+You should definitely take this. It really gives you a good sense of the basic ideas of coding. after taking it, you will be able to code some basic things in Java and have a good base to code more later on. It made me want to learn more. The problem sets are hard and take time, but they're worth it
+Interesting introduction to Java and general programming. Dr. Leitner is great at generating interest in the material. The midterm is difficult, so make sure you rack up as many bonus points from problem sets as possible. Unfortunately, I do not think the lecture style of teaching is all that effective in CS. Everyone is literally just on Facebook during lecture. This class should do more to allow students to follow along on their own computers.
+CS1 is a good elective for senior spring- it is pretty low on work and difficulty, but it is still interesting and you can learn a new skill!
+Taking this as a second-semester senior pass-fail was probably the best call of the best semester.
+Great class for senior spring but more work than expected - first two problem sets were very easy, so make sure you do all of the homework and extra credit on them for later problem sets!
+This class was a great senior spring course and introduction to computer science. Although some of your advanced CS friends may sneer at Java, I found that it accomplished exactly what I was looking for. I simply wanted to get a basic understanding of how computers work and what programming means and looks like before I left college. By the end of the course, I was able to program a game with Java and that felt very cool.
+This class is not super easy. In fact the psets take forever but there are only 6 of them and they count for most of your grade. I have learnt a lot from this class & I will probably take 50 having taken this class. I also now have the skill at writing a java program which I couldn't before.
+Will be lost if you don't go to class so if you're committed to going to class you can crush this class.
+This class is so well-taught and builds on itself really naturally. Make sure you go to class and start the assignments early. You get lots of time on the assignments but actually USE the time they give you so that it doesn't pile up at the end. Section is optional but really helpful. If Naomi is still teaching always go to her section - she helps so much with  understanding the material and giving good examples that help with the problem sets. Also, some of the guest lecturers are gems. I took this senior spring and wish I had taken it earlier - loved it!
+Take this class!  Really good introduction to CS that is pretty painless.  The class is very fair and if you go to lecture and do the problem sets you will do really well in the class.  Highly recommend for people who have zero knowledge of computer science.
+Lectures and sections did not feel to me to be very informative. Mainly, it's a class that you must learn on your own through trial and error and lots of web searches for answers or details about Java api. You will learn some about computers but not as much as you might assume at the outset. Be prepared for some course chaos (section assignments, p-set due dates, etc).
+If you have even the smallest desire to find out what CS is about, absolutely take this class. You learn so much and the class is really designed for people with no idea what they're doing.
+This class is a great way for non-CS people to learn some basic computer programming. It is very student-focused and, overall, a great experience.
+CS1 is a fantastic way to learn something about computers and programming without the stress of CS50. Psets are every other week for the most part, and Naomi is a great TF who will walk you through similar problems in section. Highly recommended if you have an urge to take some CS but are scared of CS50.
+It is a great senior spring course.
+This is definitely not an easy senior spring class. The psets take hours and you will likely have to learn the material to do the psets from section or office hours (lecture material is pretty unhelpful to actually completing pset problems). That being said, this class teaches you how to think logically and gives you a basic background if you're at all interested in CS. If you're looking for an easy elective and not super interested in CS, I wouldn't take this class.
+I thought it was a great course, I'm definitely glad I took it. I do wish, though, that I had been able to take CS50 instead. If it's spring semester and you want to start comp sci, definitely go for it. However, if it's fall, and you are trying to decide whether to take CS50 or wait for CS1, go for CS50. Assuming, that is, you want to learn how to code.
+This class gets significantly more difficult after the add/drop deadline. Although it is much less work than CS-50, prepare to spend many, many hours getting the Java psets completed.
+Pretty low workload, but the assignments do get relatively difficult.
+It's generally a great course- Dr. Leitner is hilarious and the psets are interesting. It was more time-consuming than I anticipated but still not super difficult.
+This is a great way to learn about computer science without having too much homework or work. I feel like I learned a lot, but I never felt overwhelmed. Also, the Piazza discussion component was helpful.
+A perfect class to test whether or not you may enjoy going on to CS50. Easy enough that if you dislike it, you can still do very well.
+This class is great for everyone, especially second semester seniors or people with no background in computer science. I had a lot of fun in this class, took it as an elective, and was writing my thesis at the same time, and I found the workload to be totally manageable and actually very fun. I learned a lot from it and really loved all of the problem sets! There's also plenty of access to help through TFs and friends who have taken CS50.
+This is a great introductory CS course. If you want to learn the broad material but don't want to stress about the details of java take this course pass/fail.
+I LOVED this class. It's perfect if you just want an introduction to programming but don't want to have it move at the lightning fast pace or do a ton of hours of work per week then definitely take this. I took it senior spring and it was easy enough, but I still learned a ton and I can write some java code now. I had a ton of fun with my final project (wrote a program that allows people to play a casino game). awesome awesome class. take it
+Loved this class. A great introduction to the mode of thinking that belongs to the field of computer science. Also involves some cool knowledge regarding computing and the internet.
+This is a fantastic senior spring course. You will learn worthwhile, interesting, highly applicable computer skills and you won't be particularly stressed while doing it. If you don't want to go through the torture that is CS 50, take this class instead!
+This is a great course to get an introduction to computer science, particularly if you only have room for such a course in the spring. I feel confident that I would be able to learn more programming skills independently after learning the framework from Professor Leitner. I wish I had more time at Harvard to take CS classes (I'm a senior.)
+Great class for second semester seniors
+I really enjoyed this class! The problem sets are fun and it helps if you get an early start on them so you can get help at office hours.
+If you haven't programmed before, take this pass/fail!! Also find a buddy to do problem sets with and go to office hours.
+It is a steep learning curve but it's a great introduction to computer science especially for those with no background! It also teaches you a lot about how to approach solving problems algorithmically which I personally think is applicable to really anything!
+It is a great introduction to computer science that is both manageable and really fun!
+start psets early
+If you want a basic understanding of computer programming but are afraid of CS50, take this course! However, CS1 isn't a walk in the park; the problem sets proved quite challenging at times, so tackle them early!
+Very good intro to computer science. I really enjoyed doing the problem sets and I looked forward to the new ones coming out. Perfect level of difficulty. Took a long time but doable. But the administration of this course is terrible. Typos on problem sets. Graded problem set returned 12 hours before the exam (really?). Multiple times where we are told to do something, only to find that that thing hasn't been activated on Canvas yet. Office hours and sections cancelled an hour before they are scheduled. I don't know if Leitner is unaware, or maybe he just doesn't care. Either way, the TAs need some tough love because this is ridiculous.
+CS1 is definitely valuable, and if you are committed to learning computer science then its a good option. As an elective, it was not as worthwhile as I hoped it would be and the problem sets were more challenging than I would have wanted for an elective. If you have taken AP computer science then this course will be a breeze. It is definitely more approachable than CS50, but no walk in the park.
+Great introduction to CS! As someone who's not very quantitative, I was really worried about taking this class for a letter grade, but I'm really glad I did. I learnt so much!
+If you are thinking about taking this class because you have interest in coding and might want to take CS50, it will help but from what I have experienced and have been told, this class is close to the same difficulty as CS50
+This is an intro-CS class that's actually an intro-CS class.  If you want to learn programming and are intimidated by the intensity of CS50, absolutely take this class.
+You get out what you put in to some extent--can be a little time consuming, but definitely doable and not nearly as hard as I imagine CS50 is
+Give yourselves literally the entire one or two weeks you have to complete a problem set, and if you have other big commitments during the semester it might be good to take the course pass/fail.
+Very fun and very interesting way to enter computer science
+Great way to learn the basics of coding! GO TO SECTION -- its really helpful. Also start the problem sets earlier than the day of so you can go into office hours.
+Definitely worth taking pass/fail-- an interesting introduction to CS, but course materials are sparse and too expensive, while lectures often move off the central topic and are difficult to take concrete skills from.
+This is a good course to take if you're wondering whether you're a CS person or not. I learned that I wasn't. Though some people may tell you that it is a "super easy" course, I found it very difficult and the psets took a very long time.
+Great introduction to CS. It gives you some CS literacy, the skills to produce basic programs, and is actually quite fun to learn.
+Definitely a very accessible introduction to cs. If you just go to class and start in advance the p sets are easy.
+Take CS1, and take it early in your Harvard career if possible! It's a really good intro to computer science, and although I took it as a senior, I wish I'd done it before so I could continue onto CS50 and more. It's not that much work besides the p-sets, which do end up taking lots of hours of office hours. There's lots of extra credit, so do that too because it makes it fairly easy to do well. Overall - it's solid, and would definitely recommend just to get a sense of how basic programming works.
+This is the perfect introduction to CS. The class allows you to get an idea of how things work without too much stress.
+Very hard/time consuming!!
+This class is a good intro CS option if you don't want to lose all your free time by taking CS50. Professor Leitner is a great lecturer, the TF's are helpful, and the psets are reasonable and spaced out well. I feel like I learned a lot in this class, and while I did have some challenges with a few of the psets, I'm definitely glad I learned some basic technical skills and was introduced to major ideas in the field.
+Must take this course while an undergrad - better intro than CS50
+Prof. Leitner is a nice man, but the title of this course is very misleading; basically, if you just want to learn about computer science/the tech world for fun and just want basic exposure to that and coding -- do NOT take this course. There are other ways -- like reading TechCrunch and doing code academy.
+It's a perfect elective class that teaches you the basics of coding. It is very approachable. The problem sets can seem a little daunting at first, but since theyre not weekly, if you spread them out weekly, they should be manageable.
+I think it is a course that is not difficult to do well in, but you must commit a significant amount of time and energy into it. By no means is it a "gem" in regards to the workload, but it is interesting and, in my opinion, worthwhile.
+start the psets early
+If you are afraid of CS50 and/or don't have a CS background, then take this course. It eases you into programming and moves at a reasonable pace. I come from a social science background with some programming experience and this course was very doable for me. Even for the people who have no prior experience, I'm sure they would say they did fine. The teaching staff is great, and the work is reasonable. Definitely start the psets early (you have two weeks to do them) because they take more time than you think. The final project is done independently and you can basically pick whatever you want (with your TF's approval). Very doable.
+Office hours are the way to get throught this class.
+Take the course pass/fail if you are worried about your grades. The course was such a valuable addition to my Harvard education in that it was a challenging but very manageable introduction to computer science. However, the class is poorly organized, particularly in regards to the TF staff who did not meet basic expectations across nearly every metric.
+CS1 was great! The problem sets were challenging but really satisfying once you figured them out. I knew nothing about computer science, and this was a great introduction to coding in java.

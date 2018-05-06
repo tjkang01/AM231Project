@@ -1,0 +1,1 @@
+It's a really useful class if you want to build simple models or learn how to understand models in the scientific literature.

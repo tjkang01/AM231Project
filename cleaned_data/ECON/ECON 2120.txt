@@ -1,0 +1,109 @@
+Use the lecture notes.
+great for foundations, perhaps not as good for jumping straight to applied work.  but id recommend highly!
+Just come in with the necessary preparation and don't be anxious or frustrated with a somewhat steep initial learning curve. Instead, take it with patience and ease, and fully devote yourself to learning the material and perhaps more importantly the way of thinking and methodology which Professor Chamberlain introduces. It is a very unique and rare experience, yet if you are willing, you'll be surprised at how much you learn of economics and econometrics.
+If one has the requisite background, then this is an excellent introduction to econometrics
+Chamberlain is a good lecturer and extremely nice. Definitely go to his office hours if you have a chance.
+This would be a good course for the theory of econometrics, but not very iseful for people who are looking for something directly useful for their own work, dealing with the data, writing papers etc in practice.
+Respect the course.
+Chamberlain is super-smart and makes a lot of effort to think pedagogically about the class. However, it doens't prepare you to actually use econometrics afterwards
+If you have to take 1126, you may as well take 2120.  And better Chamberlain than Jorg.
+This course is said to be much, much better with Gary Chamberlain. Still, I wonder why Harvard students don't flock to Angrist's or Newey's and Chernozhukov's classes at MIT, in droves.
+Take it if you're interested in econometrics and willing to work.
+it is very helpful if considering any field with econometric modeling. so it could be useful for studying at an advanced level or for any work involving econometric forecasting and computationsHave to work on problem sets and study the class lecture notes.
+Don't take it from Dale.
+The unlikely to recommend comes more from the teaching than the material (understanding econometrics is essential, but this class doesn't provide you with the knowledge you need any more than just studying it on your own. In fact, a lot of people used Chamberlin's notes instead of Jorgenson's to study.)
+HORRIBLE! DO NOT TAKE!
+Do not take this course if you can avoid it.
+This class is terrible. Professor Jorgenson is a poor teacher, and you won't learn much from him (he actually makes things more confusing and econometrics more boring). He also teaches a very antiquated class that does not teach you much about modern technique. Exams are basically regurgitating large formulas and proofs from the homework, which are taken from the examples he does in class, so you won't learn how to apply the concepts you are taught beyond a few narrow problems. Do yourself a favor and go take the version from Gary Chamberlain, which is supposed to be a lot better. Otherwise, buy a copy of Hayashi and a copy of Wooldridge and learn from the books. Really the main value of the course is that it forces you to spend time working on econometrics on your own.
+takes time and is somewhat difficult but rewarding in the breadth and depth of knowledge gained
+This class is poorly taught (unless you have a great TF like Tristan Zajonc). It's not worth taking, as you can learn the material much more effectively on your own.
+The lectures didn't really help me understand the material due to lack of intuition behind the concepts.
+The class covers a lot of useful material, but at a very theoretical, abstract level.
+If you need a basic graduate course in the econometric toolkit, there's nowhere else to go, so take this one.  Just don't expect to be wowed.
+Take the class from Dale.  I have sat in on Chamberlain and Dale is a much better lecturer. He provides great intuition.
+huge workload. if you dont spend 10 hours on the psets and 5-10 hours on revision per week you wont be able to follow if youre not a star at maths
+This is a good course to get an introduction to the theory behind econometrics.  I appreciated the effort to make it applied, as it brought several topics to life.  However, I did not fully understand topics by the end of lecture and often had to review the material on my own.  This was especially true in preparation for the exams, which we structured poorly in my opinion.  You are not allowed a cheat sheet for exams for this class, and I feel that I wasted lots of hours memorizing equations that I will always be able to look up when needed.  As well, previous exams were distributed, but solutions were not.  It felt almost like a trick - - why not distribute the solutions to enable better learning?
+This is a challenging course.  To succeed in it you will need to devote a lot of time reading the books and supplemental material.  The lectures will help clarify the concepts but are not self-contained to be the primary or final sources of information on any concept.  Nonetheless, Professor Jorgenson is very supportive of his students and is willing to spend time inside and outside of class to discuss course topics and how students can best succeed in this econometrics course and throughout their career.
+Be prepared to work hard. It's not an undergraduate econometrics class anymore. You have to accept it and really dig into the concepts and methods, not just "what are we using this for?"
+The class was helpful, but at times it was difficult to keep up with the material.
+I thoroughly enjoyed the class: not only is the material interesting (there are these sorts of hidden connections between topics you cover), but the professor is also extremely friendly and helpful.  I found his office hours invaluable in terms of reviewing the material, and he is happy to spend as much time as needed to make sure you understand the material.  All in all, an excellent class.
+It's not the most fun course, but it teaches you to think about econometric problems in a structured, insightful way.
+This class is extremely difficult.  Substantial independent study is required to be successful, and this will be very frustrating because you are unsure what to study.  Start reading and studying the lecture notes early and often.  Donn't take if you don't feel very comfortable with your linear algebra.
+Take it only if you have to for your career
+Solid theoretical foundations
+You will have to work hard to understand the material.  Prof. Chamberlain is extremely nice and the notes he provides are thorough.  You will need to go to section, however, to put the concepts together (which is fine).  Expect to work a lot.
+Useful and necessary for students who want to do new work in econometrics or do thoughtful empirical work, but too theoretical for those who just want to do basic quantitative work in field like poli sci, policy, and even econ.
+The approach to econometrics, and the inclusion of Bayesian inference, makes this an excellent introductory course.
+It depends what you are trying to do. If you want to be an economist, you should take this class, even though it's a slog. If you don't want to be an economist, then you have a choice of several perspectives on statistics. I think the Economics perspective is a rigorous one, but others might feel differently.
+The only reason to take this class is if you want a very deep understanding of a handful of Econometric concepts. If you are looking for an introduction to econometric concepts that are useful in any way to doing empirical research, do not take this class.
+Drink coffee before class
+This course was perhaps too theoretical to suit my interests.
+It is not very easy; prepare to deal with long and complicated matrices.
+This is a course that every economist should take, no matter their prior level of sophistication in econometrics. Prof. Chamberlain's approach was eye-opening to me and provided solid answers to questions that I never knew I had.
+If they can take econometrics anywhere else, they should.  This course is a lot of work for very little value-added.
+This is a very challenging course but Prof. Chamberlain is an excellent lecturer and the course material is taught very well.  I can't think of a better way to be introduced to this topic.
+Material is very good but lectures themselves don't add a lot of value.
+To read lecture notes before attending class
+If you can read lecture notes prior to class, you will get much more out of lecture.
+Make sure to work with a group and/or get multiple textbooks.
+gary's notes are amazing. try to read them before lecture. lectures will make so much more sense after having read his notes first.
+Metrics as you've never had before. A course everyone should take.
+Should not be any student's first statistics course, but can illuminate theoretical details for those with an existing background.
+Make sure to play around with matlab before you take this course. It's very difficult to take this course if you haven't seen statistics in the frequentist approach as well as the bayesian approach before.
+Very theoretical course. I would recommend some basic familiarity with the topics before taking the course.
+It's great if you want in-depth knowledge of the theory behind the econometrics most used in research. It's not as applied as the title and course description would suggest.
+This changed the way I think about econometrics.
+It is a must take for anyone who want to do research in econ I think. I'm glad I took the class. Learned a lot from it. And Gary is fantastic!
+Straightforward course that will make you think about econometrics in a new way.
+Put in the work to read Gary's notes thoroughly, and the course will pay off in spades.
+It is a must-attend for persons interested in understanding econometrics.
+The lectures for this class are very abstract, but the problem sets are useful.
+I took this class as an undergraduate with a background in probability theory (stat 110), linear algebra and basic analysis (math 23), microeconomic theory (ec 1011), and group and vector space theory (math 122), but not econometrics (i.e. didn't take 1126, 2110, etc.). Though this class was not easy (and became very difficult near the end, when we discussed IV models), I thought it was manageable and understandable. A thorough knowledge of linear algebra and probability theory is by far the most important prerequisite. Be prepared to learn MATLAB (which is well-documented and not too hard to pick up) and put a substantial (but not unfeasible) amount of time into problem sets.Overall, I learned a ton of useful and interesting ideas about statistical inference in a variety of situations. Gary is an excellent lecturer, and is happy to answer any and all questions both inside and outside of class -- I thought his approach to the course helped the learning process a lot and made the class very enjoyable.
+Go to Gary's pre-exam office hours, and do the review questions and practice examinations. If you want to gain more from the course, do an Analysis course before doing this one. (Previous econometrics experience will help less.)
+It's much more theory-heavy than its Ec2140 counterpart. It helps you deeply understand many techniques, but will not help you actually do applied work as much as other econometrics courses.
+Read the lecture notes and slides before class, then again after class. See if you can take 2 hours each week and find an applied way to use every method discussed in class.
+Study it very hard because it is one of the last opportunity to study seriously econometrics!
+You can learn a lot, and it will help if you read the lecture notes before lecture.
+My reservation in recommending this class would just be that it is very challenging and probably not worth the effort for someone not pursuing a very quantitative degree/dissertation.
+Theoretical - not a course for building intuition, or exploring applications
+This will change the way you think about econometrics, even if you have a very strong background. In theory I "knew" most of the material before the class, but I understand it much better now.
+Just felt privileged to have someone of Gary's caliber as a professor.
+Very theoretical, but very insightful.
+If you have any interest in econometric theory, you should certainly take this class; it is demanding but more than worth the effort, and I think it will be invaluable in preparing me for future research. I also think it's very useful for applied work (I'd recommend taking it no matter what), but 2140 is also an option for those who are more interested in just using these tools without necessarily fully understanding the derivations.
+This is a great introductory theoretical base for any economist to build.  However, do not expect to get much empirical / applied exposure from the course.
+If you're looking to understand what econometrics is actually about, this is the course to take.
+The course is valuable for understanding what the estimators we use are actually doing and why. For those doing extremely applied work, taking 2140 and just learning to implement estimators might be sufficient, but in most cases I think the deeper understanding of how to model and derive results given by 2120 is worthwhile, though the course is more demanding.
+Gary is certainly one of the best professors I have had at Harvard - do not miss an opportunity to learn quite a bit of very useful and engaging material from him!
+It's great both how much ground is covered and the depth with which individuals topics are covered with. Would highly recommend!
+Read the lecture notes before and after lecture. Understanding the motivation and intuition behind the results presented was the most difficult part of the course for me... having a good TF helps with this.
+If you are an undergraduate - it's probably a good idea to look at one of the established Statistics classes dealing with inference or linear models. Materials are not perfectly clear at times. I would generally advise against taking this class as an elective.
+Read the notes, don't go to lecture, do all the review problems.
+The majority of this course focuses on the abstract concepts underlying econometric methods. Applications are limited.
+Be ready to work. This is a difficult course. If you are not comfortable with advanced statistical and econometric methods / theory, you should delay enrolling in this class and establish the proper foundation required to succeed and optimize learning outcomes.
+This class completely transforms your understanding of econometrics.
+The workload is fairly heavy but there's lots of material that should be new to almost any first-year phd student. I found the course difficult, but I got a lot out of it.
+The course is challenging but very rewarding.
+This class is really challenging, but also is a really rigorous introduction to a lot of topics in econometrics.
+The course content is excellent. Learning it well will require some time on your own to go through the material, ask questions at office hours, and go to section.
+Don't be shy about getting a tutor if you need help. A lot of people hire tutors for extra help.
+It's a good class for theoretical foundations, but you won't learn how to do applied econometrics. Study the lecture notes and slides on your own. Gary is a fine lecturer, but once you lose him, you lose him. It's easier to follow along at your own pace.
+The lectures are hard to follow, but the material and assignments are very useful.
+try to derive everything from scratch on your own time. it will help you prepare for the final
+Great material, dry teaching
+This is not an applied class - unless matlab is applied for you.
+I didn't get much out of lecture but lecture notes were very helpful. Self-teaching from lecture notes + making the most of section and TA office hours seems like a good strategy. The problem sets are also v helpful and in terms of clarifying the material
+Much more theoretical than the course title would imply.  Gary's notes are great, though, and very helpful.  Make sure not to fall behind in reading the notes.  The best way to get the most out of lecture is to show up with printed slides, mark them up as Gary talks through the slides, and then go back and read the lecture notes (separate documents from slides, it should be noted) afterwards.
+difficult to enter but very interesting
+This is a good course that provides a detailed overview of the material. However, it is also a difficult course that requires strong familiarity with mathematical prerequisites.
+You would do well to read all of the lecture notes provided. They can help to clarify material that is difficult to understand in class.
+Assignments are most valuable. Lectures are highly theoretical, with little intuition
+Read the lecture notes BEFORE classes or the lectures can be very difficult to follow.
+If you want to nurture your love for metrics, this class would be perfect. You'd stop loving it.
+Do not take this class. The only reason you might enjoy it is that you've seen all of the material before and are wanting a very theoretical, very mathematical approach to things (and know enough of the background notation to understand it through equations alone). It is extremely dry and extremely confusing. I actually felt like I had a worse understanding of econometrics after taking this class.
+This is a really challenging course that is much more theoretical than the name suggests. Though I didn't do this, spending time each week to review and "self-teach" yourself the concepts would be incredibly helpful.
+Very difficult, but necessary to build foundation for empirical analysis
+Try to find out how the TF will be, it makes a great difference
+You ought to have taken a course that introduced Ordinary and General Least Squares, Generalized Method of Moments, Instrumental Variables, Minimum Distance. If you don't know the subjects beforehand, this course makes things murkier. At the very least you should buy a textbook that will explain things cogently and make frequent use of Wikipedia. Only if you have the background will this course deepen your understanding.
+Don't go to class, just read the lecture notes and attend section
+Unless one is interested in taking other course (and taking this one as prereq) or has a substantive use for knowing all the derivations of the estimators this course might not be useful
+It's a challenging course but well worth the effort.

@@ -1,0 +1,5 @@
+A great introduction to a modern and growing field of research. Well-taught. Highly recommended!
+This class is an interesting and fairly straightforward introduction to the intersection between statistical mechanics and information processing (especially compressed sensing and coding problems). If you're coming from a physics background this is a nice way to both learn some advanced stat mech concepts (beyond Physics 181) and apply them to new problems; the second half of the course is a bit more distant from physics though, so make sure to keep up.
+this course should probably only be taken if you are already familiar with the field. I would definitely not advise engineering students to take it. The course is very theoretical
+AM 254 introduces techniques for analyzing statistical models with quenched randomness, and explains how those systems come up in information theory. Lectures are technical enough to convey intuition for topics, problem sets are instructive (and not tedious). Overall a very good course.
+Yue and Chuang are extremely friendly and helpful. Material is extremely interesting but certainly challenging.

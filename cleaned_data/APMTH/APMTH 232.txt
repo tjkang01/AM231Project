@@ -1,0 +1,2 @@
+As long as you are comfortable with linear algebra and have had formal exposure to control and feedback systems in the past you will do well
+This class is a good introduction to dynamical systems and control theory. Because the topic is so vast, it's somewhat of a large-scale overview, so it's not super difficult. Lina is very sweet, but sometimes the lectures could be a bit more clear--and occassionally they were derailed into discussions of small details. But I enjoyed the class overall and learned a good amount.

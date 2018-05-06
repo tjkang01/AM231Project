@@ -1,0 +1,37 @@
+If you think you want to know how to answer questions about PDE's, this course will prepare you to do so.
+This is really not a class for you if you don't have a lot of physics under your belt already. This is not a class for you if you are not comfortable and very familiar with linear algebra from a pure math perspective. This is not a class for you if you do not wish to read through Zauderer and other texts outside of class.
+You need to know something about fluid mechanics and solid mechanics to better understand the examples
+This course is a challenge, but if you can invest a lot of time, it is well worth it.
+Professor expect students relatively higher level of mathematical background. Be prepared for that.
+This is an extremely difficult course.
+great class! covers a lot of interesting material from all the sciences.
+It is a challenging class but you will gain very much from attending it.
+This course is an excellent way to learn new techniques and master old ones that you'll often use in research.
+Very useful mathematical tool for solving problems. We also learn a fair amount about computational solution.
+Very helpful if you want to know mathematic methods people use to deal with real problem.
+Applied Math 202 is gives a thorough introduction to a wide breadth of math with applications in physics, especially partial differential equations.  The course not only helped me understand my own field better, but helped me see how findings in my field apply to other sciences.
+One of my favorite applied math classes! My understanding of partial differential equations and ability to solve them have improved a lot by the end of the course. Eli is a very knowledgeable and approachable professor and you will love him!
+This class is very well organized and structured.  It is challenging but fair and you will learn a lot.
+PDEs are a really rich field, and there is no doubt you will learn a lot about them in this course, although coverage is mostly of linear PDEs, with only a little time devoted to non-linear equations. As a result, the course is especially helpful for physicists or engineers interested in physical modeling. I would strongly recommend this course because Eli, the professor, is truly excellent, but the professor will be new next time. That said, I strongly suggest that you at least go to the first few lectures!
+I loved this class! Eli is just great at teaching math, and the TFs (Tibo and Neel) were also excellent. It was not the easiest class, but I feel like I have a very good grasp of PDEs, calculus of variations, and related topics. I would definitely recommend it to any student of math, applied math, or physics.
+Great class! Not too hard, but you learn a lot!
+If you have any interest in mathematical physics, this course is a must-take. You actually learn how to use all the tools that are hand-waved at in quantum mechanics and other courses. If you have always wondered what a Green's function is, this is the course for you; especially if Tziperman is teaching.
+Good class, it's very much an applied math course though.  More focused on how to solve PDEs as opposed to proving anything.
+The course was well-run and the lectures were well-organized.  However, the course moved a bit too slowly and the problem sets were very easy.  Overall, it was a non-stressful class where I learned a bit with minimal pain.
+Professor Tziperman is a fantastic professor, with superb organization!
+Great class if you want to see applications for PDEs.
+I recommend this course if it is directly useful for your research or if is a requirement.
+This class was very interesting, and the instructors were great. I feel like I learned a good bit.
+It was ok. I would suggest taking the course from a professor outside your field of research to see how pre in different contexts.
+These topics are very relevant and interesting, and the professor's enthusiasm is contagious.  Everyone (professor and TFs) was very generous with their time in helping students.
+Eli is the bomb. Actually, Eli's probably the best person to take this course (and AM 105) from. Super-organized and a great professor overall. Did you hear that? Eli's the best. :D So if Eli's teaching a course, there's just one option, which is to take the course.
+This course will teach you how to solve many types of PDE's, many which appear all throughout science. If that appeals to you, take this course; it is quite useful.
+This class was great. Eli made it a joy to come to class everyday. I was initially worried that I wasn't prepared since I only took 105, but it was no issue. You will feel very comfortable with PDE's after this class. This is a great replacement for a Physics undergrad requirement!
+A good course with an inspiring teacher, but be prepared to use additional textbooks and material not stated on the syllabus.
+good intro to PDE. A very practical math course
+I enjoyed my time in this class and we explored a variety of PDEs and their properties. If you are generally interested in PDEs this is a fine course. I will say the material learned doesn't seem particularly applicable if you are not physics or engineering, but it was fun regardless.
+That was the best class I have ever taken
+Prof Tzipermann is a very good lecturer and overall nice guy. I particularly liked that there were many takeaways from this course in terms of techniques for solving PDEs and different problems that can be solved using them. The psets were great in illustrating the general concepts without getting bogged down in algebra (of course there is still a lot of computation but that's the nature of the subject). Overall the ratio of things learned to amount of time devoted to the course was pretty high so I would recommend.
+Nothing.
+Eli keeps the class extremely well-organized and fair.  If he is teaching it again, this class is definitely one that you should check out.
+Every Applied Mathematician who's interested in modeling should have at least some background in PDE's, and this course will give it to you. Eli is a wonderful lecturer who is never scared to pause for a moment to fill you in on any missing details, and the lectures are extremely clear and will give you the necessary info, nothing more and nothing less.

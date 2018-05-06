@@ -1,0 +1,13 @@
+Stat 212 was a little different this year, since it was taught by a guest lecturer, Prof. Stroock. The focus of the class was more on the mathematical foundations of probability, not on stochastics. With that said, it was a solid foundational material for advanced probability theory.
+Very rigorous development of probability theory. Lots of real analysis our year.
+Great class! Graduate course in probability that is very rigorous mathematically. Not too much work and you learn a lot.
+This is a solid course that develops in full rigor a lot of analysis and probability theory.  There is a lot of interesting and difficult theory being built, but the class is also low workload.  The professor only gave 5 assignments and no exams, which was very helpful for me as a lot of other courses I were much more time intensive.  This likely changes based on the professor, though.
+Note that this course was very different from the usual this year, due to Prof. Stroock teaching it. Great class if you want the mathematical background for probability that you definitely don't get from an easier course like Stat 210.
+Quite a lot of emphasis were put on Ito calculus, and stochastic differential equations -- that's somehwat orthogonal to areas of probability that are most relevant for me, but it is also very interesting.
+You have to have a good mathematical background or else you may be lost very easily.
+This class is really fun and rigorous!
+Best class I have taken all year. Anyone interested in economics should strongly consider taking this class. Natesh is a fantastic teacher, and the material is incredibly useful.
+Good class! It was my favorite course at Harvard so far (outside the exams, problem sets could've been a bit more challenging).
+This is a great introduction to advanced stochastic processes - take this course if you want a deeper understanding of martingales, and an introduction to stochastic calculus.  Natesh bases his lectures primarily off of Steele's book - so skim over this book in advance if you want to know what the contents are being covered!
+The material is very interesting and the course resources are very useful.  This course required a lot of time outside of class for me to deeply understand the material.  The problem sets can be long sometimes but are not unreasonable.
+I would strongly recommend 212 to anyone with an interest in stochastic processes. Natesh is brilliant and puts a lot of heart into it. This was the second year of Stat 212 in its modern form, and course mechanics improved considerably over the semester.

@@ -1,0 +1,2 @@
+This is a great course if you want to be up to date with the most recent advances in genomics.  We review the latest papers and discuss them - both Shirley and Jun offer great insights.  Course content is subject to change yearly.
+Excellent survey of current research topics in computational biology (focus on genomics and cancer). Very little statistics, which may be improved in further iterations.

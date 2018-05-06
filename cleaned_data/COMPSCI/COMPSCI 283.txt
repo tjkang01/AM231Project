@@ -1,0 +1,54 @@
+Prof. Zickler's lectures are very well-presented and engaging
+It is challenging to fully, completely understand all the linear algebra behind the more complex algorithms and it's sometimes difficult to wrap your mind around the projective geometry. However, Professor Zickler is a fantastic teacher and makes it more intuitive and fun to learn. The problem sets and final project are extremely rewarding as you get to see the power of the algorithms you learn in class as you apply them to real problems. One of my friends said it very well: "The density of moments in this class that make you say 'Wow. I never thought about the world that way before.' is very high". If you put enough effort into this class to try to understand the material as well as possible, you will be very glad you did.
+A very excellent and relatively easy class. You'll be exposed to many ideas and can get really creative with your final project
+I like the assignments. They enhance my knowledge learned from the class and they are so interesting.
+This is an incredibly worthwhile class that exposes you to a breadth of image processing and computer vision algorithms. However, it isn't something to be underestimated. It's a tough class, but it thoroughly doable if you leverage office hours and collaborate with your peers.
+If you are at all interested in how 2-D images are created from the 3-D world and what you can do with these images, definitely take this class! There are so many interesting topics that I learned throughout the course, starting with projective geometry and homographies and ending with classifiers and face detection. This area of computer science is very exciting as new technologies are being invented.
+
+There were 8 problem sets and 1 midterm and 1 final project. Each problem set had a mixture of coding and mathematical proofs, and the midterm was pretty comprehensive as it was held in mid November. The final project is an individual project and is pretty rewarding, as there are so many different topics to branch out to.
+This is a really cool course
+Make sure you have a decent linear algebra background (or if it's been a while since you've taken linear algebra, review the concepts) before taking the class! I hadn't taken linear algebra for several years, so I struggled many times in class because linear algebra concepts are essential to many of the algorithms and concepts in computer vision.
+
+I thought this class was a great overview of the fundamental concepts and algorithms in computer vision, so definitely take it if you're interested in that field- there are many exciting applications! Zickler is a great lecturer and tries to give an intuitive understanding of the material, but he's not very available outside of class (he says he only eats in undergrad dining halls once a year maybe). The TF's were helpful at office hours but very slow to answer questions on Piazza.
+Interesting material and clear lectures. Professor Zickler is awesome. Don't miss out on this class -- it is worth it. It is quite manageable and you will learn so much.
+This was a fantastic course. Extremely well taught, fun assignments, etc. Just be aware that problem sets were due on Mondays, generally eating up weekend days one might rather spend doing other things.
+Excellent Course!  Professor Zickler is a great lecturer and definitely is enthusiastic about the subject.  You will learn a lot in the class.  Make sure however that you understand linear algebra well, or otherwise you will get lost in this class very quickly.
+Good first grad course as it's basically like an undergrad course with psets (in MATLAB sadly).
+While computer vision sounds like a fascinating field, this class doesn't really demonstrate it that well. The lectures were on seemingly unrelated topics every week, and nothing seemed to connect together on a higher level. Also, I learned that Matlab is not very fun to code with.
+Great class but a lot of work.
+Great course!
+If you have any interest in computer vision, don't hesitate to take the course, but be prepared for some work.
+The format of the course is original, not easy, but very stimulating. Stop resisting! You just have to let CS283 take over your nights. :)
+The class is amazing and fun, but not for everyone. Think carefully about whether the format of the class is right for you.
+-switch to linux early-take the simplest approach whenever possible-ask for help from the TF and prof whenever you are stuck.
+Go to every class! They're early, but in each one you learn something useful about computer vision. The more techniques you learn, the more you'll have at your disposal for the project. And the ones you actually implement are the ones that will stay with you.
+I would recommend this course because it is extremely interesting and, without doubt, a great experience.  However, the course load can be very demanding depending upon the person's experience.  So I would only recommend this to those people whom I believe are adequately prepared.
+CS283 provides extremely valuable experience in working with a small group of dedicated, talented people on challenging and interesting projects.
+This is an amazing class that teaches you about an area of Computer Science of incalculable potential.  Anyone with any interest in AI, vision, visualization, or algorithms should definitely consider this class.
+Difficult and time consuming programming projects.  You spend a lot of time on a topic you dislike.
+This is a unique opportunity to not only learn about computer vision, but participate in a start-up-like environment and learn how to peer review and help each other on coding projects
+This course is a hands-on introduction to the major problems in computer vision.
+If you are willing to work very hard, the course is worth it.  But put a lot of time aside for this course.
+It's a good course that covers many aspects of computer vision.
+There are some really cool assignments that take a really long time, so take this course if that sounds appealing to you.
+It turns out that machine vision is a bag of hacks - if you like programs that fit together beautifully, this course may not be for you.
+I think this was a very good course, and we learned a lot.  My only reservation is that it was quite demanding, which isn't of itself a bad thing, but I would be sure to tell others what they're getting themselves into.
+The class presents a breadth of material in an engaging manner, but in the end I did not feel like I learned a substantial amount on any specific topic. That said, it presents an excellent survey of computer vision as a field, and if that is what you are interested in, then this class is great.
+It is a very interesting introduction to Computer Vision, and very useful to get a broad impression of the field. However, if you already have a background on it and want to see more advanced topics or treat them more in depth, you should look into more specialized courses and/or studying independently the particular areas of interest.
+It is a lot more work than it seems at first, and there is little hand-holding in class to simulate the nature of research.
+This course give a great overview over the field of computer vision. The workload is high, but it is worth it.
+This class is amazing. You will learn a ton about computer vision, and you will also get a very strong intuition for how algorithms are developed. Zickler is fantastic, and the teaching staff was exceptionally helpful.TAKE THIS, especially if you are a math or CS concentrator. You will not regret it at all!
+Great mix of application and theory - you learn how linear algebra, geometry, and physics are relevant to vision problems.
+The problem sets are hard, but valuable.
+If you're interested in Computer Vision, this course gives a really good introduction to the key concepts and challenges, but it also makes you work.
+Wasn't too hard. There's a lot I wish we got to do but never did.
+Great introduction to the field, as well as to how to approach various problems mathematically.
+This course is fantastic! If you're an undergrad considering it, do it. It's more undergrad-course style because it's introductory, so you get problem sets instead of paper reading, but you still get to learn about currently evolving research problems and do your own project. Prof. Zickler is awesome at lecturing and just generally cool to talk to -- ask him to lunch or something.
+The course was quite difficult, but I learned a lot. The psets are fun, and Zickler is an engaging professor.
+The course is sort of a random grab bag of interesting facts, but that's just the nature of the field it seems. The assignments take more time than you'd expect sometimes. Some of them are very rewarding and fun, like the ones where you replicate some cool effect by the end (auto-stitching panoramas, recovering 3D images from different lighting sources). Other times they're a bit tedious, but not exactly difficult. If you don't have a particular interest in this subject, it's probably better to take some other core subjects first.
+Awesome class! Professor Zickler is a very fun and engaging lecturer, and the material you learn in this class is very cool! The problem sets can be time consuming, but they usually have a cool end-product.
+This course is difficult, yes. But it's also one of the most interesting courses I've had the pleasure of taking at Harvard. I absolutely recommend it, though if you have the opportunity to take it pass/fail I'd suggest going that route.
+This course is truly excellent!  The material is fascinating, and the lectures and assignments are tremendously interesting.
+Awesome subject material, fun and informative problem sets. Prof. Zickler is an excellent lecturer, very accessible outside of class as well. Lots of math  as well as programming!
+Start on problem sets early!
+The only bad thing about the course is that it is 3 hours on Friday afternoons. Well taught, you learn a lot, requires a good amount of work.

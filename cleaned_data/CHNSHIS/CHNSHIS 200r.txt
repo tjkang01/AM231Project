@@ -1,0 +1,3 @@
+This is where the field should go in the future.
+You should take the initiative to learn more about the programs introduced in this course.  Most of the lab sessions provide enough foundation so that you can learn more about the specifics on your own time.
+This course is deceptively complicated and time-consuming. Plugging and chugging data consumes more time and resources than you might think.

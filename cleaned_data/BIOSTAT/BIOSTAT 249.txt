@@ -1,0 +1,33 @@
+I found this class pretty (unexpectedly) difficult, but I came out with a much deeper understanding of Bayesian concepts and their applications. Do not take this class unless you are truly facile with R and manipulating distributions. Exams and homeworks are very time consuming. Case studies were great and gave a good picture of what Bayes-driven research is happening around the department.
+This class introduces the basics of Bayesian statistics in the first half and then illustrates how Bayesian statistics is used in a wide range of applications.  Areas of application of Bayesian methods include causal inference, model averaging, and Bayesian non-parametric/semi-parametric methods.
+This class provides an excellent foundation in Bayesian statistics, but it would be nearly impossible without a strong grasp on both probability theory and regression.
+A lot of work, taught well, often too much work to be enjoyable (though probably would be if it were the only class you are taking), but fundamental to biostats.
+Very useful course.
+This class is time consuming and can feel 'fluffy' at times. It is great to learn about Bayes methodology and the wonders that it holds, but you  may not believe in a Bayesian analysis after this course...
+A great introduction to the theory and application of Bayesian statistics. Upon completion, a student should be able to responsibly conduct standard Bayesian analyses on their own. Some non-trivial time commitment is required, but assignments are spaced out and good learning experiences. The prof engages with students during class and clearly puts a lot of effort into making the class a good one.
+Lots of work, but you learn a lot.  Such a shame the instructor's leaving.
+I got a lot out of taking the class, but I think it could be more efficient to learn the material presented in the course on one's own.
+A very thorough but practical introduction to Bayesian data analysis. This is a challenging course covers many topics, but will provide you with an awesome set of tools in a wide range of applications.
+If you have friends in the class, it is much easier because the assignments are challenging on your own.  I learned a lot and I enjoyed the class. Not too stressful, especially compared with what I heard about the stats department Bayesian class.
+It's good and there's not many good classes offered so take it.
+Take this class unless you want to be a frequentist loser
+Look.  If you're considering this class, it's probably because you have to take it.  In which case, you should just bear it.  But it's really a terribly taught class.  Cory is clear, concise, and a genuinely good teacher.  Francesca is all over the place, poorly prepared, unable to explain things in a way that is at all clear (often confusing herself when she tried).  Her teaching style was to skip over major sections in her notes, which she deemed "not important" and then test SOLELY on those sections--which, of course, she hadn't taught anything about.
+Fantastic professors, incredibly useful material.
+The course is informative, well-organized, and thoughtful.  I wish every class were like this one.
+I got a lot out of the course and learned from each of the assignments and feel like I could perform bayesian inference in a variety of situations.  They also really treat this as a graduate level class were they do not give trivial work and expect you to come in wanting to learn and are responsive to that.  The instructors do a good job of clearly explaining the material and you should definitely feel comfortable asking them further questions.  If I had questions in future research I would feel comfortable asking Francesca, David, or Andrew.
+This course will provide you with a great foundation to apply Bayesian techniques to real-life problems.
+A good introduction to data analysis using Bayesian methods; it would be helpful to have some programming experience in R.
+Get ready to do R programming.  It is a little unfortunately but in order to do Bayesian analysis, you have to learn all the details about MCMC (Gibbs, MH).  You have to program it every single time and for every single problem.  So, you would find yourself doing programming 90% of the time.
+This is a very very difficult and demanding class. People who think to learn Bayesian for their first time should read up on it extensively before taking this course.
+If you're looking for an introduction to Bayes, this might not be the best course. If you're looking for an advanced computing course, this would be good to take.
+I was really looking forward to this class, and it was incredibly frustrating how little I got out of it. All I discovered is that Bayesian analyses are difficult and irritating.
+If some key improvements in organization could be made, this would be a great course, and everyone should know something about Bayesian statistics.
+Is a good course, but hard.
+a gentle introduction to bayesian statistics with many examples from public health research. come in prepare to code some simulations and you should feel comfortable around R.
+This course gives a complete introduction to the models commonly used in Bayesian analysis.
+Don't take this course unless you really need a biostat elective.  It is unclear and I still don't feel comfortable doing a Bayesian analysis.  Take an advanced computing class and you'll learn the same things.
+This was the first time this course was offered (at least for a few years), and hence the instructors had to build the lecture material from the ground up. I believe the next time the course is offered, this course will be very worth your while.
+great instructors, useful coding skills, very little theory and math.
+Good exposure to many bayesian concepts.
+Be prepared for some massive homework assignments, but they will definitely pay off in the end.
+this is the best biostat class i've taken.  chris is a fantastic lecturer; the material is interesting; the book and notes are both great.  the class is a ton of work, but it's definitely worth every minute.

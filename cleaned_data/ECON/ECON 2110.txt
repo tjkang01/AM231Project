@@ -1,0 +1,97 @@
+The course was operates in a "building block" style, so it is generally necessary to understand the past lectures in order to understand the later ones. I view this as a strength of the class, but not all would agree.
+Problem sets are very well organized and useful.
+Keep up with the material regularly, otherwise it's easy to fall behind.
+Review probability & statistics!
+Take a look at the course prerequisites and spend some time brushing up if you do not have that background.  The course is quite fair assuming that you have the appropriate background, but it can be unforgiving if you do not adequately prepare.
+The unit on decision theory and Bayesian updating shaped the way I think about how people make important choices under uncertainty. The lectures about identification were also very informative. The class was poorly incentivized--it was hard to get myself to review the material when we had a homework once every blue moon. Feedback was also for all practical purposes non-existent with sparse comments coming in rather late.
+This is a difficult course for many students. If you have a strong background in mathematics, you may find the class more accessible.
+This class is hard, but it's manageable. Our class seemed to muddle through it together. The class is very abstract, but does provide a conceptual background to content that will (I think) be covered in later classes. It also supplements and provides you with a deeper understanding of terms and concepts that you may have already learned at a more basic level. (e.g. regression coefficients, instrumental variables)
+This class covers invaluable information to a practitioner of statistics. However, it is lacking in its teaching: explanations are often unhelpful unless you're already familiar with the concept and opportunities to practice concepts are virtually nil. The best thing you can do for yourself, is band together with 4 or 5 other students and hire a tutor to teach the material and give you lots of practice problems. Also, expect the unexpected on exams. Max really likes taking a concept one-step-further on exams. So look at  happens if you relax an assumption for a given model. Where does the model break down? These are the types of things you'll be tested on, though it is rarely covered in class.
+Very difficult content. Try to get to the big picture (get a tutor) and try to get something out of it. hold on to your hat.
+Worth doing for the statistical decision theory and potential outcomes sections, but teaching is somewhat desultory at times.
+I think it is very helpful to go over the lecture notes each week to figure out what you don't understand before you're too deep in the course.
+It provides a good foundation of statistics and econometrics.
+This course is taught as if 65% of the material is review for all students. If it is not review for you (i.e., if you haven't done Stat 110/111), take those first or instead if you can
+I do think overall it was worth taking the course, even though I probably could have just taken 2120, because I do think it provided a more solid foundation on decision theory and asymptotics than I had gotten my previous probability/metrics courses.
+This is a foundational course in econometric theory. It is important to be prudent in deciding how to study for this course. Access multiple resources to figure out what are the best study resources available to you.
+Form study groups, seek extra practice problems.
+Course has good content, though assignments deviate quite a bit from course content. Examination style is not effective.
+Review online courses such as Joe Blitzstein's intro statistics because course is taught as if you are already very familiar with these concepts.
+It probably won't be the most fun experience, but if you're going to be doing applied econometric work it's background that you need and it's a relatively efficient way of getting it (vs an entire stats sequence).
+this is a very tough course. however, with gary and mike, it is bearable.
+Gary's very good at what he does, so it is an awesome opportunity to see how he thinks about this kind of stuff.
+Gary's notes and review questions are the biggest thing that makes this whole class worthwhile.
+Don't stress about understanding everything in Max's half of the class. It is overwhelming and you won't be able to completely answer the questions unless you've taken far more than the prerequisites. Grading at the end will take this into account.
+Much of the class is old and/or boring, but there are a few lectures with very interesting material.
+Extremely prepared professors and TF.
+You'll learn a lot, but if the course is still structured as it was this year, you'll find the pace to quick and will become frustrated.
+A bit disorganized overall, but a must if you want to know the building blocks of linear prediction problems that all economists come across. But as such, it's more theoretical and less applied.
+It sucks but you have to take it.  Make sure you find people to work with on homeworks.
+take the class if you want to get a thorough understanding of the theoretical concepts behind econometrics
+The first half is terrible, but just get through it. The second half is worth it.
+Tough to get through but the course does cover many foundational concepts
+Good grounding in theory
+This course is required for anyone I'd be talking to so this question is irrelevant.
+Very challenging, but worth it.
+2110 this year is some sort of an experiment on the students. The course has two instructors who teach the two halves independently. There is little correlation between the content in the two halves. Max's lectures were fairly fun, but the content was not well represented in his problemsets. Max's psets were extremely hard and somewhat random (followed three different books for the three different psets). Gary's lectures are better correlated with the pests, but in general harder to follow. One of the worst points of the course was the complete lack of feedback on psets - you won't see anything more than a check+/-. Know that the pure econ phds dominate the course (so be prepared for some very random technical questions from a few of the econ phds). The Matlab portions of the assignments in the second half were quite useful and interesting. The overall treatment of Bayesian inference (Max's + Gary's) was rigorous and you'll get a solid understanding of that. You absolutely need to have a good probability theory understanding (STAT110 fresh or similar). Linear algebra is key and you need to have an ability to quickly recall linear algebra facts and formulas. Econometrics intro (undergrad level) would be good to know for the second half. Overall the instructors were nice and well-intended and both have a very broad and rigorous understanding of the material. If the course is better put together next year, and you are good at math and can spend a lot of time on the class, it would be worth it.
+Only take this class if you think your undergrad metrics preparation was way below average. There is not really anything grad-level about this (except maybe Bayesian inference), and virtually everything was covered in my first undergrad metrics class. Gary implied GMM would be covered; it wasn't.
+Watch Joe Blitzstein's Stat 110 lectures online on iTunes University before starting the course.
+There was a large gap in how economics graduate students and other students taking the class felt about it, with the economics students generally finding it much easier.
+Conditional on their background this might not be a good fit for students who have not done a similar course before. This course assumes this is only a review.
+Hard, but worth it.
+The professor may not write the problem sets or notes, but he/she will write the exam, so find out what kind of problems he/she values, which may be different than those assigned.
+This course covers a lot of topics that, if you are doing quantitative work, you need to have a solid understanding of.  However, very little of the learning will come for the teaching, most of it comes from just reading the book and doing the problem sets.
+Getting  insight into the material is helpful however, unless the instruction improves, the course is not a very pleasant experience
+Be cautious in what you and your advisors expect from this course.  Incongruous lectures, sections, and problem sets will require significant outside investment to identify what you're supposed to be learning and then to learn it.  For instance, after finding analogous lecture notes from, for instance, ASU or Penn State, I could grasp a topic within about a fourth the amount of time it would have taken me to follow what was presented in this class.  After investing that extra time, the exams are be a poor reflection the distribution of students by understanding.  Most exam questions are very far from previous years' exams for this class and from the problem sets and require negotiating an unfamiliar topic in order to respond to any subsections of the question that look familiar.  If you don't have a masters in statistics or economics, and are therefore unlikely to negotiate that leap successfully as it uses knowledge of topics exogenous to this course, your grade will likely be heavily negatively biased as compared to students with the same understanding from years past who took prior years' exams.  You and your advisor should expect relatively high investment, low yield, and a potentially inaccurate grade.
+I believe the course material is good, however I would not recommend the professor. If the course is given by another professor then I would recommend the course.
+This class is theoretical and somewhat dry, but it should give you a more intuitive and rigorous understanding of probability and statistics, which (I assume) will be useful to have going forward in the econometrics sequence.
+The department does not seem to have put much thought into this class.  The professor has changed regularly and this year's instructor lacks experience.  Having an instructor with experience teaching courses later in the Econometrics sequence would improve this course and perhaps add necessary perspective to the material.
+I think this class tends to attract two types of students. The first type is one who has seen much of the material already and is only taking it to brush up before starting the metrics sequence. The second type of student is perhaps rusty or has little experience with statistics. I think these second type of students find that they struggle. The course is theoretically focused, with little in the way of application. I have also heard, though cannot confirm, that this course does not really prepare one for Econ 2120, despite the fact that it is a pre-requisite. I might suggest that students interested in this course consider taking the equivalent in the stats department. My suspicion is that it is better taught. I would also try to dissuade students from taking the course if their stats/real analysis/linear algebra is weak, or at least brush up on this before taking the course.
+Waste of time, do not take this course unless required. Max Kasy literally could not care less about this course, and it's students.
+Learn this stuff on your own.  No need to take the course.
+Struggle through the problem sets as much as you can, its the only way to learn.
+This class is difficult and notorious for being poorly taught.  However, the content of the course is valuable and worth the investment.
+probability and statistics is an incredible subject. get the casella and berger book and bring the online lecture notes with you to class. I didn't realize it until the end, but having the notes with you makes both the notes and lectures make a lot of sense.
+This gets very difficult as class proceeds.  Don't get fooled by the first few classes of quick reviews of easy materials.
+For econ PhD students: You will use much of the material covered by this course in the rest of the PhD sequence (not just in econometrics).  Look at the syllabus, the book, and example problem sets.  If you are not already very comfortable with this material, you unfortunately have to take this class or the two-semester version in the stats department.  Do not listen to other grad students who did not take the course.  You will get a lot out of this class, just not necessarily from the Professor in the current way it is structured.
+If you don't have a good background in statistics, calculus and linear algebra the course will be very challenging.
+Great course - you should take it
+To be prepared for some disorganization.
+It's difficult to assess at this point, having not yet taken the follow up classes, but I don't think I would recommend the course unless it was necessary for program requirements.
+This course is good in that you will learn a lot of material very quickly; however, if your math skills are rusty, you will suffer in the process. The material is taught in the absence of context, so a prior background in prob and stats would be beneficial. The students who did best seemed to have had prior exposure the the material.
+This course is helpful if you're looking for either a refresher or solid introduction to probability and statistics prior to taking econometrics.
+nice prof and TF
+The course is very difficult and problem sets are too challenging to complete alone so be sure to find a good study group.
+Take the version in the math department instead if Rustam is teaching this one.
+the topic is really interesting, and should be understood by everyone who intends to work with data in the future. however, the work is very theoretical and people who are used to practical analysis will struggle with it. Those who intend to go into theory should, obviously, take it.
+The people in my program don't have a choice in taking this.  I would tell people who have an option to try to take a similar class at MIT;  the subject material is, of course, difficult, but the fact that the prof is very detached from the needs of the class isn't helpful.
+Ask questions early and often.
+This class is very hard, but you do learn a lot. Take it, but only if it is actually useful for your career.
+This course is rigorous and requires a real commitment to the material.  I enjoyed it overall but you should be willing to spend a lot of time.
+It is a very challenging course, do not attempt unless you have a very strong background.
+The course is very helpful in providing some experience in formal proof for those without a strong background in mathematics. This is in addition to actually covering the basic concepts of probability and statistics.
+As difficult as it may be, you must take it.
+Problem sets can be quite difficult and sometimes I don't feel prepared to complete them after lecture.
+This class is difficult and not particularly applicable to the research I am doing. If students are looking for useful statistics and probability concepts I would recommend taking a more applied class (eg Econ 1123).
+The quality of the course depends on who's teaching it and we had a visiting professor (as is usually the case for this course), so it's likely that information on the course from previous semesters will not be very informative.
+Take it!
+Great class. Professor Muller is great!
+This is a very good course for those with a fair amount of math background and some statistics.  If you haven't done much statistics you may get lost quickly, but too much and you'll be bored.
+You will learn a lot of Probability and Statistics even if you have taken a course in the math department that teaches it at the highest level.
+If Ulrich is teaching it (which is likely not the case) 2110 is a great introduction to statistics for economists. Even if you think you know statistics and can go straight to econometrics, you will learn a lot and get a lot out of the class.
+This course provides an excellent theoretical background. Additional courses and/or individual practice will be necessary to learn precisely when and where to apply the tools introduced in this class.
+It's a very good and useful course for those who are prepared from prior undergraduate work.
+It's a great course, but don't take it if you have not a good math and stats background. It's an excellent course to take before econometrics.
+Please, let Economics PhD students have this separately. They need to have it even more rigorously, while perhaps health or business students could also learn more at a different pace or with a different style.
+The class covers the material very quickly and thoroughly, but how painful that process is depends on the professor. If you need the course and have a thorough math background, you can get through it assume the professor's reasonable. I recommend finding a tutor early though, just in case.
+hold on tight it is a wild ride.
+Unless you're an economics/HBS grad student and thus this course is required, I don't know why you would want to take it. Even for intellectual masochists there are both more painful but also more useful alternatives.
+Not the most difficult statistics course, but probably useful to reinforce background in this material if you plan to do empirical research.
+If you took an undergraduate "Statistics/Probability for Economists"  you can still get a lot out of the course.  Undergraduate Statistics for econ classes don't assume linear algebra or analysis, and so this course is much more rigorous than an undergraduate equivalent.
+Only take this if you must.  Rustam is fantastic!  Make sure if you do take it that you stay up to date on the material.
+Teaches the theoretical basis behind probability and statistics that every economist should know. More structure in lecture would've been welcome.
+The class will make you work, but it is well worth it. This is, of course, conditional on Rustam teaching the class.
+This is a very hard class and if you are not an Econ PhD you must look very carefully at what you are getting into.
+This is a challenging (12hr+ outside of class), but most rewarding course. While I don't agree fully with the pedagogy, Rustam is as good as they come for this kind of approach to teaching prob and stats. He is an expert on these issues, open to questions/discussions/comments in and outside of class, and is friendly. If you have the right preparation coming in and you put the effort, you will have a very satisfactory outcome: learn a ton and build confidence around this tough material.
+Be prepared as the course could be overwhelming sometimes.
+Don't work too hard on this course.  It will take all of your effort but you will get very little out of it.  Just do enough to pass and concentrate on your other courses.  The problem sets are far too hard and the hard questions won't help you on the exams anyway. Also, if you take the course, get a tutor! it's the only way you will get through the problem sets.

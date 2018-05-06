@@ -1,0 +1,5 @@
+This is a great course to listen to what other people are working on, and have a lively discussion about it.
+Great course for those interested in design of experiments, missing data or causal inference.
+This is a great opportunity to learn and to receive feedback if you are doing research using the Rubin Causal Framework.
+This is a research seminar for Prof. Rubin's students
+If you're going to work with Don, at least sitting in on this course is necessary.

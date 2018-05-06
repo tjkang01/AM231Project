@@ -1,0 +1,5 @@
+You will get a huge amount of information out of this class.  I feel like I now know the 'best practices' approach to basically any statistical problem, and I have already used some of the models I've learned in my own research.  You'll also learn how to think like a statistician / data scientist.
+Great class for learning advanced techniques!
+I would strongly recommend this course (and all of Patrick's courses) for graduate students who want to gain a strong statistics foundation as well as coding skills.
+This is one of the best course in statistics I have taken.  You should definitely take it if it is offered again and bring your research data as you'll have a unique opportunity to work on it and learn from a field expert in modern statistical methods.
+This class will give you an overview of various statistical techniques that are useful in the psychological sciences, with information on where you can find more knowledge. The lectures are targeted toward communicating a general understanding of each technique, and assignments allow you to test statistical techniques out on your own data. Overall, a very useful and very practical course.

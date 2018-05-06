@@ -1,0 +1,39 @@
+You will learn a ton without being bogged down with busy work. The professors are great and Valeria is an amazing TF.
+This class is a repetition of other things that you have already learned. It is confusing because it is never clear what you are supposed to be getting from lecture, and allows you only to design oversimplified experiments.
+The subject matter is very useful. The professors (Dasgupta and Rubin) were excellent and it was a treat to learn from them. Valeria was an awesome TF - very knowledgeable, always approachable and helpful, and had well-prepared sections. Lectures were enjoyable (I attended all of them), and the professors encouraged questions. The course was based on slides, lectures, and other handouts (papers, book chapters). These were good, although a cohesive textbook would have been ideal as sometimes you need more detailed explanations (I think the instructors were taking a different approach so there may not be a textbook out there using this approach). Also, beware that the HWs are primarily in R, and the course essentially assumes you know R rather than teaching you it (coding support was available in OH but no formal training was given, with the exception of a few examples). Fortunately, HW only counted for 10% of the grade (although this was not universally agreed on as a positive - some students felt it should count for a larger share given the amount of time it required). All in all, it was a very good course and I learned a lot.
+You will learn the right way of thinking about experimental design in this class.
+good course, but very disorganized. easier than most upper level stats classes. also, KNOW R BEFORE THE CLASS!!! don't be me and have to learn R for the first pset. The coding in this class, compared to others (Stat 111) is hard, especially for newbies.
+Do not take it unless you are at least an advanced undergraduate statistics concentrator.
+The material is very useful,  and the class is pretty low-key. Prof Dasgupta and Valeria are also very approachable and very helpful.
+Never be afraid to ask for help, and find a study group to do problem sets.
+It is a good class to take and unlike most other statistics class, it is not that bad or scary.
+This is among the most practical and useful courses I've experienced for anyone interested in research or engineering.
+It's a fantastic class.  There is a nice mix of theory and application, and the professor is amazing.
+It's not the sexiest topic in the world, but this is a solid and well-run introduction to an important branch of statistics.
+I would recommend this course to students with a solid understanding of the material covered in Math 21a and b, and an interest in experimental design. The professor is awesome!
+Fantastic course. A great introduction to experimental design. A little slow moving but the content is really interesting.
+This class was fun, and very practical.
+If Professor Dasgupta is teaching, I would highly recommend.
+The material is very interesting and applicable.
+I would say it's a great class to take if you interested in conducting experiments in your research.
+It's a great class; not too hard, but definitely challenging and provided me with useful knowledge. Definitely super applicable.
+It's very useful and fascinating material. The TF and lecturer are both accessible and friendly and explain things well.
+Stat 140 is a thorough course dealing with most of the useful experimental designs in existence today.
+I say take it!!! It's so informative! The HW are regular but they are definitely doable with the readings compiled by the professors!
+interesting material... but not a structured class and the psets/midterm was hard
+relatively easy, somewhat interesting class
+it is excellent.
+This is a good class to fulfill a Statistics requirement. The workload is not bad (don't be intimidated by the final project it was very easy). However, the class is not organized well and there are not enough materials provided in advance to study for the exams.
+If you are interested in understanding reasons for and alternatives to conventional randomized design, this is a wonderful class.
+Very well taught course!  Comfortable workload.  Final project is interesting.
+Great Course!
+Tirthankar is wonderful at teaching. Don is cool but rambles a lot. Peng is the best TF. Take the class if it's offered. It's fun and not too much work and you learn about experimental design from a different perspective.
+The course and material are awesome, but I wish we had covered a lot more. Many times I felt lecture got redundant and we could have moved on to other topics.
+This class is a bit slow (you more or less cover the same basic idea about 8 times as you get into more complex and varying designs) but I think that it is very useful if you plan on applying statistics through experimental design.
+The professors and tf are very willing to help.
+This class is a pretty painless was to learn about design of experiments. The material is applicable and useful, sometimes a little boring. All around the class is a good stat course. If you don't have any experience in R coding, it is tough. Our TF was really helpful with the R code, but it is definitely confusing without that background.
+This course ranks among the most interesting in the statistics department, striking a good balance between mathematical rigor and experimental applications. Professors Dasgupta and Rubin are first-in-class, both personally and pedagogically. 
+
+The course is more similar to 111/139 than to 110/170, but it (in my view) is the most interesting of the five.
+Great class- teaching staff is awesome and problem sets are reasonable. Will definitely help to having previous R experience before taking.
+Developing an intuition for how to design experiments is very important, especially if you want to eventually work as a data scientist or statistician in industry. This class might seem monotonous - you'll see a lot of Fisher Randomization tests, and you'll be doing largely the same thing over and over with more complex designs. At first I thought it was redundant, but now I can see its value. I'd love to see more case studies in the class, because it'd be fascinating to see how experimental design has actually affected how companies function and make decisions. I'd say this is a core class for stat concentrators, but perhaps not the most interesting. Very applicable work though, we were always working with data.

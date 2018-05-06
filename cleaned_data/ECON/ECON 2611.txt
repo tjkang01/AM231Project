@@ -1,0 +1,11 @@
+Take this course if you want to have any hope of doing research in IO!
+not as easy as it looks; prepare to work hard to analyze the readings
+Be very familiar with Matlab!
+It's a tough class, but interesting and a good overview of many topics.
+The reservation is that you have a specific reason for taking IO, rather than mere curiosity. It's hard enough that I wouldn't recommend it unless you think you might want to use IO theory or methodology in research.
+Be ready for some heavy-duty programming problem sets, but the material is otherwise interesting and fun.  You will learn a lot.
+The class helps as an intro for various topics in IO that might be directions for future research.
+The class is a lot of work, but I think Myrto does a good job of distilling these pretty complicated models, so you do feel like you learn a lot.
+Problem sets will take longer than you think.
+It is a great course for learning the methods of structural estimation.
+The tools are interesting in themselves. I was expecting to be able to do more things with the tools, but the set of problems that can be analyzed remains limited so far. The methods still require some important assumptions, but at least they provide a point of departure to analyze more complex market interactions. Still, I am not sure that these methods provide the way for the future.

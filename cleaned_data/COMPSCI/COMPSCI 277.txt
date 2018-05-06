@@ -1,0 +1,16 @@
+Excellent course, fun projects, challenging material, no busy work. Great class.
+You get to learn cutting-edge methods and get exposed to new directions in graphics research
+This class is about theoretical geometric modeling. Mostly state of the art, cutting edge stuff. Nothing super-applied. Professor is extremely smart.
+The workload is low, but spend a lot of time trying to understand the concepts so that you can handle the assignments.  A strong background in linear algebra and differential geometry really helps.
+Schlomo makes this a great class.
+I liked the class a lot, especially the materials. The materials and the papers are super cool. You may need to know some diff geo, but Prof. Gortler does a good job unpackaging the machinery. Great class.
+It's a laid-back class. You'll learn some cool things about discrete geometry but the pace is reasonable and the workload light. Expect to present a paper over one or two classes and complete one programming assignment. Some understanding of differential geometry is really useful, graphics background helpful but not necessary.
+Dr. Gortler is AWESOME.
+Great course to get you exposed to different concepts and ideas in geometric modeling. Lots of cool papers to read. The workload is not bad, mostly just reading papers, 1-2 programming assignments, and present one or two papers to the class.
+The course covers a lot of interesting material. The programming assignment could have been given out earlier though.
+Every Harvard student should take at least one graduate/reading seminar. As an undergraduate in computer science or math, it is often hard to get a sense of where the cutting edge of knowledge is. It feels great to read, discuss, and understand current research papers with a great professor in a small class setting.
+I really enjoyed 277--we read some interesting papers and I liked the format of the class, with student presentations on the reading and discussion. We got a lot of feedback on our work for the assignment and learned a lot doing it
+The material is pretty interesting, though the learning is mostly self-directed, and you won't get any kind of feedback.
+Spend time understand the nomenclature used in class notes, otherwise you's end up just being a silent spectator.
+Geometric modeling is more about math than anything else.  If you're someone with a mathematical bent, then this class might be interesting for you.  A really good grasp of linear algebra really helps.  However, it did seem like you really need at least a semester's worth of differential geometry to get the most out of this class.  Dr. Gortler does a quick overview of the basic concepts at the start of the semester but it's really not enough to truly understand the math behind most of the papers.
+If you like geometric modeling and graphics programming, this course offers you some exciting theoretical developments in the field.

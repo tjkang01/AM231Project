@@ -1,0 +1,1 @@
+This class is very fun. It lets you see the progress from the past century to present of questions on Decidability. It allows you to see the frontier of the field and the areas which are "hot" for research nowadays.

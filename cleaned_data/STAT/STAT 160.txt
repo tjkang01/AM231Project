@@ -1,0 +1,36 @@
+Absolutely a necessity if you plan to work with survey data for research.
+Most applied statistical methods classes focus on how to analyze data once it has been collected. This class is one of the few that focuses on thinking about issues of data collection and how they affect inference and estimation. It covers the theory and practice of survey data structures, estimation, survey design and implementation, cost-effectiveness considerations and missingness in a structured manner with good textbook support.
+This course is a great choice.
+If you are interested in designing or analyzing a survey for your research, this class is a must. Though the lectures are more theoretical, the techniques you learn (and apply in the problem sets) have lots of practical applicability.
+An essential class if you want to start becoming well versed in survey methodology and analysis.
+This course covers content that is useful to anyone wanting to do research using surveys. Unfortunately, the lectures are very hard to follow unless you have a strong background in maths/statistics. The textbook however is very accessible.
+A good course if you want to understand how to design and analyze surveys.  Given the amount of material to cover in one semester, it does go fairly quickly through the topics; don't expect to really get deep into the issues, though the instructor does give supplementary readings for those interested in more theoretical aspects of the topics.
+This is a great class--Prof. Zaslavsky is full of knowledge and enthusiastic about teaching.  The homeworks help you in learning how different survey methods affect your data analysis.  The project was also fulfilling in that you can go in-depth on a certain issue.  However, I recommend students learn R or Stata before taking the course.
+take it if you are serious about surveys.
+Useful if you anticipate using surveys in your own research.
+Very useful class if you want to do applied work rather than work on theory.  The instructor explains and clarifies very well, the lecture notes are useful, the book great and the problem sets instructive.  It's not really easy, but well presented.
+Be sure you know statistics before you enter this class.Get ready to work hard in the problem sets.
+Interesting course on survey methods and analysis. It does focus heavily on the mathematical analysis, so do not take this class if you want to focus on qualitative issues with surveys.
+Sampling design and analysis are extremely important to understanding data, but you should be prepared to spend a lot of time on theoretical topics. The final project does give you a chance to apply something learned in class to a topic of your choice, though.
+Good class for understanding sample design and design-based analysis. Definitely take if you plan to do survey research or analysis
+Instruction assumes a fair amount of statistical knowledge and there is not any time dedicated to explication of more basic concepts.
+Extremely useful and fundamental course for statisticians, even those not interested in surveys or even sampling. the sampling analysis framework is extremely useful
+If you are interested in the subject matter, this is a good course
+More of a stats class that I anticipated - be prepared!
+It will be difficult, but if you plan to work with survey data, it will be useful.
+If possible, I would recommend auditing the class since the material is very useful. However, I found the class itself to be a frustrating experience overall.
+Spends much more time on sampling design and analysis than questionnaire design.  The group project was quite difficult to coordinate and I would have preferred just to do it on my own.  The course is low on examples that guide you while you are working through the homeworks.
+It's a hard class.
+The material is actually useful.
+This class is very practical and teaches you to think about the practical limitations of data in a survey context (and can be applied more broadly).   There is a lot of information and lectures go quickly but make sure to ask questions and actively participate.  You can learn a lot in this class and come away with valuable skills in survey analysis.
+Would recommend for people interested in actually fielding surveys and analyzing surveys.  The focus is definitely quantitative, so don't take if you want to learn about how to ask questions, etc.
+this course, as it is taught now, is heavy on math theory and less on application. or maybe its just the way its taught. hard to pay attention in class when alan seems to be speaking another language.
+Take this class if you are interested in survey research as a career. You will get out of it what you put in.
+If you want to learn the math behind survey design, this class is for you.
+This isn't a hard class in terms of hours, and the concepts in survey sampling aren't overwhelming difficult.  Still, this class can be very frustrating because the notation is so complicated and ill-defined.  The professor is interested in teaching but isn't particularly effective at times in explaining the math in easy-to-understand manner.  He uses a lot of notation and it becomes very difficult to follow it after a while.  Still, this is the only class at Harvard that teaches the math behind surveys.  I did get a lot out of it, but it could've been better.  The main piece of advice is to read Lohr and just focus on getting the concepts there - if you can do that, you will get most of what you need to know for this class.
+This course is only for people really, genuinely interested in sampling theory--otherwise you'll be terribly bored!
+This is a great applied course to take if you plan to work with complex survey data in your research. It is particularly strong on the concepts underlying variance calculations of estimates. If you are primarily interested in survey design (that is, the actual instrument, not the sampling design), I would not recommend this course. The only good thing about that particular unit was thoughtful feedback on the group project. The survey-writing project itself, and the guest lectures on writing survey questions, were neither enjoyable nor helpful.  While it would be possible to do the homework assignments with only one previous statistics course, I recommend taking this only after several courses in statistics, biostats, or econometrics. A more solid foundation in probability and inference will enable a more nuanced understanding of the lecture. I  also got a lot of value from the final project; the flexible parameters allowed people to dig into an area of interest. Depending on your interest, you can choose to explore a statistical method in more depth or use the methods covered in class to analyze data from a survey with complex sampling design.
+This is the only way to learn about survey math.
+Course is extremely useful if one wants to work with surveys, but be prepared to really delve into the details of survey analysis and spend a lot of time wading through formulas and math.
+don't take unless you are really interested in the subject matter
+Don't miss this opportunity to learn about an important topic with a wonderful professor. Zaslavsky is a kind genious who is at the forefront of survey methodology, yet takes the time to know every student: an unusual combination.
